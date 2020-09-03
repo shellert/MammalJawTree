@@ -1,0 +1,33 @@
+﻿Original_Node_Name,Taxon_1,Taxon_2,Min_Date
+Hipposaurus + (Burnetiamorpha): ,Hipposaurus_boonstrai,Lemurosaurus_pricei,268.5
+Herpetoskylax + Burnetiamorpha,Herpetoskylax_hopsoni,Lemurosaurus_pricei,265
+Lemurosaurus + Leucocephalus,Lemurosaurus_pricei,Leucocephalus_wewersi,260
+Patranomodon + Dicynodontia,Pelanomodon_moschops,Dicynodon_lacerticeps,267.5
+Common ancestor of Eodicynodon and Lystrosaurus,Eodicynodon_oelofseni,Lystrosaurus_curvatus,266.5
+Common ancestor of Diictodon and Lystrosaurus,Diictodon_feliceps,Lystrosaurus_curvatus,264
+Common ancestor of Pristerodon and Lystrosaurus,Pristerodon_mackayi,Lystrosaurus_curvatus,263
+Abajudon +Endothiodon,Abajudon_kaayi,Endothiodon_bathystoma,261.5
+Endothiodon tolani + Endothiodon bathystoma,Endothiodon_tolani,Endothiodon_bathystoma,261
+Emydopoidea + Bidentalia,Emydops_oweni,Rastodon_procurvidens,262
+Dicynodontoides + Cistecephalidae,Dicynodontoides_nowacki,Cistecephalus_microrhinus,259
+Kawingasaurus + Kembawacela,Kawingasaurus_fossilis,Kembawacela_kitchingi,256
+Common ancestor of Oudenodon and Lystrosaurus,Oudenodon_bainii,Lystrosaurus_curvatus,258
+Common ancestor of Aulacephalodon and Lystrosaurus,Aulacephalodon_bainii,Lystrosaurus_curvatus,257.5
+Common ancestor of Lystrosaurus and Sangusaurus,Lystrosaurus_curvatus,Sangusaurus_edentatus,255
+Lystrosaurus declivis + Lystrosaurus murrayi,Lystrosaurus_declivis,Lystrosaurus_murrayi,253
+Gorgonopsia + Eutheriodontia,Biarmosuchus_tener,Ictidosuchus_primaevus,265.5
+Therocephalia + Cynodontia,Anteosaurus_magnificus,Dvinia_prima,265
+Akidnognathidae + Baurioidea,Cerdosuchoides_brevidens,Tetracynodon_tenuis,260.26
+Olivierosuchus + Euchambersia,Olivierosuchus_parringtoni,Euchambersia_mirabilis,257
+Common ancestor of Ictidosuchoides and Microgomphodon,Ictidosuchoides_longiceps,Microgomphodon_oligocynus,259.5
+Common ancestor of Mupashi and Microgomphodon,Mupashi_migrator,Microgomphodon_oligocynus,259
+Common ancestor of Choerosaurus and Microgomphodon,Choerosaurus_dejageri,Microgomphodon_oligocynus,258
+Common ancestor of Trirachodontidae and Massetognathus,Trirachodon_berryi,Massetognathus_pascuali,249.34
+Common ancestor of Trirachodon and Cricodon,Trirachodon_berryi,Cricodon_kannemeyeri,247.5
+Common ancestor of Scalenodon and Massetognathus,Scalenodon_attridgei,Massetognathus_pascuali,239
+Common ancestor of Luangwa and Massetognathus,Luangwa_drysdalli,Massetognathus_pascuali,238
+Common ancestor of Pseudotherium and Tritylodontidae,Pseudotherium_argentinus,Oligokyphus_lufengensis,232
+Common ancestor of Tritylodon and Oligokyphus,Tritylodon_longaevus,Oligokyphus_lufengensis,204.9
+Common ancestor of Morganucodon and Megazostrodon,Morganucodon_oehleri,Megazostrodon_rudnerae,208.5
+Archaeothyris_florensis + Archaeothyris_florensis,Archaeothyris_florensis,Archaeothyris_florensis,320
+fake node to root tree,Archaeothyris_florensis,Oedaleops_campi,320
