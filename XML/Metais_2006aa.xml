@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List recon_name="Gobiohyus_orientalis,Gobiohyus_pressidens,Gobiohyus_reshetovi,Gobiohyus_robustus" recon_no="142993;142994;162157;142995">Gobiohyus</List>
+		<List recon_name="Diacodexis_pakistanensis" recon_no="68275">Diacodexis_pakistanensis</List>
+		<List recon_name="Chriacus_badgleyi,Chriacus_baldwini,Chriacus_calenancus,Chriacus_gallinae,Chriacus_katrinae,Chriacus_truncatus,Tricentes_subtrigonus" recon_no="45076;45077;45078;45079;45082;45096;52431">Chriacus</List>
+		<List recon_name="Simimeryx_hudsoni,Simimeryx_minutus" recon_no="51563;51564">Simimeryx</List>
+		<List recon_name="Hypertragulus_calcaratus,Hypertragulus_heikeni,Hypertragulus_hesperius,Hypertragulus_planiceps" recon_no="47198;47203;47204;47208">Hypertragulus</List>
+		<List recon_name="Praetragulus_electus,Praetragulus_gobiae" recon_no="332191;332193">Praetragulus</List>
+		<List recon_name="Leptomeryx_agatensis,Leptomeryx_antecedens,Leptomeryx_blacki,Leptomeryx_elissae,Leptomeryx_esulcatus,Leptomeryx_evansi,Leptomeryx_exilis,Leptomeryx_mammifer,Leptomeryx_obliquidens,Leptomeryx_semicinctus,Leptomeryx_significans,Leptomeryx_speciosus,Leptomeryx_yoderi" recon_no="47581;47582;47583;47586;47587;47588;47589;47591;47594;47595;47596;47597;47599">Leptomeryx</List>
+		<List recon_name="Lophiomeryx_angarae,Lophiomeryx_benarensis,Lophiomeryx_chalaniati,Lophiomeryx_kargilensis,Lophiomeryx_mouchelini" recon_no="332200;347942;104698;344570;349726">Lophiomeryx</List>
+		<List recon_name="Krabimeryx_primitivus" recon_no="116563">Krabimeryx</List>
+		<List recon_name="Archaeotragulus_krabiensis" recon_no="116559">Archaeotragulus</List>
+		<List recon_name="Siamotragulus_haripounchai,Siamotragulus_sanyathanai" recon_no="234196;352951">Siamotragulus</List>
+		<List recon_name="Tragulus_javanicus,Tragulus_kanchil,Tragulus,Tragulus_napu,Tragulus_nigricans" recon_no="149379;234264;233826;149377;234277">Tragulus</List>
+		<List recon_name="Hyemoschus_aquaticus" recon_no="238401">Hyemoschus</List>
+		<List recon_name="Iberomeryx_minor,Iberomeryx_parvus" recon_no="348852;347939">Iberomeryx</List>
+		<List recon_name="Bachitherium_curtum,Bachitherium_guirounetensis,Bachitherium_insigne,Bachitherium_lavocati,Bachitherium_thraciensis,Bachitherium_vireti" recon_no="95923;352968;352966;348566;368558;352967">Bachitherium</List>
+		<List recon_name="Gelocus_communis,Gelocus_laubei,Gelocus_minor,Gelocus_villebramarensis" recon_no="349727;349729;352952;349728">Gelocus</List>
+		<List recon_name="Prodremotherium_beatrix,Prodremotherium_elongatum,Prodremotherium_flerowi,Prodremotherium_trepidum" recon_no="352957;348567;352958;347941">Prodremotherium</List>
+		<List recon_name="Indomeryx_arenae,Indomeryx_cotteri" recon_no="345313;336255">Indomeryx</List>
+		<List recon_name="Notomeryx_besensis,Notomeryx_major" recon_no="336256;336258">Notomeryx</List>
+		<List recon_name="Gobiomeryx_dubius" recon_no="347101">Gobiomeryx</List>
+		<List recon_name="Archaeomeryx_optatus" recon_no="337968">Archaeomeryx</List>
+		<List recon_name="Thandaungia_tinti" recon_no="106899">Thandaungia</List>
+		<List recon_name="Zhailimeryx_jingweni" recon_no="344588">Zhailimeryx</List>
+		<List recon_name="Xinjiangmeryx_parvus" recon_no="352961">Xinjiangmeryx</List>
+		<List recon_name="Miomeryx_altaicus" recon_no="332202">Miomeryx</List>
+		<List recon_name="Eumeryx_culminis,Eumeryx_imbellis" recon_no="108955;347106">Eumeryx</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Metais_2006aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

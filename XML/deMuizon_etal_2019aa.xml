@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> deMuizon, C. </List>
+			<List> Bianucci, G. </List>
+			<List> Martínez-Cáceres, M. </List>
+			<List> Lambert, O. </List>
+		</Author>
+		<Year>2019</Year>
+		<Title>Mystacodon selenensis, the earliest known toothed mysticete (Cetacea, Mammalia) from the late Eocene of Peru: anatomy, phylogeny, and feeding adaptations</Title>
+		<Journal>Geodiversitas</Journal>
+		<Volume>41(1)</Volume>
+		<Pages>401-499</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="43">
+		<List recon_name="Zygorhiza_kochii" recon_no="53292">Zygorhiza_kochii</List>
+		<List recon_name="Cynthiacetus_peruvianus" recon_no="185633">Cynthiacetus_peruvianus</List>
+		<List recon_name="Archaeodelphis_patrius" recon_no="63246">Archaeodelphis_patrius</List>
+		<List recon_name="Simocetus_rayi" recon_no="63231">Simocetus_rayii</List>
+		<List recon_name="Waipatia_maerewhenua" recon_no="62904">Waipatia_maerewhenua</List>
+		<List recon_name="Squalodon_bariensis,Squalodon_calvertensis" recon_no="53157;68288">Squalodon_spp</List>
+		<List recon_name="Tursiops_truncatus" recon_no="64472">Tursiops_truncatus</List>
+		<List recon_name="Physeter_macrocephalus" recon_no="68698">Physeter_macrocephalus</List>
+		<List recon_name="Mystacodon_selenensis" recon_no="353130">Mystacodon_selenensis</List>
+		<List recon_name="Llanocetus_denticrenatus" recon_no="63221">Llanocetus_denticrenatus</List>
+		<List recon_name="Coronodon_havensteini" recon_no="356268">Coronodon_havensteini</List>
+		<List recon_name="Janjucetus_hunderi" recon_no="84035">Janjucetus_hunderi</List>
+		<List recon_name="Mammalodon_colliveri" recon_no="63222">Mammalodon_colliveri</List>
+		<List recon_name="Fucaia_goedertorum" recon_no="333954">Fucaia_goedertorum</List>
+		<List recon_name="Aetiocetus_cotylalveus" recon_no="63473">Aetiocetus_cotylalveus</List>
+		<List recon_name="Aetiocetus_polydentatus" recon_no="63484">Aetiocetus_polydentatus</List>
+		<List recon_name="Aetiocetus_weltoni" recon_no="63483">Aetiocetus_weltoni</List>
+		<List recon_name="DELETE" recon_no="-1">ChM_PV4745</List>
+		<List recon_name="DELETE" recon_no="-1">ChM_PV5720</List>
+		<List recon_name="Micromysticetus_rothauseni" recon_no="63465">Micromysticetus_rothauseni</List>
+		<List recon_name="Yamatocetus_canaliculatus" recon_no="247312">Yamatocetus_canaliculatus</List>
+		<List recon_name="Eomysticetus_whitmorei" recon_no="63469">Eomysticetus_whitmorei</List>
+		<List recon_name="Morenocetus_parvus" recon_no="64479">Morenocetus_parvus</List>
+		<List recon_name="Balaena_mysticetus" recon_no="64683">Balaena_mysticetus</List>
+		<List recon_name="Eubalaena_australis,Eubalaena_glacialis,Eubalaena_japonica" recon_no="67679;80716;128802">Eubalaena_spp</List>
+		<List recon_name="Caperea_marginata" recon_no="77391">Caperea_marginata</List>
+		<List recon_name="Miocaperea_pulchra" recon_no="254040">Miocaperea_pulchra</List>
+		<List recon_name="Cetotherium_rathkii" recon_no="64469">Cetotherium_rathkii</List>
+		<List recon_name="Cetotherium_riabinini" recon_no="264012">Cetotherium_riabinini</List>
+		<List recon_name="Piscobalaena_nana" recon_no="63933">Piscobalaena_nana</List>
+		<List recon_name="Herpetocetus_morrowi" recon_no="288162">Herpetocetus_morrowi</List>
+		<List recon_name="Herpetocetus_transatlanticus" recon_no="114673">Herpetocetus_transatlanticus</List>
+		<List recon_name="Herpetocetus_bramblei" recon_no="114675">Herpetocetus_bramblei</List>
+		<List recon_name="Diorocetus_hiatus" recon_no="62951">Diorocetus_hiatus</List>
+		<List recon_name="Aglaocetus_patulus" recon_no="62952">Aglaocetus_patulus</List>
+		<List recon_name="Aglaocetus_moreni" recon_no="69155">Aglaocetus_moreni</List>
+		<List recon_name="Parietobalaena_campiniana" recon_no="256074">Parietobalaena_campiniana</List>
+		<List recon_name="Parietobalaena_palmeri" recon_no="62938">Parietobalaena_palmeri</List>
+		<List recon_name="Pelocetus_calvertensis" recon_no="62945">Pelocetus_calvertensis</List>
+		<List recon_name="Eschrichtius_robustus" recon_no="81900">Eschrichtius_robustus</List>
+		<List recon_name="Megaptera_novaeangliae" recon_no="70685">Megaptera_novaeangliae</List>
+		<List recon_name="Balaenoptera_acutorostrata" recon_no="68469">Balaenoptera_acutorostrata</List>
+		<List recon_name="Balaenoptera_physalus" recon_no="64490">Balaenoptera_physalus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>deMuizon_etal_2019aa</Filename>
+	<Parent>Fordyce_et_Marx_2018aa</Parent>
+	<Sibling/>
+</SourceTree>

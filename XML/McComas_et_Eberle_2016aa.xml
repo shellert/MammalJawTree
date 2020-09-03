@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List recon_name="Scollardius_propalaeoryctes,Ambilestes_cerberoides" recon_no="331297;331295">Cimolestes_spp</List>
+		<List recon_name="Gypsonictops_hypoconus,Gypsonictops_illuminatus,Gypsonictops_lewisi" recon_no="46754;46755;46756">Gypsonictops_spp</List>
+		<List recon_name="Sigynorum_magnadivisus" recon_no="331088">Sigynorum_magnadivisus</List>
+		<List recon_name="Oxyprimus_erikseni" recon_no="49568">Oxyprimus_erikseni</List>
+		<List recon_name="Oxyprimus_galadrielae" recon_no="49569">Oxyprimus_galadrielae</List>
+		<List recon_name="Protungulatum_donnae" recon_no="51116">Protungulatum_donnae</List>
+		<List recon_name="Mimatuta_morgoth" recon_no="48620">Mimatuta_morgoth</List>
+		<List recon_name="Mimatuta_minuial" recon_no="48619">Mimatuta_minuial</List>
+		<List recon_name="Conacodon_entoconus" recon_no="45214">Conacodon_entoconus</List>
+		<List recon_name="Conacodon_cophater" recon_no="45212">Conacodon_cophater</List>
+		<List recon_name="Conacodon_harbourae" recon_no="45215">Conacodon_harbourae</List>
+		<List recon_name="Oxyacodon_apiculatus" recon_no="49525">Oxyacodon_apiculatus</List>
+		<List recon_name="Oxyacodon_priscilla" recon_no="49530">Oxyacodon_priscilla</List>
+		<List recon_name="Carcinodon_olearyi" recon_no="246177">Carcinodon_olearyi</List>
+		<List recon_name="Ampliconus_browni" recon_no="144625">Ampliconus_browni</List>
+		<List recon_name="Mithrandir_gillianus" recon_no="48774">Mithrandir_gillianus</List>
+		<List recon_name="Baioconodon_nordicum" recon_no="225297">Baioconodon_nordicum</List>
+		<List recon_name="Baioconodon_denverensis" recon_no="44407">Baioconodon_denverensis</List>
+		<List recon_name="Maiorana_noctiluca" recon_no="47859">Maiorana_noctiluca</List>
+		<List recon_name="Alticonus_gazini" recon_no="43946">Alticonus_gazini</List>
+		<List recon_name="Auraria_urbana" recon_no="91648">Auraria_urbana</List>
+		<List recon_name="Choeroclaenus_turgidunculus" recon_no="45068">Choeroclaenus_turgidunculus</List>
+		<List recon_name="Valenia_wilsoni" recon_no="52628">Valenia_wilsoni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>McComas_et_Eberle_2016aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

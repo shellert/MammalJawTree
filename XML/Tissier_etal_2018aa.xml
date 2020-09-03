@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List recon_name="Sellamynodon_zimborensis" recon_no="371063">Sellamynodon_zimborensis</List>
+		<List recon_name="UBB_MPS_V545,UBB_MPS_V546,HNHM_PAL_2017.54.1" recon_no="43170">Amynodontopsis_aff_bodei</List>
+		<List recon_name="Cadurcotherium_cayluxi" recon_no="348605">Cadurcotherium_cayluxi</List>
+		<List recon_name="Cadurcotherium_minus" recon_no="347517">Cadurcotherium_minus</List>
+		<List recon_name="Sharamynodon_mongoliensis" recon_no="332922">Sharamynodon_mongoliensis</List>
+		<List recon_name="Cadurcodon_ardynensis" recon_no="337976">Cadurcodon_ardynensis</List>
+		<List recon_name="Cadurcodon_kazakademius" recon_no="337973">Cadurcodon_kazakademius</List>
+		<List recon_name="Zaisanamynodon_borisovi" recon_no="337979">Zaisanamynodon_borisovi</List>
+		<List recon_name="Zaisanamynodon_protheroi" recon_no="348220">Zaisanamynodon_protheroi</List>
+		<List recon_name="Tapirus_terrestris" recon_no="83610">Tapirus_terrestris</List>
+		<List recon_name="Hyrachyus_eximius" recon_no="47274">Hyrachyus_eximius</List>
+		<List recon_name="Trigonias_osborni" recon_no="52444">Trigonias_osborni</List>
+		<List recon_name="Ronzotherium_filholi" recon_no="347518">Ronzotherium_filholi</List>
+		<List recon_name="Aceratherium_incisivum" recon_no="90213">Aceratherium_incisivum</List>
+		<List recon_name="Amynodon_advenus" recon_no="44005">Amynodon_advenus</List>
+		<List recon_name="Amynodontopsis_bodei" recon_no="44010">Amynodontopsis_bodei</List>
+		<List recon_name="Amynodon_reedi" recon_no="44009">Amynodon_reedi_A_in_quotes</List>
+		<List recon_name="Rostriamynodon_grangeri" recon_no="116199">Rostriamynodon_grangeri</List>
+		<List recon_name="Sianodon_gaowangouensis" recon_no="333451">Sianodon_gaowangouensis</List>
+		<List recon_name="Cadurcodon_bahoensis" recon_no="348235">Cadurcodon_bahoensis</List>
+		<List recon_name="Megalamynodon_regalis" recon_no="48006">Megalamynodon_regalis</List>
+		<List recon_name="Paramynodon_birmanicus" recon_no="-1">Paramynodon_birmanicus</List>
+		<List recon_name="Metamynodon_planifrons" recon_no="48447">Metamynodon_planifrons</List>
+		<List recon_name="Hyracodon_nebraskensis" recon_no="47298">Hyracodon_nebraskensis</List>
+		<List recon_name="Protapirus_simplex" recon_no="50937">Protapirus_simplex</List>
+		<List recon_name="Cadurcodon_maomingensis" recon_no="348237">Cadurcodon_maomingensis</List>
+		<List recon_name="Paraceratherium_bugtiense" recon_no="238109">Paraceratherium_bugtiense</List>
+		<List recon_name="Paraceratherium_asiaticum" recon_no="348096">Paraceratherium_transouralicum</List>
+		<List recon_name="Proeggysodon_qiui" recon_no="336048">Proeggysodon_qiui</List>
+		<List recon_name="Pappaceras_meiomenus" recon_no="348686">Pappaceras_meiomenus_P_in_quotes</List>
+		<List recon_name="Allacerops_turgaica" recon_no="53411">Allacerops_turgaica</List>
+		<List recon_name="Hyrachyus_princeps" recon_no="47285">Hyrachyus_princeps</List>
+		<List recon_name="Uintaceras_radinskyi" recon_no="52547">Uintaceras_radinskyi</List>
+		<List recon_name="Pappaceras_confluens" recon_no="348108">Pappaceras_confluens</List>
+		<List recon_name="Teletaceras_radinskyi" recon_no="52132">Teletaceras_radinskyi</List>
+		<List recon_name="Eggysodon_osborni" recon_no="347632">Eggysodon_osborni</List>
+		<List recon_name="Triplopus_obliquidens" recon_no="52508">Triplopus_obliquidens</List>
+		<List recon_name="Urtinotherium_intermedium" recon_no="348089">Urtinotherium_intermedium</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tissier_etal_2018aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

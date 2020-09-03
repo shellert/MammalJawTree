@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List recon_name="Leptictis_dakotensis" recon_no="47557">Leptictis</List>
+		<List recon_name="Hyaenodon_cruentus" recon_no="47125">Hyaenodon</List>
+		<List recon_name="DELETE" recon_no="-1">Thinocyon_sp</List>
+		<List recon_name="Echinosorex_gymnurus" recon_no="237495">Echinosorex_gymnurus</List>
+		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus_europaeus</List>
+		<List recon_name="Oodectes_herpestoides" recon_no="49355">Oodectes_herpestoides</List>
+		<List recon_name="Vulpavus_profectus" recon_no="52682">Vulpavus_profectus</List>
+		<List recon_name="Vulpavus_palustris" recon_no="52680">Vulpavus_palustris</List>
+		<List recon_name="Vulpavus_(Phlaodectes)_ovatus" recon_no="381678">Vulpavus_ovatus</List>
+		<List recon_name="Miacis_parvivorus" recon_no="48492">Miacis_parvivorus</List>
+		<List recon_name="Dawsonicyon_isami" recon_no="240062">Dawsonicyon_isami</List>
+		<List recon_name="Miacis_petilus" recon_no="48493">Miacis_petilus</List>
+		<List recon_name="Miacis_washakius" recon_no="48498">Miacis_washakius</List>
+		<List recon_name="Miacis_sylvestris" recon_no="48495">Miacis_sylvestris</List>
+		<List recon_name="Procynodictis_vulpiceps" recon_no="50728">Procynodictis_vulpiceps</List>
+		<List recon_name="Miacis_uintensis" recon_no="48496">Miacis_uintensis</List>
+		<List recon_name="Tapocyon_robustus" recon_no="52074">Tapocyon_robustus</List>
+		<List recon_name="Quercygale_angustidens" recon_no="57927">Quercygale</List>
+		<List recon_name="Protictis_schaffi" recon_no="50964">Protictis_schaffi</List>
+		<List recon_name="Viverravus_acutus" recon_no="52659">Viverravus_acutus</List>
+		<List recon_name="Viverravus_minutus" recon_no="52666">Viverravus_minutus</List>
+		<List recon_name="Viverravus_gracilis" recon_no="52662">Viverravus_gracilis</List>
+		<List recon_name="Didymictis_protenus" recon_no="45733">Didymictis_protenus</List>
+		<List recon_name="Didymictis_vancleveae" recon_no="45736">Didymictis_vancleveae</List>
+		<List recon_name="Hesperocyon_gregarius" recon_no="46911">Hesperocyon_gregarious</List>
+		<List recon_name="Otarocyon_macdonaldi" recon_no="49485">Otarocyon</List>
+		<List recon_name="DELETE" recon_no="-1">Daphoenus_sp</List>
+		<List recon_name="Miacis_cognitus" recon_no="48481">Miacis_cognitus</List>
+		<List recon_name="Canis_latrans" recon_no="44854">Canis_latrans</List>
+		<List recon_name="Mephitis_mephitis" recon_no="48141">Mephitis_mephitis</List>
+		<List recon_name="Gulo_gulo" recon_no="46742">Gulo_gulo</List>
+		<List recon_name="Ursus_americanus,Ursus_arctos,Ursus_malayanus,Ursus_maritimus,Ursus_thibetanus" recon_no="52602;52604;104033;52609;104029">Ursus</List>
+		<List recon_name="Zalophus_californianus,Zalophus_wollebaeki,Phocarctos_hookeri,Otaria_flavescens,Neophoca_cinerea,Eumetopias_jubata,Callorhinus_ursinus,Arctocephalus_townsendi,Arctocephalus_tropicalis,Arctocephalus_gazella,Arctocephalus_philippii,Arctocephalus_forsteri,Arctocephalus_galapagoensis,Arctocephalus_pusillus" recon_no="96087;365341;72199;148542;71852;72201;72012;71846;71845;71844;71847;71848;71850;71843">Otariidae</List>
+		<List recon_name="Pteronarctos_goedertae" recon_no="71885">Pteronarctos_goedertae</List>
+		<List recon_name="Procyon_lotor" recon_no="50729">Procyon_lotor</List>
+		<List recon_name="Ailurus_fulgens" recon_no="157499">Ailurus_fulgens</List>
+		<List recon_name="Hoplophoneus_cerebralis,Hoplophoneus_dakotensis,Hoplophoneus_occidentalis,Hoplophoneus_oharrai,Hoplophoneus_primaevus,Hoplophoneus_strigidens" recon_no="47095;47096;47104;47105;47108;47111">Hoplophoneus</List>
+		<List recon_name="Dinictis_felina" recon_no="45752">Dinictis</List>
+		<List recon_name="Nandinia_binotata" recon_no="232070">Nandinia_binotata</List>
+		<List recon_name="Hyaena_hyaena" recon_no="232134">Hyaena_hyaena</List>
+		<List recon_name="Civettictis_civetta" recon_no="231967">Civettictis_civetta</List>
+		<List recon_name="Felis_concolor" recon_no="46513">Felis_concolor</List>
+		<List recon_name="Herpestes_edwardsii,Herpestes_ichneumon,Herpestes_naso,Herpestes_smithii,Herpestes_urva,Herpestes_vitticollis" recon_no="236581;206226;236711;236492;240142;232141">Herpestes</List>
+		<List recon_name="Zodiolestes_daimonelixensis" recon_no="52753">Zodiolestes</List>
+		<List recon_name="Palaeoprionodon_lamandini" recon_no="97816">Palaeoprionodon</List>
+		<List recon_name="Viretictis_julieni" recon_no="348941">Stenogale</List>
+		<List recon_name="Proailurus_lemanensis" recon_no="97817">Proailurus</List>
+		<List recon_name="Herpestides_antiquus" recon_no="97061">Herpestides_antiquus</List>
+		<List recon_name="Miacis_exiguus" recon_no="48483">Miacis_exiguus</List>
+		<List recon_name="Miacis_medius" recon_no="48491">Miacis_medius</List>
+		<List recon_name="DELETE" recon_no="-1">PM_3868</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Spaulding_et_Flynn_2012aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

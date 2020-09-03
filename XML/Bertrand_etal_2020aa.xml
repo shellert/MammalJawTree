@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List recon_name="Caluromys_philander" recon_no="233578">Caluromys</List>
+		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium</List>
+		<List recon_name="Kulbeckia_kulbecke" recon_no="137977">Kulbeckia</List>
+		<List recon_name="Zalambdalestes_lechei" recon_no="70459">Zalambdalestes</List>
+		<List recon_name="Chilecebus_carrascoensis" recon_no="165994">Chilecebus</List>
+		<List recon_name="UFRJ_DG" recon_no="-1">UFRJ_DG</List>
+		<List recon_name="MNHN_F_BRD" recon_no="-1">MNHN_F_BRD</List>
+		<List recon_name="Altitypotherium_chucalensis" recon_no="258868">Altitypotherium</List>
+		<List recon_name="Pachyrukhos_moyani" recon_no="399315">Pachyrukhos</List>
+		<List recon_name="Cochilius_columnifer,Cochilius_fumensis,Cochilius_pendens,Cochilius_volvens" recon_no="318553;271221;318552;318551">Cochilius</List>
+		<List recon_name="Notostylops_murinus" recon_no="187992">Notostylops</List>
+		<List recon_name="Alcidedorbignya_inopinata" recon_no="165549">Alcidedorbignya_inopinata</List>
+		<List recon_name="Carsioptychus_coarctatus" recon_no="44953">Carsioptychus_coarctatus</List>
+		<List recon_name="Hyopsodus_lepidus" recon_no="47172">Hyopsodus_lepidus</List>
+		<List recon_name="Diacodexis_ilicis" recon_no="45620">Diacodexis_ilicis</List>
+		<List recon_name="Protungulatum_donnae,Protungulatum_gorgun,Protungulatum_mckeeveri" recon_no="51116;51117;51118">Protungulatum_sp</List>
+		<List recon_name="Chriacus_pelvidens" recon_no="45086">Chriacus_pelvidens</List>
+		<List recon_name="Chriacus_baldwini" recon_no="45077">Chriacus_baldwini</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bertrand_etal_2020aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

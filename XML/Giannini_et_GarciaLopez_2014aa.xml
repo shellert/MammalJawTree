@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List recon_name="Simpsonotus_praecursor" recon_no="334572">Simpsonotus</List>
+		<List recon_name="Brachystephanus_postremus" recon_no="336547">Brachystephanus</List>
+		<List recon_name="Notostylops_murinus" recon_no="187992">Notostylops</List>
+		<List recon_name="Boreastylops_lumbrerensis" recon_no="334570">Boreastylops</List>
+		<List recon_name="Pyrotherium_romerii" recon_no="243411">Pyrotherium</List>
+		<List recon_name="Thomashuxleya_externa,Thomashuxleya_rostrata" recon_no="314734;314731">Thomashuxleya</List>
+		<List recon_name="Pampahippus_arenalesi" recon_no="58184">Pampahippus</List>
+		<List recon_name="Homalodotherium_segoviae" recon_no="399307">Homalodotherium</List>
+		<List recon_name="Coquenia_bondi" recon_no="334578">Coquenia</List>
+		<List recon_name="Scarrittia_canquelensis" recon_no="335639">Scarrittia</List>
+		<List recon_name="Leontinia_gaudryi" recon_no="53688">Leontinia</List>
+		<List recon_name="Eurygenium_latirostris" recon_no="53698">Eurygenium</List>
+		<List recon_name="Adinotherium_ovinum,Adinotherium_robustum" recon_no="243020;243025">Adinotherium</List>
+		<List recon_name="Nesodon_imbricatus" recon_no="240095">Nesodon</List>
+		<List recon_name="Toxodon_platensis" recon_no="117319">Toxodon</List>
+		<List recon_name="Trigodon_gaudryi" recon_no="151118">Trigodon</List>
+		<List recon_name="Colbertia_lumbrerense" recon_no="356214">Colbertia</List>
+		<List recon_name="Oldfieldthomasia_debilitata" recon_no="65752">Oldfieldthomasia</List>
+		<List recon_name="Campanorco_inauguralis" recon_no="337106">Campanorco</List>
+		<List recon_name="Notopithecus_adapinus" recon_no="65749">Notopithecus</List>
+		<List recon_name="Protypotherium" recon_no="43422">Protypotherium</List>
+		<List recon_name="Interatherium_anguliferum" recon_no="242964">Interatherium</List>
+		<List recon_name="Griphotherion_peiranoi" recon_no="334580">Griphotherion</List>
+		<List recon_name="Trachytherus_spegazzinianus,Trachytherus_alloxus" recon_no="187919;247970">Trachytherus</List>
+		<List recon_name="Mesotherium_cristatum" recon_no="240035">Mesotherium</List>
+		<List recon_name="Archaeohyrax_patagonicus" recon_no="187922">Archaeohyrax</List>
+		<List recon_name="Hegetotherium_mirabile" recon_no="242972">Hegetotherium</List>
+		<List recon_name="Pachyrukhos_moyani" recon_no="399315">Pachyrukhos</List>
+		<List recon_name="Paedotherium_bonaerense,Paedotherium_isolinense,Paedotherium_kakai,Paedotherium_minor,Paedotherium_typicum" recon_no="263257;423489;367157;263279;120179">Paedotherium</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Giannini_et_GarciaLopez_2014aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

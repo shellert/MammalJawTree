@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="43">
+		<List recon_name="OG_Dummy" recon_no="-1">OG_Dummy</List>
+		<List recon_name="Protungulatum_donnae" recon_no="51116">Protungulatum_donnae</List>
+		<List recon_name="Mithrandir_gillianus" recon_no="48774">Mithrandir_gillianus</List>
+		<List recon_name="Altacreodus_magnus" recon_no="331293">Altacreodus_magnus</List>
+		<List recon_name="Arfia_spp" recon_no="-1">Arfia_spp</List>
+		<List recon_name="Prolimnocyon_spp" recon_no="-1">Prolimnocyon_spp</List>
+		<List recon_name="Thinocyon_spp" recon_no="-1">Thinocyon_spp</List>
+		<List recon_name="Limnocyon_spp" recon_no="-1">Limnocyon_spp</List>
+		<List recon_name="Galecyon_spp" recon_no="-1">Galecyon_spp</List>
+		<List recon_name="Prototomus_martis" recon_no="51108">Prototomus_martis</List>
+		<List recon_name="Pyrocyon_strenuus" recon_no="424632">Pyrocyon_strenuus</List>
+		<List recon_name="Prototomus_phobos" recon_no="51110">Prototomus_phobos</List>
+		<List recon_name="Tritemnodon_agilis" recon_no="52514">Tritemnodon_agilis</List>
+		<List recon_name="Sinopa_spp" recon_no="-1">Sinopa_spp</List>
+		<List recon_name="Tytthaena_parrisi" recon_no="52546">Tytthaena_parrisi</List>
+		<List recon_name="Palaeonictis_occidentalis" recon_no="49675">Palaeonictis_occidentalis</List>
+		<List recon_name="Dipsalidictis_krausei" recon_no="45861">Dipsalidictis_krausei</List>
+		<List recon_name="Oxyaena_spp" recon_no="-1">Oxyaena_spp</List>
+		<List recon_name="Machaeroides_spp" recon_no="-1">Machaeroides_spp</List>
+		<List recon_name="CM_2386" recon_no="-1">CM_2386</List>
+		<List recon_name="Ictidopappus_mustelinus" recon_no="47336">Ictidopappus_mustelinus</List>
+		<List recon_name="Protictis_haydenianus" recon_no="50959">Protictis_haydenianus</List>
+		<List recon_name="Bryanictis_microlestes" recon_no="44716">Bryanictis_microlestes</List>
+		<List recon_name="Simpsonictis_spp" recon_no="-1">Simpsonictis_spp</List>
+		<List recon_name="Viverravus_schaffi" recon_no="358991">Viverravus_schaffi</List>
+		<List recon_name="Viverravus_minutus" recon_no="52666">Viverravus_minutus</List>
+		<List recon_name="Viverravus_gracilis" recon_no="52662">Viverravus_gracilis</List>
+		<List recon_name="Viverravus_acutus" recon_no="52659">Viverravus_acutus</List>
+		<List recon_name="Didymictis_spp" recon_no="-1">Didymictis_spp</List>
+		<List recon_name="Uintacyon_gingerichi" recon_no="288526">Uintacyon_gingerichi</List>
+		<List recon_name="Uintacyon_massetericus" recon_no="52557">Uintacyon_massetericus</List>
+		<List recon_name="Vassacyon_promicrodon" recon_no="52632">Vassacyon_promicrodon</List>
+		<List recon_name="Gracilocyon_spp" recon_no="-1">Gracilocyon_spp</List>
+		<List recon_name="Dormaalocyon_latouri" recon_no="331899">Dormaalocyon_latouri</List>
+		<List recon_name="Vulpavus_australis" recon_no="52674">Vulpavus_australis</List>
+		<List recon_name="Vulpavus_ovatus" recon_no="-1">Vulpavus_ovatus</List>
+		<List recon_name="Vulpavus_profectus" recon_no="52682">Vulpavus_profectus</List>
+		<List recon_name="Vulpavus_palustris" recon_no="52680">Vulpavus_palustris</List>
+		<List recon_name="Oodectes_jepseni" recon_no="49356">Oodectes_jepseni</List>
+		<List recon_name="Oodectes_herpestoides" recon_no="49355">Oodectes_herpestoides</List>
+		<List recon_name="Miacis_exiguus" recon_no="48483">Miacis_exiguus</List>
+		<List recon_name="Miacis_petilus" recon_no="48493">Miacis_petilus</List>
+		<List recon_name="Miacis_parvivorus" recon_no="48492">Miacis_parvivorus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zack_2019aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

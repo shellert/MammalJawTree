@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List recon_name="Radinskya_yupingae" recon_no="309330">Radinskya</List>
+		<List recon_name="Phenacodus_primaevus,Phenacodus_bisonensis,Phenacodus_grangeri,Phenacodus_intermedius,Phenacodus_magnus,Phenacodus_trilobatus,Phenacodus_vortmani" recon_no="308215;50302;50307;50309;50312;50320;50321">Phenacodus</List>
+		<List recon_name="Cambaytherium" recon_no="68278">Cambaytherium</List>
+		<List recon_name="Hallensia_matthesi" recon_no="-1">Hallensia_matthesi</List>
+		<List recon_name="Hyracotherium_leporinum" recon_no="307875">Hyracotherium_leporinum</List>
+		<List recon_name="Cymbalophus_cuniculus" recon_no="307877">Cymbalophus</List>
+		<List recon_name="Sifrhippus_sandrae" recon_no="223570">Sifrhippus</List>
+		<List recon_name="Cardiolophus_radinskyi" recon_no="44924">Cardiolophus</List>
+		<List recon_name="Orientolophus_hengdongensis" recon_no="91635">Orientolophus</List>
+		<List recon_name="Lambdotherium_popoagicum" recon_no="47471">Lambdotherium</List>
+		<List recon_name="Ectocion_cedrus,Ectocion_collinus,Ectocion_major,Ectocion_mediotuber,Ectocion_osbornianus,Ectocion_parvus,Ectocion_superstes" recon_no="45965;45966;45968;45969;45971;45972;45974">Ectocion</List>
+		<List recon_name="Karagalax_mamikhelensis" recon_no="108547">Karagalax</List>
+		<List recon_name="Pachynolophus_eulaliensis" recon_no="347905">Pachynolophus_eulaliensis</List>
+		<List recon_name="Pliolophus_quesnoyensis" recon_no="357646">Pliolophus_quesnoyensis</List>
+		<List recon_name="Protomoropus_hengyangensis" recon_no="379472">Protomoropus</List>
+		<List recon_name="Homogalax_wutuensis" recon_no="345905">Homogalax_wutuensis</List>
+		<List recon_name="Lophiaspis_baicherei,Lophiaspis_maurettei,Lophiaspis_occitanicus" recon_no="347795;118643;347796">Lophiaspis</List>
+		<List recon_name="Paleomoropus_jepseni" recon_no="49721">Paleomoropus</List>
+		<List recon_name="Litolophus_gobiensis" recon_no="347409">Litolophus</List>
+		<List recon_name="Eolophiodon_laboriense" recon_no="347794">Eolophiodon</List>
+		<List recon_name="Eomoropus_amarorum" recon_no="46174">Eomoropus</List>
+		<List recon_name="Heptodon_calciculus,Heptodon_posticus" recon_no="46883;46884">Heptodon</List>
+		<List recon_name="Ghazijhippus_talibhasani" recon_no="345422">Ghazijhippus</List>
+		<List recon_name="Erihippus_tingae" recon_no="379474">Erihippus_tingae</List>
+		<List recon_name="Arenahippus_grangeri" recon_no="223572">Arenahippus</List>
+		<List recon_name="Propachynolophus_gaudryi" recon_no="-1">Propachynolophus_gaudryi</List>
+		<List recon_name="Chowliia_laoshanensis" recon_no="348464">Chowliia</List>
+		<List recon_name="Cambaylophus" recon_no="-1">Cambaylophus</List>
+		<List recon_name="Gandheralophus" recon_no="344589">Gandheralophus</List>
+		<List recon_name="Minchenoletes_erlianensis" recon_no="336014">Minchenletes</List>
+		<List recon_name="Danjiangia_lambdodon" recon_no="379475">Danjiangia_lambdodon</List>
+		<List recon_name="Protomoropus_hengyangensis" recon_no="379472">Protomoropus_hengyangensis</List>
+		<List recon_name="Pappomoropus_taishanensis" recon_no="348462">Pappamoropus</List>
+		<List recon_name="Danjiangia_pingi" recon_no="333311">Danjiangia_pingi</List>
+		<List recon_name="Propalaeotherium_sinense" recon_no="58312">Propalaeotherium_sinense</List>
+		<List recon_name="Eotitanops_borealis,Eotitanops_dayi,Eotitanops_pakistanensis" recon_no="46182;62976;169823">Eotitanops</List>
+		<List recon_name="Protorohippus_venticolus" recon_no="51085">Protorohippus_venticolus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bai_etal_2018aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

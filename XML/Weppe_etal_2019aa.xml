@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List recon_name="Dichobune_leporina" recon_no="347535">Dichobune_leporina</List>
+		<List recon_name="Eurodexis_russelli" recon_no="347601">Eurodexis_russelli</List>
+		<List recon_name="Paroxacron_valdense" recon_no="63124">Paroxacron_valdense</List>
+		<List recon_name="Paroxacron_bergeri" recon_no="77369">Paroxacron_bergeri</List>
+		<List recon_name="Oxacron_courtoisi" recon_no="347754">Oxacron_courtoisii</List>
+		<List recon_name="Plesiomeryx_huerzeleri" recon_no="77371">Plesiomeryx_huerzeleri</List>
+		<List recon_name="Plesiomeryx_cadurcensis" recon_no="63103">Plesiomeryx_cadurcensis</List>
+		<List recon_name="Caenomeryx_procommunis" recon_no="63106">Caenomeryx_procommunis</List>
+		<List recon_name="Caenomeryx_filholi" recon_no="77398">Caenomeryx_filholi</List>
+		<List recon_name="Cainotherium_laticurvatum" recon_no="347757">Cainotherium_laticurvatum</List>
+		<List recon_name="Robiacina_minuta" recon_no="67475">Robiacina_minuta</List>
+		<List recon_name="Robiacina_quercyi" recon_no="347753">Robiacina_quercyi</List>
+		<List recon_name="Robiacina_lavergnensis" recon_no="347751">Robiacina_lavergnensis</List>
+		<List recon_name="Dacrytherium_ovinum" recon_no="347306">Dacrytherium_ovinum</List>
+		<List recon_name="Anoplotherium_latipes" recon_no="163801">Anoplotherium_latipes</List>
+		<List recon_name="Mixtotherium_cuspidatum" recon_no="347743">Mixtotherium_cuspidatum</List>
+		<List recon_name="Parvitragulus_priscus" recon_no="50025">Parvitragulus_priscus</List>
+		<List recon_name="Lophiomeryx_chalaniati" recon_no="104698">Lophiomeryx_chalaniati</List>
+		<List recon_name="Archaeomeryx_optatus" recon_no="337968">Archaeomeryx_optatus</List>
+		<List recon_name="Amphimeryx_murinus" recon_no="347787">Amphimeryx_murinus</List>
+		<List recon_name="Xiphodon_castrense" recon_no="67476">Xiphodon_castrense</List>
+		<List recon_name="Paratoceras_coatesi" recon_no="366657">Paratoceras_coatesi</List>
+		<List recon_name="Eotylopus_reedi" recon_no="46194">Eotylopus_reedi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Weppe_etal_2019aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

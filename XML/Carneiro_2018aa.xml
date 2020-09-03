@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carneiro, L. M.</List>
+		</Author>
+		<Year>2018</Year>
+		<Title>A new species of <em>Varalphadon</em> (Mammalia, Metatheria, Sparassodonta) from the upper Cenomanian of southern Utah, North America: phylogenetic and biogeographic insights</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>84</Volume>
+		<Pages>88-96</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="77">
+		<List recon_name="Kielantherium_gobiense" recon_no="204152">Kielantherium_gobiense</List>
+		<List recon_name="Juramaia_sinensis" recon_no="196928">Juramaia_sinensis</List>
+		<List recon_name="Prokennalestes_abramovi" recon_no="203457">Prokennalestes_abramovi</List>
+		<List recon_name="Holoclemensia_texana" recon_no="47068">Holoclemensia_texana</List>
+		<List recon_name="Pappotherium_pattersoni" recon_no="49766">Pappotherium_pattersoni</List>
+		<List recon_name="Oklatheridium_szalayi" recon_no="204004">Oklatheridium_szalayi</List>
+		<List recon_name="Atokatheridium_boreni" recon_no="44378">Atokatheridium_boreni</List>
+		<List recon_name="Sulestes_karakshi" recon_no="137970">Sulestes_karakshi</List>
+		<List recon_name="Tsagandelta_dashzevegi" recon_no="319140">Tsagandelta_dashzevegi</List>
+		<List recon_name="Nanocuris_improvida" recon_no="109639">Nanocuris_improvida</List>
+		<List recon_name="Deltatheroides_cretacicus" recon_no="70457">Deltatheroides_cretacicus</List>
+		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium_pretrituberculare</List>
+		<List recon_name="Lotheridium_mengi" recon_no="319138">Lotheridium_mengi</List>
+		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium_reshetovi</List>
+		<List recon_name="Kokopellia_juddi" recon_no="47450">Kokopellia_juddi</List>
+		<List recon_name="Iqualadelphis_lactea" recon_no="47365">Iqualadelphis_lactea</List>
+		<List recon_name="Anchistodelphys_delicatus" recon_no="44040">Anchistodelphys_spp</List>
+		<List recon_name="Varalphadon_janetae,Varalphadon_wahweapensis" recon_no="363918;52631">Varalphadon_spp</List>
+		<List recon_name="Allqokirus_australis" recon_no="246574">Allqokirus_australis</List>
+		<List recon_name="Patene_simpsoni" recon_no="247100">Patene_simpsoni</List>
+		<List recon_name="Nemolestes_spalacotherinus" recon_no="315855">Nemolestes_spalacotherinus</List>
+		<List recon_name="Hondadelphys_fieldsi" recon_no="251322">Hondadelphys_fieldsi</List>
+		<List recon_name="Sipalocyon_gracilis" recon_no="53458">Sipalocyon_spp</List>
+		<List recon_name="Australohyaena_antiqua,Borhyaena_tuberata,Lycopsis_longirostrus,Paraborhyaena_boliviana" recon_no="337340;53751;251556;247608">Borhyaenoidea</List>
+		<List recon_name="Pariadens_kirklandi,Pariadens_mckennai" recon_no="49997;216468">Pariadens_spp</List>
+		<List recon_name="Eodelphis_browni,Eodelphis_cutleri" recon_no="46139;46140">Eodelphis_spp</List>
+		<List recon_name="Didelphodon_vorax" recon_no="45711">Didelphodon_spp</List>
+		<List recon_name="Aquiladelphis_incus,Aquiladelphis_laurae,Aquiladelphis_minor" recon_no="44201;82050;44202">Aquiladelphis_spp</List>
+		<List recon_name="Pediomys_elegans" recon_no="50063">Pediomys_elegans</List>
+		<List recon_name="Protolambda_mcgilli" recon_no="348240">Protolambda_spp</List>
+		<List recon_name="Leptalestes_cooki,Leptalestes_krejcii,Leptalestes_prokrejcii,Leptalestes_toevsi" recon_no="103964;103962;103963;168382">Leptalestes_spp</List>
+		<List recon_name="Eomicrobiotherium_matutinum,Eomicrobiotherium_mykerum" recon_no="335461;337177">Eomicrobiotherium_spp</List>
+		<List recon_name="Pachybiotherium_acclinum,Pachybiotherium_illuminatum,Pachybiotherium_minor" recon_no="318604;337175;268276">Pachybiotherium_spp</List>
+		<List recon_name="Szalinia_gracilis" recon_no="139750">Szalinia_gracilis</List>
+		<List recon_name="Gaylordia_macrocynodonta" recon_no="247083">Gaylordia_macrocynodonta</List>
+		<List recon_name="Tiulordia_floresi" recon_no="266233">Tiulordia_floresi</List>
+		<List recon_name="Minusculodelphis_minimus,Minusculodelphis_modicum" recon_no="250704;334411">Minusculodelphis_spp</List>
+		<List recon_name="Peradectes_elegans" recon_no="50116">Peradectes_spp</List>
+		<List recon_name="Thylacodon_montanensis,Thylacodon_pusillus" recon_no="253245;52295">Thylacodon_spp</List>
+		<List recon_name="Mimoperadectes_houdei,Mimoperadectes_labrus" recon_no="183882;48642">Mimoperadectes_spp</List>
+		<List recon_name="Andinodelphys_cochabambensis" recon_no="266231">Andinodelphys_cochabambensis</List>
+		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes_ferox</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys_andinus</List>
+		<List recon_name="Protalphadon_foxi,Protalphadon_lulli" recon_no="50931;50932">Protalphadon_spp</List>
+		<List recon_name="Eoalphadon_clemensi,Eoalphadon_lillegraveni,Eoalphadon_woodburnei" recon_no="253259;253260;253261">Eoalphadon_spp</List>
+		<List recon_name="Alphadon_attaragos,Alphadon_eatoni,Alphadon_halleyi,Alphadon_marshi,Alphadon_perexiguus,Alphadon_sahnii,Alphadon_wilsoni" recon_no="43913;43916;43917;43921;43923;43927;43928">Alphadon_spp</List>
+		<List recon_name="Albertatherium_primus,Albertatherium_secundus" recon_no="43849;183692">Albertatherium_spp</List>
+		<List recon_name="Nortedelphys_jasoni,Nortedelphys_magnus,Nortedelphys_minimus" recon_no="253246;160064;160066">Nortedelphys_spp</List>
+		<List recon_name="Hatcheritherium_alpha" recon_no="160062">Hatcheritherium_alpha</List>
+		<List recon_name="Zeusdelphys_complicatus" recon_no="247304">Zeusdelphys_complicatus</List>
+		<List recon_name="Ectocentrocristus_foxi" recon_no="45964">Ectocentrocristus_foxi</List>
+		<List recon_name="Varalphadon_crebreforme" recon_no="52630">Varalphadon_crebreforme</List>
+		<List recon_name="Mirandatherium_alipioi" recon_no="250731">Mirandatherium_alipioi</List>
+		<List recon_name="Procaroloameghinia_pricei" recon_no="247305">Procaroloameghinia_spp</List>
+		<List recon_name="Caroloameghinia_mater,Caroloameghinia_tenuis" recon_no="314548;335789">Caroloameghinia_spp</List>
+		<List recon_name="Dakotadens_morrowi,Dakotadens_pertritus" recon_no="45521;346645">Dakotadens_spp</List>
+		<List recon_name="Iugomortiferum_thoringtoni" recon_no="47410">Iugomortiferum_spp</List>
+		<List recon_name="Turgidodon_lillegraveni,Turgidodon_madseni,Turgidodon_petiminis,Turgidodon_praesagus,Turgidodon_rhaister,Turgidodon_russelli" recon_no="52536;52537;52539;52540;52541;52542">Turgidodon_spp</List>
+		<List recon_name="Roberthoffstetteria_nationalgeographica" recon_no="139784">Roberthoffstetteria_nationalgeographica</List>
+		<List recon_name="Eudolops_tetragonus" recon_no="334180">Eudolops_spp</List>
+		<List recon_name="Kramadolops_mckennai,Kramadolops_abanicoi" recon_no="335483;335481">Kramadolops_spp</List>
+		<List recon_name="Epidolops_ameghinoi" recon_no="247098">Epidolops_ameghinoi</List>
+		<List recon_name="Rosendolops_ebaios,Rosendolops_primigenium" recon_no="335468;337212">Rosendolops_spp</List>
+		<List recon_name="Prepidolops_molinai" recon_no="337103">Prepidolops_spp</List>
+		<List recon_name="Sillustania_quechuense" recon_no="264922">Sillustania_quechuense</List>
+		<List recon_name="Wamradolops_tsullodon" recon_no="276020">Wamradolops_tsullodon</List>
+		<List recon_name="Klohnia_charrieri,Klohnia_major" recon_no="337116;335474">Klohnia_spp</List>
+		<List recon_name="Argyrolagus_scagliai" recon_no="425153">Argyrolagus_scagliai</List>
+		<List recon_name="Herpetotherium_valens" recon_no="46901">Herpetotherium_valens</List>
+		<List recon_name="Didelphis_marsupialis,Didelphis_albiventris" recon_no="45701;234384">Didelphis_spp</List>
+		<List recon_name="Glasbius_intricatus,Glasbius_twitchelli" recon_no="46652;46653">Glasbius_spp</List>
+		<List recon_name="Protodidelphis_mastodontoides,Protodidelphis_vanzolinii" recon_no="247297;247073">Protodidelphis_spp</List>
+		<List recon_name="Carolocoutoia_ferigoloi" recon_no="247300">Carolocoutoia_ferigoloi</List>
+		<List recon_name="DELETE" recon_no="-1">Caenolestes_spp</List>
+		<List recon_name="Dromiciops_gliroides" recon_no="234408">Dromiciops_gliroides</List>
+		<List recon_name="Microbiotherium_gallegosense" recon_no="336909">Microbiotherium_spp</List>
+		<List recon_name="Dasyurus_maculatus,Dasyurus_viverrinus" recon_no="234430;235548">Dasyurus_spp</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="324">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carneiro_2018a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

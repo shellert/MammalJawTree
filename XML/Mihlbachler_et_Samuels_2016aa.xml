@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="57">
+		<List recon_name="Hyracotherium_gabuniai,Hyracotherium_leporinum,Hyracotherium_singularis,Hyracotherium_tapirinum,Hyracotherium_vasacciense" recon_no="91636;307875;47324;331119;47327">Hyracotherium_aka_Xenocohippus_osborni</List>
+		<List recon_name="Pachynolophus_livinierensis" recon_no="347909">Pachynolophus_livinierensis</List>
+		<List recon_name="Danjiangia_pingi" recon_no="333311">Danjiangia_pingi</List>
+		<List recon_name="Lambdotherium_popoagicum" recon_no="47471">Lambdotherium_popoagicum</List>
+		<List recon_name="Eotitanops_borealis" recon_no="46182">Eotitanops</List>
+		<List recon_name="CMN_32249,NUFV_34,CMN_32279,CMN_32280,CMN_32247,CMN_52062,CMN_32240," recon_no="-1">cf_Eotitanops_from_Eberle_2006</List>
+		<List recon_name="Palaeosyops_paludosus,Palaeosyops_laevidens" recon_no="49706;49698">Palaeosyops</List>
+		<List recon_name="Eotitanops_pakistanensis" recon_no="169823">Eotitanops_pakistanensis</List>
+		<List recon_name="Balochititanops_haqi" recon_no="192106">Balochititanops_haqi</List>
+		<List recon_name="Bunobrontops_savagei" recon_no="260820">Bunobrontops_savegei</List>
+		<List recon_name="Mesatirhinus_junius" recon_no="48325">Mesatirhinus_junius</List>
+		<List recon_name="Desmatotitan_tukhumensis" recon_no="296274">Desmatotitan_tukhumensis</List>
+		<List recon_name="Acrotitan_ulanshirehensis" recon_no="296303">Acrotitan_ulanshirehensis</List>
+		<List recon_name="Dolichorhinus_hyognathus" recon_no="45884">Dolichorhinus_hyognathus</List>
+		<List recon_name="Sphenocoelus_uintensis" recon_no="51736">Sphenocoelus_uintensis</List>
+		<List recon_name="Microtitan_mongoliensis" recon_no="296286">Microtitan_mongoliensis</List>
+		<List recon_name="Fossendorhinus_diploconus" recon_no="296267">Fossendorhinus_diploconus</List>
+		<List recon_name="Metarhinus_pater" recon_no="48459">Metarhinus_pater</List>
+		<List recon_name="Metarhinus_fluviatilis" recon_no="48458">Metarhinus_fluviatilis</List>
+		<List recon_name="Metarhinus_diploconus" recon_no="48456">Metarhinus_abbotti</List>
+		<List recon_name="Sthenodectes_incisivum" recon_no="51811">Sthenodectes_incisivum</List>
+		<List recon_name="Telmatherium_validus" recon_no="296268">Telmatherium_validus</List>
+		<List recon_name="Wickia_brevirhinus" recon_no="260844">Wickia_brevirhinus</List>
+		<List recon_name="Metatelmatherium_ultimum" recon_no="48461">Metatelmatherium_ultimum</List>
+		<List recon_name="Xylotitan_cenosus" recon_no="348199">Xylotitan_cenosus</List>
+		<List recon_name="Qufutitan_zhoui" recon_no="296304">Qufutitan_zhoui</List>
+		<List recon_name="Epimanteoceras_formosus" recon_no="296271">Epimanteoceras_formosus</List>
+		<List recon_name="Protitan_grangeri" recon_no="296279">Protitan_grangeri</List>
+		<List recon_name="Protitan_minor" recon_no="296277">Protitan_minor</List>
+		<List recon_name="Rhinotitan_kaiseni" recon_no="296290">Rhinotitan_kaiseni</List>
+		<List recon_name="Rhinotitan_andrewsi" recon_no="296293">Rhinotitan_andrewsi</List>
+		<List recon_name="Nanotitanops_shanghuangensis" recon_no="159177">Nanotitanops_shanghuanensis</List>
+		<List recon_name="Pollyosbornia_altidens" recon_no="296272">Pollyosbornia_altidens</List>
+		<List recon_name="Pygmaetitan_panxianensis" recon_no="296305">Pygmaetitan_panxianensis</List>
+		<List recon_name="Gnathotitan_berkeyi" recon_no="296288">Gnathotitan_berkeyi</List>
+		<List recon_name="Aktautitan_hippopotamopus" recon_no="296306">Aktautitan_hippopotamopus</List>
+		<List recon_name="Brachydiastematherium_transylvanicum" recon_no="296307">Brachydiastematherium_transylvanicum</List>
+		<List recon_name="Metatitan_primus" recon_no="296297">Metatitan_primus</List>
+		<List recon_name="Metatitan_relictus" recon_no="296299">Metatitan_relictus</List>
+		<List recon_name="Metatitan_khaitshinus" recon_no="296308">Metatitan_khaitshinus</List>
+		<List recon_name="Nasamplus_progressus" recon_no="296310">Nasamplus_progressus</List>
+		<List recon_name="Protembolotherium_efremovi" recon_no="296313">Protembolotherium_efremovi</List>
+		<List recon_name="Embolotherium_andrewsi" recon_no="104278">Embolotherium_andrewsi</List>
+		<List recon_name="Embolotherium_grangeri" recon_no="104279">Embolotherium_grangeri</List>
+		<List recon_name="Pachytitan_ajax" recon_no="296294">Pachytitan_ajax</List>
+		<List recon_name="Protitanotherium_emarginatum" recon_no="50972">Protitanotherium_emarginatum</List>
+		<List recon_name="Diplacodon_elatus" recon_no="45800">Diplacodon_elatus</List>
+		<List recon_name="Diplacodon_gigan" recon_no="296336">Diplacodon_gigan</List>
+		<List recon_name="Parabrontops_gobiensis" recon_no="296296">Parabrontops_gobiensis</List>
+		<List recon_name="Eubrontotherium_clarnoensis" recon_no="296329">Eubrontotherium_clarnoensis</List>
+		<List recon_name="Parvicornus_occidentalis" recon_no="296332">Parvicornus_occidentalis</List>
+		<List recon_name="Protitanops_curryi" recon_no="50971">Protitanops_curryi</List>
+		<List recon_name="Notiotitanops_mississippiensis" recon_no="49238">Notiotitanops_mississippiensis</List>
+		<List recon_name="Dianotitan_lunanensis" recon_no="296315">Dianotitan_lunanensis</List>
+		<List recon_name="Duchesneodus_uintensis" recon_no="45948">Duchesneodus_uintensis</List>
+		<List recon_name="Megacerops_coloradensis" recon_no="47980">Megacerops_coloradensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mihlbachler_et_Samuels_2016aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

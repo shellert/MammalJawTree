@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="40">
+		<List recon_name="Ornithorhynchus_anatinus" recon_no="166835">Ornithorhynchus</List>
+		<List recon_name="Tachyglossus_aculeatus" recon_no="231485">Tachyglossus</List>
+		<List recon_name="Didelphis_marsupialis,Didelphis_virginiana" recon_no="45701;45705">Didelphis</List>
+		<List recon_name="Monodelphis" recon_no="39976">Monodelphis</List>
+		<List recon_name="Caluromys" recon_no="39952">Caluromys</List>
+		<List recon_name="Glironia" recon_no="234031">Glironia</List>
+		<List recon_name="Caenolestes" recon_no="196736">Caenolestes</List>
+		<List recon_name="Dasyuroides" recon_no="40092">Dasyuroides</List>
+		<List recon_name="Dasyurus_hallucatus,Dasyurus_viverrinus" recon_no="234431;235548">Dasyurus</List>
+		<List recon_name="Phascogale" recon_no="40096">Phascogale</List>
+		<List recon_name="Notoryctes" recon_no="234015">Notoryctes</List>
+		<List recon_name="Echymipera" recon_no="40110">Echymipera</List>
+		<List recon_name="Perameles_gunnii,Perameles_nasuta" recon_no="247887;234454">Perameles</List>
+		<List recon_name="Dromiciops_gliroides" recon_no="234408">Dromiciops</List>
+		<List recon_name="Trichosurus_vulpecula" recon_no="231483">Trichosurus</List>
+		<List recon_name="Phalanger" recon_no="40124">Phalanger</List>
+		<List recon_name="Petaurus_breviceps" recon_no="234627">Petaurus</List>
+		<List recon_name="Pseudochirops" recon_no="40130">Pseudochirops</List>
+		<List recon_name="Cercartetus_nanus,Cercartetus_caudatus" recon_no="234541;234544">Cercartetus</List>
+		<List recon_name="Macropus_(Macropus)_giganteus,Macropus_(Osphranter)_rufus,Macropus_(Notamacropus)_parma" recon_no="162495;162528;162551">Macropus</List>
+		<List recon_name="Dendrolagus" recon_no="40145">Dendrolagus</List>
+		<List recon_name="Dorcopsis" recon_no="40146">Dorcopsis</List>
+		<List recon_name="Thylogale" recon_no="40167">Thylogale</List>
+		<List recon_name="Vombatus_ursinus" recon_no="234548">Vombatus</List>
+		<List recon_name="Phascolarctos" recon_no="40177">Phascolarctos</List>
+		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes</List>
+		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
+		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium</List>
+		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
+		<List recon_name="Andinodelphys_cochabambensis" recon_no="266231">Andinodelphys</List>
+		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium</List>
+		<List recon_name="Herpetotherium" recon_no="39965">Herpetotherium</List>
+		<List recon_name="Peradectidae" recon_no="253242">Peradectidae</List>
+		<List recon_name="Djarthia_murgonensis" recon_no="247038">Djarthia</List>
+		<List recon_name="Palaeothentes" recon_no="40057">Palaeothentes</List>
+		<List recon_name="Yalkaparidon_coheni,Yalkaparidon_jonesi" recon_no="247031;247032">Yalkaparidon</List>
+		<List recon_name="Anatoliadelphys_maasae" recon_no="358754">Anatoliadelphys</List>
+		<List recon_name="Didelphodon_vorax" recon_no="45711">Didelphodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maga_et_Beck_2017aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

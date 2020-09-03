@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
+		<List recon_name="Presbytherium_rhodorugatus" recon_no="178470">Presbytherium</List>
+		<List recon_name="Pantolambda_bathmodon" recon_no="49740">Pantolambda</List>
+		<List recon_name="Alcidedorbignya_inopinata" recon_no="165549">Alcidedorbignya</List>
+		<List recon_name="Bemalambda_nanhsiungensis" recon_no="260798">Bemalambda</List>
+		<List recon_name="Dermotherium_chimaera" recon_no="206245">Dermotherium</List>
+		<List recon_name="Galeopterus_variegatus" recon_no="206242">Galeopterus</List>
+		<List recon_name="Elpidophorus_elegans,Elpidophorus_minor" recon_no="46067;46068">Elpidophorus</List>
+		<List recon_name="Eudaemonema_cuspidata" recon_no="46385">Eudaemonema</List>
+		<List recon_name="Plagiomene_multicuspis" recon_no="50390">Plagiomene</List>
+		<List recon_name="Ambilestes_cerberoides" recon_no="331295">Cimolestes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Scott_2010aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

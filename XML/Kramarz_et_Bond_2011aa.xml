@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List recon_name="Eoastrapostylops_riolorense" recon_no="264917">Eoastrapostylops</List>
+		<List recon_name="Trigonostylops_gegenbauri,Trigonostylops_wortmani" recon_no="336114;187998">Trigonostylops</List>
+		<List recon_name="Tetragonostylops_apthomasi" recon_no="249023">Tetragonostylops</List>
+		<List recon_name="Albertogaudrya_unica" recon_no="58789">Albertogaudrya</List>
+		<List recon_name="Scaglia_kraglievichorum" recon_no="55029">Scaglia</List>
+		<List recon_name="Astraponotus_assymmetrus,Astraponotus_dicksoni,Astraponotus_dilatatus,Astraponotus_holdichi,Astraponotus_thompsoni" recon_no="336095;336100;336105;336097;336103">Astraponotus</List>
+		<List recon_name="Maddenia_lapidaria" recon_no="336672">Maddenia</List>
+		<List recon_name="Parastrapotherium_crassum" recon_no="356393">Parastrapotherium</List>
+		<List recon_name="Astrapotherium_magnum" recon_no="243401">Astrapotherium</List>
+		<List recon_name="Granastrapotherium_snorki" recon_no="268190">Granastrapotherium</List>
+		<List recon_name="Astrapothericulus_emarginatus" recon_no="318296">Astrapothericulus</List>
+		<List recon_name="Xenastrapotherium_christi,Xenastrapotherium_kraglievichi" recon_no="270352;241608">Xenastrapotherium</List>
+		<List recon_name="Uruguaytherium_beaulieui" recon_no="270350">Uruguaytherium</List>
+		<List recon_name="Comahuetherium_coccaorum" recon_no="387972">Comahuetherium</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kramarz_et_Bond_2011aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

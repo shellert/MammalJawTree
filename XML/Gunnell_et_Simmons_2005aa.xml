@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List recon_name="Cynocephalus" recon_no="236617">Cynocephalus</List>
+		<List recon_name="Tupaia" recon_no="40296">Tupaia</List>
+		<List recon_name="Erinaceus" recon_no="40375">Erinaceus</List>
+		<List recon_name="Sus" recon_no="42416">Sus</List>
+		<List recon_name="Felis" recon_no="41055">Felis</List>
+		<List recon_name="New_Green_River_Bat" recon_no="-1">New_Green_River_Bat</List>
+		<List recon_name="Icaronycteris" recon_no="40632">Icaronycteris</List>
+		<List recon_name="Pteropodidae" recon_no="40624">Pteropodidae</List>
+		<List recon_name="Archaeonycteris" recon_no="40630">Archaeonycteris</List>
+		<List recon_name="Tanzanycteris" recon_no="134909">Tanzanycteris</List>
+		<List recon_name="Hassianycteris" recon_no="178571">Hassianycteris</List>
+		<List recon_name="Palaeochiropteryx" recon_no="40634">Palaeochiropteryx</List>
+		<List recon_name="Emballonuridae" recon_no="40636">Emballonuridae</List>
+		<List recon_name="Rhinopornatidae" recon_no="-1">Rhinopornatidae</List>
+		<List recon_name="Craseonycteridae" recon_no="66281">Craseonycteridae</List>
+		<List recon_name="Nycteridae" recon_no="66299">Nycteridae</List>
+		<List recon_name="Megaderrnatidae" recon_no="-1">Megaderrnatidae</List>
+		<List recon_name="Rhinolophidae" recon_no="40644">Rhinolophidae</List>
+		<List recon_name="Hipposideridae" recon_no="40647">Hipposideridae</List>
+		<List recon_name="Phyllostomidae" recon_no="66303">Phyllostomidae</List>
+		<List recon_name="Mormoopidae" recon_no="66293">Mormoopidae</List>
+		<List recon_name="Noctilionidae" recon_no="66297">Noctilionidae</List>
+		<List recon_name="Mystacinidae" recon_no="66295">Mystacinidae</List>
+		<List recon_name="Myzopodidae" recon_no="40661">Myzopodidae</List>
+		<List recon_name="Thyropteridae" recon_no="66307">Thyropteridae</List>
+		<List recon_name="Furipteridae" recon_no="66285">Furipteridae</List>
+		<List recon_name="Natalidae" recon_no="40696">Natalidae</List>
+		<List recon_name="Antrozoidae" recon_no="-1">Antrozoidae</List>
+		<List recon_name="Tornopeatinae" recon_no="-1">Tornopeatinae</List>
+		<List recon_name="Molossinae" recon_no="139827">Molossinae</List>
+		<List recon_name="Vespertilioninae" recon_no="378932">Vespertilioninae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gunnell_et_Simmons_2005aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List recon_name="Prohesperocyon_wilsoni,Hesperocyon_gregarius,Amphicynodon_leptorhynchus" recon_no="50768;46911;348697">Outgroup</List>
+		<List recon_name="MA_PHQ_348" recon_no="-1">MA_PHQ_348</List>
+		<List recon_name="Dinaelurus_crassus" recon_no="45744">Dinaelurus</List>
+		<List recon_name="Nimravus_intermedius" recon_no="347808">Nimravus_intermedius</List>
+		<List recon_name="Nimravus_brachyops" recon_no="49167">Nimravus_brachyops</List>
+		<List recon_name="Eofelis_edwardsii,Eofelis_giganteus" recon_no="350413;350414">Eofelis</List>
+		<List recon_name="Dinailurictis_bonali" recon_no="348601">Dinailurictis</List>
+		<List recon_name="Quercylurus_major" recon_no="348604">Quercylurus</List>
+		<List recon_name="Dinictis_cyclops,Dinictis_felina,Dinictis_squalidens" recon_no="45750;45752;45757">Dinictis</List>
+		<List recon_name="Pogonodon_cismontanus,Pogonodon_davisi,Pogonodon_platycopis" recon_no="50633;50634;50636">Pogonodon</List>
+		<List recon_name="Nanosmilus_kurteni" recon_no="48994">Nanosmilus</List>
+		<List recon_name="Hoplophoneus_mentalis" recon_no="47102">Hoplophoneus_mentalis</List>
+		<List recon_name="Hoplophoneus_primaevus" recon_no="47108">Hoplophoneus_primaevus</List>
+		<List recon_name="Hoplophoneus_occidentalis" recon_no="47104">Hoplophoneus_occidentalis</List>
+		<List recon_name="Hoplophoneus_dakotensis" recon_no="47096">Hoplophoneus_dakotensis</List>
+		<List recon_name="Eusmilus_sicarius" recon_no="46436">Eusmilus_sicarius</List>
+		<List recon_name="Eusmilus_cerebralis" recon_no="46434">Eusmilus_cerebralis</List>
+		<List recon_name="Eusmilus_bidentatus" recon_no="348916">Eusmilus_bidentatus</List>
+		<List recon_name="Eusmilus_villebramarensis" recon_no="348930">Eusmilus_villebramarensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Peigne_2003aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List recon_name="Hanomys_malcolmi" recon_no="336956">Hanomys</List>
+		<List recon_name="Heomys_orientalis" recon_no="246060">Heomys</List>
+		<List recon_name="Tribosphenomys_minutus,Tribosphenomys_secundus" recon_no="91626;91627">Tribosphenomys</List>
+		<List recon_name="Tamquammys_dispinorum,Tamquammys_fractus,Tamquammys_longus,Tamquammys_robustus,Tamquammys_tantillus,Tamquammys_wilsoni" recon_no="336844;336846;336847;336845;336843;336842">Tamquammys</List>
+		<List recon_name="Tsinlingomys_youngi" recon_no="345861">Tsinlingomys</List>
+		<List recon_name="Chuankueimys_xichuanensis" recon_no="349795">Chuankueimys</List>
+		<List recon_name="Yuomys_cavioides,Yuomys_eleganes,Yuomys_huangzhuangensis,Yuomys_huheboerhensis,Yuomys_minggangensis,Yuomys_weijingensis,Yuomys_yunnanensis" recon_no="336853;336854;333657;336852;336856;336855;336024">Yuomys</List>
+		<List recon_name="Stelmomys_parvus" recon_no="349799">Stelmomys</List>
+		<List recon_name="Xueshimys_dissectus" recon_no="349803">Xueshimys</List>
+		<List recon_name="Zoyphiomys_grandis,Zoyphiomys_sinensis" recon_no="349806;349805">Zoyphinomys</List>
+		<List recon_name="Anadianomys_declivis" recon_no="349808">Anadianomys</List>
+		<List recon_name="Hannanomys_lini" recon_no="333089">Hannanomys</List>
+		<List recon_name="Hohomys_lii" recon_no="333095">Hohomys</List>
+		<List recon_name="Exmus_mini" recon_no="333481">Exmus</List>
+		<List recon_name="Cocomys_lingchaensis" recon_no="336872">Cocomys</List>
+		<List recon_name="Yuanomys_zhoui" recon_no="332449">Yuanomys</List>
+		<List recon_name="Petrokozlovia_notos" recon_no="345557">Petrokozlovia</List>
+		<List recon_name="Zodiomys_longmenensis" recon_no="349807">Zodiomys</List>
+		<List recon_name="Alagomys_inopinatus,Alagomys_oriensis,Alagomys_russelli" recon_no="345680;336929;43845">Alagomys</List>
+		<List recon_name="Birbalomys_ibrahimshahi,Birbalomys_sondaari,Birbalomys_woodi" recon_no="345400;66483;66480">Birbalomys</List>
+		<List recon_name="Chapattimys_debruijni,Chapattimys_wilsoni" recon_no="66481;66523">Chapattimys</List>
+		<List recon_name="Dianomys_obscuratus,Dianomys_qujingensis" recon_no="333461;333462">Dianomys</List>
+		<List recon_name="Advenimus_burkei,Advenimus_hupeiensis,Advenimus_ulungurensis" recon_no="334463;336857;333239">Advenimus</List>
+		<List recon_name="Bandaomys_zhonghuaensis" recon_no="348352">Bandaomys</List>
+		<List recon_name="Protataromys_mianchiensis,Protataromys_yuanquensis" recon_no="117832;117833">Protataromys</List>
+		<List recon_name="Borisomys" recon_no="336863">Borisomys</List>
+		<List recon_name="Saykanomys_bohlini" recon_no="337962">Saykanomys</List>
+		<List recon_name="Archetypomys_erlianensi" recon_no="64999">Archetypomys</List>
+		<List recon_name="Simplicimys_bellus" recon_no="336849">Simplicimys</List>
+		<List recon_name="Yongshengomys_extensus" recon_no="336851">Yongshengomys</List>
+		<List recon_name="Chenomys_orientalis" recon_no="336859">Chengomys</List>
+		<List recon_name="Tataromys_minor,Tataromys_plicidens,Tataromys_sigmodon" recon_no="334360;333042;115795">Tataromys</List>
+		<List recon_name="Karakoromys_decessus" recon_no="54403">Karakoromys</List>
+		<List recon_name="Distylomys_qianlishanensis,Distylomys_tedfordi" recon_no="334847;334846">Distylomys</List>
+		<List recon_name="Sayimys_perplexus" recon_no="104396">Sayimys</List>
+		<List recon_name="Mergenomys_orientalis" recon_no="260696">Mergenomys</List>
+		<List recon_name="Gobiomys_asiaticus,Gobiomys_exiguus,Gobiomys_neimongolensis" recon_no="334461;334460;334459">Gobiomys</List>
+		<List recon_name="Ctenodactylus" recon_no="233229">Ctenodactylus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Li_et_Meng_2015aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

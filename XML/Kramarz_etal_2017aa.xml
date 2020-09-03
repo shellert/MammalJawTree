@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="73">
+		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes</List>
+		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium</List>
+		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
+		<List recon_name="Eomaia_scansoria" recon_no="67563">Eomaia</List>
+		<List recon_name="Prokennalestes_trofimovi" recon_no="137755">Prokennalestes</List>
+		<List recon_name="Zhelestes_temirkazyk" recon_no="203027">Zhelestes</List>
+		<List recon_name="Cimolestes_incisus,Cimolestes_stirtoni,Ambilestes_cerberoides" recon_no="45115;45120;331295">Cimolestes_spp</List>
+		<List recon_name="Maelestes_gobiensis" recon_no="143918">Maelestes</List>
+		<List recon_name="Kennalestes_gobiensis" recon_no="57349">Kennalestes</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
+		<List recon_name="Kulbeckia_kulbecke" recon_no="137977">Kulbeckia</List>
+		<List recon_name="Zalambdalestes_lechei" recon_no="70459">Zalambdalestes</List>
+		<List recon_name="Leptictis_dakotensis" recon_no="47557">Leptictis</List>
+		<List recon_name="Didelphodus_altidens" recon_no="45713">Didelphodus</List>
+		<List recon_name="Alcidedorbignya_inopinata" recon_no="165549">Alcidedorbignya</List>
+		<List recon_name="Pantolambda_bathmodon" recon_no="49740">Pantolambda</List>
+		<List recon_name="Bemalambda_nanhsiungensis" recon_no="260798">Bemalambda</List>
+		<List recon_name="Harpyodus_decorus,Harpyodus_euros" recon_no="363290;246085">Harpyodus</List>
+		<List recon_name="Coryphodon_elephantopus,Coryphodon_testis" recon_no="45294;45311">Coryphodon</List>
+		<List recon_name="Azygonyx_ancylion" recon_no="44401">Azygonyx</List>
+		<List recon_name="Trogosus_grangeri" recon_no="52525">Trogosus</List>
+		<List recon_name="Protungulatum_donnae" recon_no="51116">Protungulatum</List>
+		<List recon_name="Vulpavus_(Phlaodectes)_ovatus,Vulpavus_profectus,Vulpavus_canavus" recon_no="381678;52682;52675">Vulpavus</List>
+		<List recon_name="Miacis_parvivorus,Miacis_sylvestris" recon_no="48492;48495">Miacis</List>
+		<List recon_name="Cynodictis_lacustris" recon_no="349281">Cynodictis</List>
+		<List recon_name="Diacodexis_pakistanensis" recon_no="68275">Diacodexis</List>
+		<List recon_name="Dichobune_leporina" recon_no="347535">Dichobune</List>
+		<List recon_name="Acotherulum_saturninum" recon_no="347617">Acotherulum</List>
+		<List recon_name="Hyopsodus_fangxianensis,Hyopsodus_fastigatus,Hyopsodus_huashigouensis,Hyopsodus_itinerans,Hyopsodus_latidens" recon_no="333098;47165;336036;149489;47169">Hyopsodus</List>
+		<List recon_name="Meniscotherium_chamense,Meniscotherium_priscum,Meniscotherium_tapiacitum" recon_no="48088;48089;48092">Meniscotherium</List>
+		<List recon_name="Opisthotomus_astutus,Phenacodus_bisonensis,Phenacodus_grangeri,Phenacodus_hemiconus,Opisthotomus_flagrans" recon_no="49367;50302;50307;50308;49368">Phenacodus</List>
+		<List recon_name="Pleuraspidotherium_aumonieri" recon_no="425137">Pleuraspidotherium</List>
+		<List recon_name="Maiorana_noctiluca" recon_no="47859">Maiorana</List>
+		<List recon_name="Baioconodon_nordicum" recon_no="225297">Baioconodon</List>
+		<List recon_name="Arctocyonides_arenae" recon_no="246831">Arctocyonides</List>
+		<List recon_name="Arctocyon_primaevus" recon_no="54258">Arctocyon</List>
+		<List recon_name="Ptilocercus_lowii" recon_no="234229">Ptilocercus</List>
+		<List recon_name="Plesiadapis_tricuspidens" recon_no="50444">Plesiadapis</List>
+		<List recon_name="Notharctus_tenebrosus" recon_no="49200">Northarctus</List>
+		<List recon_name="Adapis_parisiensis,Leptadapis_magnus,Magnadapis_intermedius" recon_no="57922;127247;127245">Adapis</List>
+		<List recon_name="Tribosphenomys_minutus" recon_no="91626">Tribosphenomys</List>
+		<List recon_name="Paramys_copei,Paramys_delicatus,Paramys_taurus" recon_no="49890;49893;49918">Paramys</List>
+		<List recon_name="Rhombomylus_turpanensis" recon_no="333090">Rhombomylus</List>
+		<List recon_name="Gomphos_elkema" recon_no="101464">Gomphos</List>
+		<List recon_name="Mimotona_wana" recon_no="246061">Mimotona</List>
+		<List recon_name="Blarina_brevicauda" recon_no="44538">Blarina</List>
+		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus</List>
+		<List recon_name="Solenodon_paradoxus" recon_no="385513">Solenodon</List>
+		<List recon_name="Eoryctes_melanus" recon_no="46177">Eoryctes</List>
+		<List recon_name="Potamogale_velox" recon_no="231780">Potamogale</List>
+		<List recon_name="Tenrec_ecaudatus" recon_no="231473">Tenrec</List>
+		<List recon_name="Orycteropus_afer" recon_no="119862">Orycteropus</List>
+		<List recon_name="Rhynchocyon_cirnei,Rhynchocyon_petersi" recon_no="425136;425135">Rhynchocyon</List>
+		<List recon_name="Procavia_capensis" recon_no="143657">Procavia</List>
+		<List recon_name="Moeritherium_trigodon" recon_no="157869">Moeritherium</List>
+		<List recon_name="Chaetophractus_villosus" recon_no="83806">Chaetophractus</List>
+		<List recon_name="Dasypus_(Dasypus)_novemcinctus" recon_no="161184">Dasypus</List>
+		<List recon_name="Bradypus_griseus,Bradypus_tridactylus" recon_no="235352;104148">Bradypus</List>
+		<List recon_name="Tamandua_tetradactyla" recon_no="233569">Tamandua</List>
+		<List recon_name="Colbertia_lumbrerense,Colbertia_magellanica" recon_no="356214;247106">Colbertia</List>
+		<List recon_name="Plesiotypotherium_achirense" recon_no="92644">Plesiotypotherium</List>
+		<List recon_name="Protypotherium_attenuatum,Protypotherium_australe" recon_no="242930;242925">Protypotherium</List>
+		<List recon_name="Adinotherium_ovinum,Adinotherium_robustum" recon_no="243020;243025">Adinotherium</List>
+		<List recon_name="Notostylops_pendens,Notostylops_pigafettai,Notostylops_murinus" recon_no="335831;335833;187992">Notostylops</List>
+		<List recon_name="Pyrotherium_romerii,Pyrotherium_macfaddeni" recon_no="243411;247869">Pyrotherium</List>
+		<List recon_name="Miguelsoria_parayirunhor" recon_no="335187">Miguelsoria</List>
+		<List recon_name="Proterotherium_australe,Proterotherium_cavum,Proterotherium_intermedium,Proterotherium_principale" recon_no="247758;243059;243068;243065">Proterotheriidae</List>
+		<List recon_name="Macrauchenia_patagonica,Macrauchenia_ullomensis" recon_no="247766;84193">Macrauchenia</List>
+		<List recon_name="Carodnia_vieirai" recon_no="247114">Carodnia</List>
+		<List recon_name="Trigonostylops_gegenbauri,Trigonostylops_wortmani" recon_no="336114;187998">Trigonostylops</List>
+		<List recon_name="Astrapotherium_magnum" recon_no="243401">Astrapotherium</List>
+		<List recon_name="Eoastrapostylops_riolorense" recon_no="264917">Eoastrapostylops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kramarz_etal_2017aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

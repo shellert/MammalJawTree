@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Muizon, C.</List>
+			<List>Ladeveze, S.</List>
+			<List>Selva, C.</List>
+			<List>Vignaud, R.</List>
+			<List>Goussard, F.</List>
+		</Author>
+		<Year>2018</Year>
+		<Title><em>Allqokirus australis</em> (Sparassodonta, Metatheria) from the early Palaeocene of Tiupampa (Bolivia) and the rise of the metatherian carnivorous radiation in South America</Title>
+		<Journal>Geodiversitas</Journal>
+		<Volume>40</Volume>
+		<Pages>363-459</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List recon_name="Prokennalestes_trofimovi" recon_no="137755">Prokennalestes</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
+		<List recon_name="Maelestes_gobiensis" recon_no="143918">Maelestes</List>
+		<List recon_name="Kokopellia_juddi" recon_no="47450">Kokopellia</List>
+		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium</List>
+		<List recon_name="Deltatheroides_cretacicus" recon_no="70457">Deltatheroides</List>
+		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium</List>
+		<List recon_name="Eodelphis_browni" recon_no="46139">Eodelphis</List>
+		<List recon_name="Didelphodon_vorax" recon_no="45711">Didelphodon</List>
+		<List recon_name="Mimoperadectes_houdei,Mimoperadectes_labrus,Peradectes_elegans,Peradectes_chesteri" recon_no="183882;48642;50116;50115">Peradectes</List>
+		<List recon_name="Herpetotherium_fugax" recon_no="339420">Herpetotherium</List>
+		<List recon_name="Amphiperatherium_ambiguum,Amphiperatherium_exile,Amphiperatherium_lamandini,Amphiperatherium_minutum,Peratherium_cuvieri,Peratherium_elegans" recon_no="348687;134143;348688;58757;53864;348592">Peratherium</List>
+		<List recon_name="Didelphis_albiventris" recon_no="234384">Didelphis</List>
+		<List recon_name="Metachirus_nudicaudatus" recon_no="238612">Metachirus</List>
+		<List recon_name="Monodelphis_brevicaudata" recon_no="284763">Monodelphis</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
+		<List recon_name="Andinodelphys_cochabambensis" recon_no="266231">Andinodelphys</List>
+		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes</List>
+		<List recon_name="Allqokirus_australis" recon_no="246574">Allqokirus</List>
+		<List recon_name="Patene_coluapiensis" recon_no="99576">Patene</List>
+		<List recon_name="Hondadelphys_fieldsi" recon_no="251322">Hondadelphys</List>
+		<List recon_name="Sallacyon_hoffstetteri" recon_no="245958">Sallacyon</List>
+		<List recon_name="Notogale_mitis" recon_no="245963">Notogale</List>
+		<List recon_name="Sipalocyon_gracilis" recon_no="53458">Sipalocyon</List>
+		<List recon_name="Cladosictis_centralis" recon_no="318608">Cladosictis</List>
+		<List recon_name="Lycopsis_longirostrus" recon_no="251556">Lycopsis</List>
+		<List recon_name="Pharsophorus_lacerans" recon_no="188015">Pharsophorus</List>
+		<List recon_name="Prothylacynus_patagonicus" recon_no="53713">Prothylacynus</List>
+		<List recon_name="Borhyaena_tuberata" recon_no="53751">Borhyaena_tuberata</List>
+		<List recon_name="Arctodictis_sinclairi" recon_no="336437">Arctodictis_sinclairi</List>
+		<List recon_name="Australohyaena_antiqua" recon_no="337340">Australohyaena</List>
+		<List recon_name="Callistoe_vincei" recon_no="334456">Callistoe</List>
+		<List recon_name="Paraborhyaena_boliviana" recon_no="247608">Paraborhyaena</List>
+		<List recon_name="Thylacosmilus_atrox" recon_no="291870">Thylacosmilus</List>
+		<List recon_name="Dromiciops_australis,Dromiciops_gliroides" recon_no="337154;234408">Dromiciops</List>
+		<List recon_name="Dasyurus_hallucatus,Dasyurus_maculatus,Dasyurus_viverrinus" recon_no="234431;234430;235548">Dasyurus</List>
+		<List recon_name="Sminthopsis_crassicaudata" recon_no="234451">Sminthopsis</List>
+		<List recon_name="Thylacinus_cynocephalus" recon_no="234414">Thylacinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="364">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Muizon_etal_2018a</Filename>
+	<Parent>Forasiepi_etal_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

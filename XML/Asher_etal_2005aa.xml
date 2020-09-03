@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> Asher, R. J. </List>
+			<List> Meng, J. </List>
+			<List> Wible, J. R. </List>
+			<List> McKenna, M. C. </List>
+			<List> Rougier, G. W. </List>
+			<List> Dashzeveg, D. </List>
+			<List> Novacek, M. J. </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>Stem Lagomorpha and the antiquity of Glires</Title>
+		<Journal>Science</Journal>
+		<Volume>307</Volume>
+		<Pages>1091-1094</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="68">
+		<List recon_name="Didelphis" recon_no="39959">Didelphis</List>
+		<List recon_name="Macropus" recon_no="40153">Macropus</List>
+		<List recon_name="Vombatus_ursinus" recon_no="234548">Vombatus</List>
+		<List recon_name="Aplodontia_rufa" recon_no="44187">Aplodontia</List>
+		<List recon_name="Castor" recon_no="41539">Castor</List>
+		<List recon_name="Cavia" recon_no="42111">Cavia</List>
+		<List recon_name="Chinchilla" recon_no="231797">Chinchilla</List>
+		<List recon_name="Cynocephalus" recon_no="236617">Cynocephalus</List>
+		<List recon_name="Dasyprocta" recon_no="105149">Dasyprocta</List>
+		<List recon_name="Dipodomys" recon_no="41678">Dipodomys</List>
+		<List recon_name="Echimys" recon_no="233839">Echimys</List>
+		<List recon_name="Erethizon" recon_no="42139">Erethizon</List>
+		<List recon_name="Hydrochoerus" recon_no="42128">Hydrochoerus</List>
+		<List recon_name="Lepus" recon_no="42176">Lepus</List>
+		<List recon_name="Marmota" recon_no="41502">Marmota</List>
+		<List recon_name="Massoutiera" recon_no="-1">Massoutiera</List>
+		<List recon_name="Mus" recon_no="41911">Mus</List>
+		<List recon_name="Myocastor" recon_no="42072">Myocastor</List>
+		<List recon_name="Glis" recon_no="-1">Glis</List>
+		<List recon_name="Ochotona" recon_no="42159">Ochotona</List>
+		<List recon_name="Oryctolagus_cuniculus" recon_no="233585">Oryctolagus</List>
+		<List recon_name="Petrodromus" recon_no="253383">Petrodromus</List>
+		<List recon_name="Rattus" recon_no="41923">Rattus</List>
+		<List recon_name="Rhynchocyon" recon_no="40309">Rhynchocyon</List>
+		<List recon_name="Sciurus" recon_no="41525">Sciurus</List>
+		<List recon_name="Sylvilagus" recon_no="42193">Sylvilagus</List>
+		<List recon_name="Thomomys" recon_no="41671">Thomomys</List>
+		<List recon_name="Thryonomys_swinderianus" recon_no="380402">Thryonomys</List>
+		<List recon_name="Tupaia" recon_no="40296">Tupaia</List>
+		<List recon_name="Adapis" recon_no="40750">Adapis</List>
+		<List recon_name="Anagale_gobiensis" recon_no="347361">Anagale</List>
+		<List recon_name="Anagalopsis_kansuensis" recon_no="332277">Anagalopsis</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
+		<List recon_name="Barunlestes_butleri" recon_no="57289">Barunlestes</List>
+		<List recon_name="Cocomys_lingchaensis" recon_no="336872">Cocomys</List>
+		<List recon_name="Cricetops" recon_no="41755">Cricetops</List>
+		<List recon_name="Eurymylus_laticeps" recon_no="247225">Eurymylus</List>
+		<List recon_name="Florentiamys" recon_no="41647">Florentiamys</List>
+		<List recon_name="Gomphos" recon_no="41364">Gomphos</List>
+		<List recon_name="Gregorymys" recon_no="41655">Gregorymys</List>
+		<List recon_name="Heomys_orientalis" recon_no="246060">Heomys</List>
+		<List recon_name="Hyopsodus" recon_no="42250">Hyopsodus</List>
+		<List recon_name="Incamys" recon_no="247412">Incamys</List>
+		<List recon_name="Kennalestes_gobiensis" recon_no="57349">Kennalestes</List>
+		<List recon_name="Kulbeckia_kulbecke" recon_no="137977">Kulbeckia</List>
+		<List recon_name="Leptictis" recon_no="40260">Leptictis</List>
+		<List recon_name="Matutinia" recon_no="41361">Matutinia</List>
+		<List recon_name="Mimolagus" recon_no="41366">Mimolagus</List>
+		<List recon_name="Mimotona" recon_no="41367">Mimotona</List>
+		<List recon_name="Neoreomys" recon_no="42086">Neoreomys</List>
+		<List recon_name="Notharctus" recon_no="40764">Notharctus</List>
+		<List recon_name="Palaeolagus" recon_no="42184">Palaeolagus</List>
+		<List recon_name="Paradjidaumo" recon_no="41632">Paradjidaumo</List>
+		<List recon_name="Paramys" recon_no="41408">Paramys</List>
+		<List recon_name="Paraphiomys" recon_no="42019">Paraphiomys</List>
+		<List recon_name="Phenacodus" recon_no="42288">Phenacodus</List>
+		<List recon_name="Plesiadapis" recon_no="40738">Plesiadapis</List>
+		<List recon_name="Prolagus" recon_no="53930">Prolagus</List>
+		<List recon_name="Pseudictops_lophiodon" recon_no="247230">Pseudictops</List>
+		<List recon_name="Reithroparamys" recon_no="41484">Reithroparamys</List>
+		<List recon_name="Rhombomylus" recon_no="41362">Rhombomylus</List>
+		<List recon_name="Sciuravus" recon_no="41421">Sciuravus</List>
+		<List recon_name="Sinomylus_zhaii" recon_no="246063">Sinomylus</List>
+		<List recon_name="Tataromys" recon_no="41953">Tataromys</List>
+		<List recon_name="Tribosphenomys" recon_no="91624">Tribosphenomys</List>
+		<List recon_name="Tsaganomys" recon_no="42007">Tsaganomys</List>
+		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium</List>
+		<List recon_name="Zalambdalestes" recon_no="40217">Zalambdalestes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Asher_etal_2005aa</Filename>
+	<Parent>Meng_etal_2003aa</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="41">
+		<List recon_name="Ornithorhynchus" recon_no="39740">Ornithorhynchus</List>
+		<List recon_name="Tachyglossus" recon_no="39743">Tachyglossus</List>
+		<List recon_name="Vincelestes" recon_no="67458">Vincelestes</List>
+		<List recon_name="Ukhaatherium" recon_no="137752">Ukhaatherium</List>
+		<List recon_name="Asioryctes" recon_no="40213">Asioryctes</List>
+		<List recon_name="Deltatheridium" recon_no="39920">Deltatheridium</List>
+		<List recon_name="Mayulestes" recon_no="246572">Mayulestes</List>
+		<List recon_name="Pucadelphys" recon_no="246332">Pucadelphys</List>
+		<List recon_name="Andinodelphys" recon_no="246586">Andinodelphys</List>
+		<List recon_name="Didelphis" recon_no="39959">Didelphis</List>
+		<List recon_name="Monodelphis" recon_no="39976">Monodelphis</List>
+		<List recon_name="Caluromys" recon_no="39952">Caluromys</List>
+		<List recon_name="Glironia" recon_no="234031">Glironia</List>
+		<List recon_name="Caenolestes" recon_no="196736">Caenolestes</List>
+		<List recon_name="Dasyuroides" recon_no="40092">Dasyuroides</List>
+		<List recon_name="Dasyurus" recon_no="40093">Dasyurus</List>
+		<List recon_name="Phascogale" recon_no="40096">Phascogale</List>
+		<List recon_name="Notoryctes" recon_no="234015">Notoryctes</List>
+		<List recon_name="Echymipera" recon_no="40110">Echymipera</List>
+		<List recon_name="Perameles" recon_no="40112">Perameles</List>
+		<List recon_name="Dromiciops" recon_no="234014">Dromiciops</List>
+		<List recon_name="Trichosurus" recon_no="40125">Trichosurus</List>
+		<List recon_name="Phalanger" recon_no="40124">Phalanger</List>
+		<List recon_name="Petaurus" recon_no="40123">Petaurus</List>
+		<List recon_name="Pseudochirops" recon_no="40130">Pseudochirops</List>
+		<List recon_name="Cercartetus" recon_no="40137">Cercartetus</List>
+		<List recon_name="Macropus" recon_no="40153">Macropus</List>
+		<List recon_name="Dendrolagus" recon_no="40145">Dendrolagus</List>
+		<List recon_name="Dorcopsis" recon_no="40146">Dorcopsis</List>
+		<List recon_name="Thylogale" recon_no="40167">Thylogale</List>
+		<List recon_name="Vombatus" recon_no="40184">Vombatus</List>
+		<List recon_name="Phascolarctos" recon_no="40177">Phascolarctos</List>
+		<List recon_name="Asiatherium" recon_no="183887">Asiatherium</List>
+		<List recon_name="Herpetotherium" recon_no="39965">Herpetotherium</List>
+		<List recon_name="Peradectidae" recon_no="253242">Peradectidae</List>
+		<List recon_name="Djarthia" recon_no="247037">Djarthia</List>
+		<List recon_name="Palaeothentes" recon_no="40057">Palaeothentes</List>
+		<List recon_name="Yalkaparidon" recon_no="247030">Yalkaparidon</List>
+		<List recon_name="Epidolops" recon_no="40069">Epidolops</List>
+		<List recon_name="Argyrolagus" recon_no="40047">Argyrolagus</List>
+		<List recon_name="Proargyrolagus" recon_no="40049">Proargyrolagus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Beck_2017ab</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

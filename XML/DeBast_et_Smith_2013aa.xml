@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List recon_name="Aspanlestes_aptap" recon_no="137972">Aspanlestes_aptap</List>
+		<List recon_name="Parazhelestes_robustus" recon_no="213245">Parazhelestes_spp</List>
+		<List recon_name="Cimolestes_incisus" recon_no="45115">Cimolestes_spp</List>
+		<List recon_name="Kennalestes_gobiensis" recon_no="57349">Kennalestes_gobiensis</List>
+		<List recon_name="Kulbeckia_kulbecke" recon_no="137977">Kulbeckia_kulbecke</List>
+		<List recon_name="Gypsonictops_hypoconus" recon_no="46754">Gypsonyctops_spp</List>
+		<List recon_name="Protungulatum_donnae" recon_no="51116">Protungulatum_donnae</List>
+		<List recon_name="Hyopsodus_paulus" recon_no="47181">Hyopsodus_paulus</List>
+		<List recon_name="Litomylus_dissentaneus" recon_no="47732">Litomylus_dissentaneus</List>
+		<List recon_name="Oxyprimus_erikseni,Oxyprimus_galadrielae" recon_no="49568;49569">Oxyprimus_spp</List>
+		<List recon_name="Hapalodectes_hetangensis" recon_no="142988">Hapalodectes_hetangensis</List>
+		<List recon_name="Dissacus_navajovius" recon_no="45870">Dissacus_navajovius</List>
+		<List recon_name="Eoconodon_coryphaeus" recon_no="46135">Eoconodon_coryphaeus</List>
+		<List recon_name="Goniacodon_levisanus" recon_no="46713">Goniacodon_levisanus</List>
+		<List recon_name="Triisodon_quivirensis" recon_no="52470">Triisodon_quivirensis</List>
+		<List recon_name="Oxyclaenus_cuspidatus" recon_no="49551">Oxyclaenus_cuspidatus</List>
+		<List recon_name="Mimatuta_minuial" recon_no="48619">Mimatuta_minuial</List>
+		<List recon_name="Maiorana_noctiluca" recon_no="47859">Maiorana_noctiluca</List>
+		<List recon_name="Protoselene_opisthacus" recon_no="51095">Protoselene_opisthacus</List>
+		<List recon_name="Litaletes_disjunctus" recon_no="47718">Litaletes_disjunctus</List>
+		<List recon_name="Tetraclaenodon_puercensis" recon_no="52211">Tetraclaenodon_puercensis</List>
+		<List recon_name="Ectocion_osbornianus" recon_no="45971">Ectocion_osbornianus</List>
+		<List recon_name="Chriacus_pelvidens" recon_no="45086">Chriacus_pelvidens</List>
+		<List recon_name="Loxolophus_hyattianus" recon_no="47791">Loxolophus_hyattianus</List>
+		<List recon_name="Mimotricentes_subtrigonus" recon_no="48649">Mimotricentes_subtrigonus</List>
+		<List recon_name="Arctocyon_primaevus" recon_no="54258">Arctocyon_primaevus</List>
+		<List recon_name="Landenodon_woutersi" recon_no="349361">Landenodon_woutersi</List>
+		<List recon_name="Princetonia_yalensis" recon_no="50667">Princetonia_yalensis</List>
+		<List recon_name="Prolatidens_waudruae" recon_no="252433">Prolatidens_waudruae</List>
+		<List recon_name="Prothryptacodon_furens" recon_no="50950">Prothryptacodon_furens</List>
+		<List recon_name="Thryptacodon_antiquus" recon_no="52284">Thryptacodon_antiquus</List>
+		<List recon_name="Gujaratia_pakistanensis" recon_no="68276">Diacodexis</List>
+		<List recon_name="Apheliscus_chydaeus,Apheliscus_insidiosus,Apheliscus_nitidus,Apheliscus_wapitiensis" recon_no="44157;44158;44159;44161">Apheliscus_spp</List>
+		<List recon_name="Phenacodaptes_sabulosus" recon_no="50298">Phenacodaptes_sabulosus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>DeBast_et_Smith_2013aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

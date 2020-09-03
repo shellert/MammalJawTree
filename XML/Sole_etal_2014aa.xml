@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List recon_name="Eomaia_scansoria" recon_no="67563">Eomaia_scansoria</List>
+		<List recon_name="Cimolestes_incisus,Cimolestes_stirtoni,Ambilestes_cerberoides,Puercolestes_simpsoni,Scollardius_propalaeoryctes,Altacreodus_magnus" recon_no="45115;45120;331295;51263;331297;331293">Cimolestes</List>
+		<List recon_name="Tinerhodon_disputatum" recon_no="91845">Tinerhodon_disputatum</List>
+		<List recon_name="Prototomus_deimos,Prototomus_girardoti,Prototomus_minimus,Prototomus_phobos" recon_no="51105;331776;331775;51110">Prototomus</List>
+		<List recon_name="Arfia_gingerichi,Arfia_junnei,Arfia_shoshoniensis,Arfia_zele" recon_no="331777;44313;44315;44316">Arfia</List>
+		<List recon_name="Boualitomus_marocanensis" recon_no="91843">Boualitomus_marocanensis</List>
+		<List recon_name="Parvagula_palulae" recon_no="347699">Parvagula_palulae</List>
+		<List recon_name="Eoproviverra_eisenmanni" recon_no="347681">Eoproviverra_eisenmanni</List>
+		<List recon_name="Minimovellentodon_russelli" recon_no="347678">Minimovellentodon_russelli</List>
+		<List recon_name="Morlodon_vellerei" recon_no="347657">Morlodon_vellerei</List>
+		<List recon_name="Boritia_duffaudi" recon_no="347676">Boritia_duffaudi</List>
+		<List recon_name="Matthodon_menui" recon_no="347669">Matthodon_menui</List>
+		<List recon_name="Matthodon_tritens" recon_no="347667">Matthodon_tritens</List>
+		<List recon_name="Oxyaenoides_lindgreni" recon_no="347666">Oxyaenoides_lindgreni</List>
+		<List recon_name="Oxyaenoides_bicuspidens" recon_no="62960">Oxyaenoides_bicuspidens</List>
+		<List recon_name="Oxyaenoides_schlosseri" recon_no="347664">Oxyaenoides_schlosseri</List>
+		<List recon_name="Alienetherium_buxwilleri" recon_no="-1">Alienetherium_buxwilleri</List>
+		<List recon_name="Eurotherium_theriodis" recon_no="347693">Eurotherium_theriodis</List>
+		<List recon_name="Eurotherium_matthesi" recon_no="347889">Eurotherium_matthesi</List>
+		<List recon_name="Prodissopsalis_eocaenicus" recon_no="63427">Prodissopsalis_eocaenicus</List>
+		<List recon_name="Paenoxyaenoides_liguritor" recon_no="-1">Paenoxyaenoides_liguritor</List>
+		<List recon_name="Leonhardtina_gracilis" recon_no="63432">Leonhardtina_gracilis</List>
+		<List recon_name="Leonhardtina_godinoti" recon_no="347674">Leonhardtina_godinoti</List>
+		<List recon_name="Allopterodon_bulbosus" recon_no="-1">Allopterodon_bulbosus</List>
+		<List recon_name="Allopterodon_minor" recon_no="-1">Allopterodon_minor</List>
+		<List recon_name="Allopterodon_torvidus" recon_no="347886">Allopterodon_torvidus</List>
+		<List recon_name="Proviverra_typica" recon_no="54265">Proviverra_typica</List>
+		<List recon_name="Lesmesodon_behnkeae,Lesmesodon_edingeri" recon_no="424615;424616">Lesmesodon</List>
+		<List recon_name="Cynohyaenodon_trux" recon_no="424629">Cynohyaenodon_trux</List>
+		<List recon_name="Cynohyaenodon_ruetimeyeri" recon_no="-1">Cynohyaenodon_ruetimeyeri</List>
+		<List recon_name="Cynohyaenodon_cayluxi" recon_no="58761">Cynohyaenodon_cayluxi</List>
+		<List recon_name="Cynohyaenodon_lautricensis" recon_no="348488">Cynohyaenodon_lautricensis</List>
+		<List recon_name="Paracynohyaenodon_magnus" recon_no="-1">Paracynohyaenodon_magnus</List>
+		<List recon_name="Paracynohyaenodon_schlosseri" recon_no="347887">Paracynohyaenodon_schlosseri</List>
+		<List recon_name="Quercytherium_simplicidens" recon_no="424611">Quercytherium_simplicidens</List>
+		<List recon_name="Quercytherium_tenebrosum" recon_no="424612">Quercytherium_tenebrosum</List>
+		<List recon_name="Protoproviverra_palaeonictides" recon_no="347671">Protoproviverra_palaeonictides</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sole_etal_2014aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

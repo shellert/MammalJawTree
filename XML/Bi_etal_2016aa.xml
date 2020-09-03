@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> Bi, S. </List>
+			<List> Zheng, X. </List>
+			<List> Meng, J. </List>
+			<List> Wang, X. </List>
+			<List> Robinson, N. </List>
+			<List> Davis, B. </List>
+		</Author>
+		<Year>2016</Year>
+		<Title>A new symmetrodont mammal (Trechnotheria: Zhangheotheriidae) from the Early Cretaceous of China and trechnotherian character evolution</Title>
+		<Journal>Scientific reports</Journal>
+		<Volume>6</Volume>
+		<Pages>26668</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List recon_name="Morganucodon_oehleri,Morganucodon_watsoni" recon_no="203398;203396">Morganucodon</List>
+		<List recon_name="Gobiotheriodon_infinitus" recon_no="204188">Gobiotheriodon</List>
+		<List recon_name="Kuehneotherium_praecursoris" recon_no="206725">Kuehneotherium</List>
+		<List recon_name="Tinodon_bellus,Tinodon_micron" recon_no="69253;212336">Tinodon</List>
+		<List recon_name="Akidolestes_cifelli" recon_no="137605">Akidolestes</List>
+		<List recon_name="Heishanlestes_changi" recon_no="216665">Heishanlestes</List>
+		<List recon_name="Maotherium_asiaticus,Maotherium_sinensis" recon_no="156659;197845">Maotherium</List>
+		<List recon_name="Spalacolestes_cretulablatta,Spalacolestes_inconcinnus" recon_no="51673;51674">Spalacolestes</List>
+		<List recon_name="Spalacotheridium_mckennai,Spalacotheridium_noblei" recon_no="51675;51676">Spalacotheridium</List>
+		<List recon_name="Spalacotherium_evansae,Spalacotherium_henkeli,Spalacotherium_hookeri,Spalacotherium_taylori,Spalacotherium_tricuspidens" recon_no="212335;212345;216770;206728;66821">Spalacotherium</List>
+		<List recon_name="Spalacotheroides_bridwelli" recon_no="51677">Spalacotheroides</List>
+		<List recon_name="Symmetrodontoides_canadensis,Symmetrodontoides_foxi,Symmetrodontoides_oligodontos" recon_no="51937;51938;51939">Symmetrodontoides</List>
+		<List recon_name="Symmetrolestes_parvus" recon_no="106780">Symmetrolestes</List>
+		<List recon_name="Yaverlestes_gassoni" recon_no="216679">Yaverlestes</List>
+		<List recon_name="Zhangheotherium_quinquecuspidens" recon_no="65258">Zhangheotherium</List>
+		<List recon_name="Kiyatherium_cardiodens" recon_no="216648">Kiyatherium</List>
+		<List recon_name="Anebodon_luoi" recon_no="371286">Anebodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bi_etal_2016aa</Filename>
+	<Parent>Sweetman_2008</Parent>
+	<Sibling/>
+</SourceTree>

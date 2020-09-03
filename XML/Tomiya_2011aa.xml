@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="50">
+		<List recon_name="Lepticitis_dakotensis" recon_no="-1">Lepticitis_dakotensis</List>
+		<List recon_name="Ailurus_fulgens" recon_no="157499">Ailurus_fulgens</List>
+		<List recon_name="Amphicticeps_shackelfordi" recon_no="334744">Amphicticeps_shackelfordi</List>
+		<List recon_name="Broiliana_nobilis" recon_no="174794">Broiliana_nobilis</List>
+		<List recon_name="Canis_latrans" recon_no="44854">Canis_latrans</List>
+		<List recon_name="Civettictis_spp" recon_no="-1">Civettictis_spp</List>
+		<List recon_name="Daphoenus" recon_no="41279">Daphoenus</List>
+		<List recon_name="Dawsonicyon_isami" recon_no="240062">Dawsonicyon_isami</List>
+		<List recon_name="Didymictis_vancleveae" recon_no="45736">Didymictis_vancleveae</List>
+		<List recon_name="Dinictis_felina" recon_no="45752">Dinictis_felina</List>
+		<List recon_name="Echinosorex_gymnura" recon_no="385327">Echinosorex_gymnura</List>
+		<List recon_name="Erinaceus_concolor" recon_no="-1">Erinaceus_concolor</List>
+		<List recon_name="Felis_composite" recon_no="-1">Felis_composite</List>
+		<List recon_name="Gulo_gulo" recon_no="46742">Gulo_gulo</List>
+		<List recon_name="Herpestes_spp" recon_no="-1">Herpestes_spp</List>
+		<List recon_name="Herpestides_antiquus" recon_no="97061">Herpestides_antiquus</List>
+		<List recon_name="Hesperocyon_gregarious" recon_no="-1">Hesperocyon_gregarious</List>
+		<List recon_name="Hoplophoneus_sp" recon_no="-1">Hoplophoneus_sp</List>
+		<List recon_name="Hyaenid" recon_no="-1">Hyaenid</List>
+		<List recon_name="Hyaenodon_horridus" recon_no="47127">Hyaenodon_horridus</List>
+		<List recon_name="Lycophocyon_hutchisoni" recon_no="240060">Lycophocyon_hutchisoni</List>
+		<List recon_name="Mephitis_spp" recon_no="-1">Mephitis_spp</List>
+		<List recon_name="Miacis_sylvestris" recon_no="48495">Miacis_sylvestris</List>
+		<List recon_name="Miacis_cognitus" recon_no="48481">Miacis_cognitus</List>
+		<List recon_name="Miacis_gracilis" recon_no="48484">Miacis_gracilis</List>
+		<List recon_name="Miacis_parvivorus" recon_no="48492">Miacis_parvivorus</List>
+		<List recon_name="Miacis_uintensis" recon_no="48496">Miacis_uintensis</List>
+		<List recon_name="Mustelavus_priscus" recon_no="48870">Mustelavus_priscus</List>
+		<List recon_name="Nandinia_binotata" recon_no="232070">Nandinia_binotata</List>
+		<List recon_name="Oodectes_herpestoides" recon_no="49355">Oodectes_herpestoides</List>
+		<List recon_name="Otariidae" recon_no="365340">Otariidae</List>
+		<List recon_name="Otarocyon_macdonaldi" recon_no="49485">Otarocyon_macdonaldi</List>
+		<List recon_name="Palaeoprionodon_lamandini" recon_no="97816">Palaeoprionodon_lamandini</List>
+		<List recon_name="Plesictis_genettoides" recon_no="-1">Plesictis_genettoides</List>
+		<List recon_name="Proailurus_lemanensis" recon_no="97817">Proailurus_lemanensis</List>
+		<List recon_name="Procyon_lotor" recon_no="50729">Procyon_lotor</List>
+		<List recon_name="Pseudobassaris_riggsi" recon_no="350464">Pseudobassaris_riggsi</List>
+		<List recon_name="Pteronarctos_goedertae" recon_no="71885">Pteronarctos_goedertae</List>
+		<List recon_name="Quercygale_angustidens" recon_no="57927">Quercygale_angustidens</List>
+		<List recon_name="Stenogale_julieni" recon_no="348940">Stenogale_julieni</List>
+		<List recon_name="Tapocyon_robustus" recon_no="52074">Tapocyon_robustus</List>
+		<List recon_name="Thinocyon_sp" recon_no="-1">Thinocyon_sp</List>
+		<List recon_name="Ursus_sp" recon_no="-1">Ursus_sp</List>
+		<List recon_name="Viverravus_acutus" recon_no="52659">Viverravus_acutus</List>
+		<List recon_name="Viverravus_gracilis" recon_no="52662">Viverravus_gracilis</List>
+		<List recon_name="Viverravus_minutus" recon_no="52666">Viverravus_minutus</List>
+		<List recon_name="Viverravus_politus" recon_no="52668">Viverravus_politus</List>
+		<List recon_name="Vulpavus_ovatus" recon_no="-1">Vulpavus_ovatus</List>
+		<List recon_name="Vulpavus_profectus" recon_no="52682">Vulpavus_profectus</List>
+		<List recon_name="Zodiolestes_daimonelixensis" recon_no="52753">Zodiolestes_daimonelixensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tomiya_2011aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

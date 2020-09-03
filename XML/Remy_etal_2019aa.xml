@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List recon_name="Cardiolophus_radinskyi" recon_no="44924">Cardiolophus_radinskyi</List>
+		<List recon_name="DELETE" recon_no="-1">Hallensia_matthesi</List>
+		<List recon_name="Pliolophus_vulpiceps" recon_no="307872">Pliolophus_vulpiceps</List>
+		<List recon_name="Hyracotherium_leporinum" recon_no="307875">Hyracotherium_leporinum</List>
+		<List recon_name="DELETE" recon_no="-1">Propalaeotherium_gaudryi</List>
+		<List recon_name="DELETE" recon_no="-1">Orolophus_maldani</List>
+		<List recon_name="DELETE" recon_no="-1">Hyracotherium_levei_H_in_quotes</List>
+		<List recon_name="DELETE" recon_no="-1">Hyracotherium_remyi_H_in_quotes</List>
+		<List recon_name="Pachynolophus_duvali" recon_no="347906">Pachynolophus_duvali</List>
+		<List recon_name="Pachynolophus_cesserasicus" recon_no="347907">Pachynolophus_cesserasicus</List>
+		<List recon_name="Pachynolophus_eulaliensis" recon_no="347905">Pachynolophus_eulaliensis</List>
+		<List recon_name="Pachynolophus_livinierensis" recon_no="347909">Pachynolophus_livinierensis</List>
+		<List recon_name="Eurohippus_parvulus" recon_no="264220">Eurohippus_parvulus</List>
+		<List recon_name="Propalaeotherium_hassiacum" recon_no="63806">Propalaeotherium_hassiacum</List>
+		<List recon_name="Propalaeotherium_isselanum" recon_no="135287">Propalaeotherium_isselanum</List>
+		<List recon_name="Propalaeotherium_sudrei" recon_no="347372">Propalaeotherium_sudrei</List>
+		<List recon_name="Lophiotherium_pygmaeum" recon_no="47766">Lophiotherium_pygmaeum</List>
+		<List recon_name="Lophiotherium_cervulum" recon_no="109634">Lophiotherium_cervulum</List>
+		<List recon_name="Palaeotherium_magnum" recon_no="374360">Palaeotherium_magnum</List>
+		<List recon_name="Plagiolophus_minor" recon_no="348700">Plagiolophus_minor</List>
+		<List recon_name="DELETE" recon_no="-1">Leptolophus_nouleti</List>
+		<List recon_name="Pachynolophus_ruscassierensis" recon_no="392997">Pachynolophus_ruscassierensis</List>
+		<List recon_name="DELETE" recon_no="-1">Pachynolophus_sp_AUM</List>
+		<List recon_name="DELETE" recon_no="-1">Propalaeotherium_cf_gaudryi</List>
+		<List recon_name="Lophiotherium" recon_no="43007">Lophiotherium</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Remy_etal_2019aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

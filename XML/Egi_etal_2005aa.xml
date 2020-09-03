@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List recon_name="Procerberus_formicarum,Cimolestes_incisus,Altacreodus_magnus" recon_no="50717;45115;331293">Procerberus_and_Cimolestes</List>
+		<List recon_name="Proviverra_typica,Lesmesodon_behnkeae" recon_no="54265;424615">Proviverra_and_Lesmesodon</List>
+		<List recon_name="Allopterodon_torvidus" recon_no="347886">Allopterodon</List>
+		<List recon_name="Leonhardtina_gracilis" recon_no="63432">Leonhardtina</List>
+		<List recon_name="Eurotherium_matthesi,Eurotherium_theriodis" recon_no="347889;347693">Eurotherium</List>
+		<List recon_name="Prodissopsalis_eocaenicus" recon_no="63427">Prodissopsalis</List>
+		<List recon_name="Cynohyaenodon_lautricensis,Cynohyaenodon_magnus,Cynohyaenodon_trux" recon_no="348488;58762;424629">Cynohyaenodon</List>
+		<List recon_name="Paracynohyaenodon_schlosseri" recon_no="347887">Paracynohyaenodon</List>
+		<List recon_name="Brychotherium_ephalmos" recon_no="347508">Brychotherium</List>
+		<List recon_name="Metasinopa_napaki" recon_no="272063">Metasinopa</List>
+		<List recon_name="Dissopsalis_pyroclasticus" recon_no="272066">Dissopsalis</List>
+		<List recon_name="Anasinopa_leakeyi" recon_no="272060">Anasinopa</List>
+		<List recon_name="Paratritemnodon_indicus,Paratritemnodon_jandewalensis" recon_no="144281;144280">Paratritemnodon</List>
+		<List recon_name="Masrasector_aegypticum,Masrasector_ligabuei" recon_no="334670;362050">Masrasector</List>
+		<List recon_name="Kyawdawia_lupina" recon_no="80834">Kyawdawia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Egi_etal_2005aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

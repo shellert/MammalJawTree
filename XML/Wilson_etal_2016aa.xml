@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wilson, G. P.</List>
+			<List>Ekdale, E. G.</List>
+			<List>Hoganson, J. W.</List>
+			<List>Calede, J. J.</List>
+			<List>Linden, A. V.</List>
+		</Author>
+		<Year>2016</Year>
+		<Title>A large carnivorous mammal from the Late Cretaceous and the North American origin of marsupials</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>7</Volume>
+		<Pages>13734</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="48">
+		<List recon_name="DELETE" recon_no="-1">Amphitherium_and_Dryolestidae</List>
+		<List recon_name="Peramus_tenuirostris" recon_no="206735">Peramus</List>
+		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes</List>
+		<List recon_name="Kielantherium_gobiensis" recon_no="113800">Kielantherium</List>
+		<List recon_name="Potamotelses_aquilensis" recon_no="50649">Potamotelses</List>
+		<List recon_name="Kermackia_texana" recon_no="47439">Kermackia</List>
+		<List recon_name="Holoclemensia_texana" recon_no="47068">Holoclemensia</List>
+		<List recon_name="Pappotherium_pattersoni" recon_no="49766">Pappotherium</List>
+		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium</List>
+		<List recon_name="Deltatheroides_cretacicus" recon_no="70457">Deltatheroides</List>
+		<List recon_name="Tsagandelta_dashzevegi" recon_no="319140">Tsagandelta</List>
+		<List recon_name="Oklatheridium_minax,Oklatheridium_szalayi" recon_no="204005;204004">Oklatheridium</List>
+		<List recon_name="Sulestes_karakshi" recon_no="137970">Sulestes</List>
+		<List recon_name="Atokatheridium_boreni" recon_no="44378">Atokatheridium</List>
+		<List recon_name="Nanocuris_improvida" recon_no="109639">Nanocuris</List>
+		<List recon_name="Lotheridium_mengi" recon_no="319138">Lotheridium</List>
+		<List recon_name="DELETE" recon_no="-1">Gurlin_Tsav_Skull</List>
+		<List recon_name="Pariadens_kirklandi,Pariadens_mckennai" recon_no="49997;216468">Pariadens</List>
+		<List recon_name="Kokopellia_juddi" recon_no="47450">Kokopellia</List>
+		<List recon_name="Anchistodelphys_archibaldi,Anchistodelphys_delicatus" recon_no="44039;44040">Anchistodelphys</List>
+		<List recon_name="Iugomortiferum_thoringtoni" recon_no="47410">Iugomortiferum</List>
+		<List recon_name="Aenigmadelphys_archeri" recon_no="43786">Aenigmadelphys</List>
+		<List recon_name="Didelphodon_coyi,Didelphodon_vorax" recon_no="45707;45711">Didelphodon</List>
+		<List recon_name="Eodelphis_browni,Eodelphis_cutleri" recon_no="46139;46140">Eodelphis</List>
+		<List recon_name="Pediomys_elegans" recon_no="50063">Pediomys</List>
+		<List recon_name="Albertatherium_primus,Albertatherium_secundus" recon_no="43849;183692">Albertatherium</List>
+		<List recon_name="Alphadon_attaragos,Alphadon_eatoni,Alphadon_halleyi,Alphadon_marshi,Alphadon_sahnii,Alphadon_wilsoni" recon_no="43913;43916;43917;43921;43927;43928">Alphadon</List>
+		<List recon_name="Turgidodon_lillegraveni,Turgidodon_madseni,Turgidodon_praesagus,Turgidodon_rhaister" recon_no="52536;52537;52540;52541">Turgidodon</List>
+		<List recon_name="Glasbius_intricatus,Glasbius_twitchelli" recon_no="46652;46653">Glasbius</List>
+		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium</List>
+		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes</List>
+		<List recon_name="DELETE" recon_no="-1">Borhyaenids</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
+		<List recon_name="Andinodelphys_cochabambensis" recon_no="266231">Andinodelphys</List>
+		<List recon_name="Jaskhadelphys_minutus" recon_no="266235">Jaskhadelphys</List>
+		<List recon_name="Marmosa_demerarae,Marmosa_lepida,Marmosa_mexicana,Marmosa_murina,Marmosa_regina,Marmosa_robinsoni" recon_no="284733;284731;160951;233580;284735;284738">Marmosa</List>
+		<List recon_name="Didelphis_albiventris,Didelphis_marsupialis,Didelphis_virginiana" recon_no="234384;45701;45705">Didelphis</List>
+		<List recon_name="DELETE" recon_no="-1">Dasyurids</List>
+		<List recon_name="Dromiciops_gliroides" recon_no="234408">Dromiciops</List>
+		<List recon_name="Prokennalestes_trofimovi,Prokennalestes_minor" recon_no="137755;185139">Prokennalestes</List>
+		<List recon_name="Bobolestes_zenge" recon_no="137733">Bobolestes</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
+		<List recon_name="Kennalestes_gobiensis" recon_no="57349">Kennalestes</List>
+		<List recon_name="Zalambdalestes_lechei,Zalambdalestes_grangeri" recon_no="70459;57350">Zalambdalestes</List>
+		<List recon_name="Aspanlestes_aptap" recon_no="137972">Aspanlestes</List>
+		<List recon_name="DELETE" recon_no="-1">Leptictids</List>
+		<List recon_name="Herpetotherium_fugax,Herpetotherium_innominatum,Herpetotherium_knighti,Herpetotherium_merriami,Herpetotherium_valens,Herpetotherium_youngi" recon_no="339420;288487;46893;46896;46901;46902">Herpetotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Mimo_Peradectes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="164">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wilson_etal_2016a</Filename>
+	<Parent>Rougier_etal_2015a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martin, T.</List>
+			<List>Marugan-Lobon, J.</List>
+			<List>Vullo, R.</List>
+			<List>Martin-Abad, H.</List>
+			<List>Luo, Z.-X.</List>
+			<List>Buscalioni, A. D.</List>
+		</Author>
+		<Year>2015</Year>
+		<Title>A Cretaceous eutriconodont and integument evolution in early mammals</Title>
+		<Journal>Nature</Journal>
+		<Volume>526</Volume>
+		<Pages>380-384</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">Sinoconodon</List>
+		<List recon_name="Morganucodon_oehleri,Morganucodon_watsoni" recon_no="203398;203396">Morganucodon</List>
+		<List recon_name="Erythrotherium_parringtoni" recon_no="203402">Erythrotherium</List>
+		<List recon_name="Megazostrodon_rudnerae" recon_no="178199">Megazostrodon</List>
+		<List recon_name="Dinnetherium_nezorum" recon_no="175122">Dinnetherium</List>
+		<List recon_name="Kuehneotherium_praecursoris" recon_no="206725">Kuehneotherium</List>
+		<List recon_name="Haldanodon_exspectatus" recon_no="203425">Haldanodon</List>
+		<List recon_name="Docodon_affinis,Docodon_apoxys,Docodon_crassus,Docodon_striatus,Docodon_superus,Docodon_victor" recon_no="203421;294091;203422;57743;203423;203420">Docodon</List>
+		<List recon_name="Castorocauda_lutrasimilis" recon_no="72329">Castorocauda</List>
+		<List recon_name="Phascolotherium_bucklandi" recon_no="207503">Phascolotherium</List>
+		<List recon_name="Amphilestes_broderipii" recon_no="203412">Amphilestes</List>
+		<List recon_name="Hakusanodon_archaeus" recon_no="106806">Hakusanodon</List>
+		<List recon_name="Juchilestes_liaoningensis" recon_no="197849">Juchilestes</List>
+		<List recon_name="Spinolestes_xenarthrosus" recon_no="331039">Spinolestes</List>
+		<List recon_name="Gobiconodon_borissiaki,Gobiconodon_ostromi" recon_no="140283;46675">Gobiconodon</List>
+		<List recon_name="Repenomamus_giganticus,Repenomamus_robustus" recon_no="67606;67607">Repenomamus</List>
+		<List recon_name="Jeholodens_jenkinsi" recon_no="197843">Jeholodens</List>
+		<List recon_name="Yanoconodon_allini" recon_no="65083">Yanoconodon</List>
+		<List recon_name="Liaoconodon_hui" recon_no="239722">Liaoconodon</List>
+		<List recon_name="Argentoconodon_fariasorum" recon_no="53114">Argentoconodon</List>
+		<List recon_name="Volaticotherium_antiquus" recon_no="91434">Volaticotherium</List>
+		<List recon_name="Trioracodon_ferox,Trioracodon_oweni" recon_no="203407;203410">Trioracodon</List>
+		<List recon_name="Triconodon_mordax" recon_no="203406">Triconodon</List>
+		<List recon_name="Priacodon_fruitaensis,Priacodon_grandaevus,Priacodon_lulli,Priacodon_robustus" recon_no="98729;203404;203405;203403">Priacodon</List>
+		<List recon_name="Arundelconodon_hottoni" recon_no="44330">Arundelconodon</List>
+		<List recon_name="Meiconodon_lii,Meiconodon_setoguchii" recon_no="216655;216656">Meiconodon</List>
+		<List recon_name="Astroconodon_delicatus,Astroconodon_denisoni" recon_no="44367;44368">Astroconodon</List>
+		<List recon_name="Alticonodon_lindoei" recon_no="43945">Alticonodon</List>
+		<List recon_name="Corviconodon_montanensis,Corviconodon_utahensis" recon_no="143620;45284">Corviconodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="90">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martin_etal_2015aa</Filename>
+	<Parent>Gaetano_et_Rougier_2011a</Parent>
+	<Sibling/>
+</SourceTree>

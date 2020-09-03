@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List recon_name="Maelestes" recon_no="143917">Maelestes</List>
+		<List recon_name="Zalambdalestes" recon_no="40217">Zalambdalestes</List>
+		<List recon_name="Leptictis" recon_no="40260">Leptictis</List>
+		<List recon_name="Alcidedorbignya" recon_no="165548">Alcidedorbignya</List>
+		<List recon_name="Protungulatum" recon_no="40211">Protungulatum</List>
+		<List recon_name="Hyopsodus" recon_no="42250">Hyopsodus</List>
+		<List recon_name="Meniscotherium" recon_no="42262">Meniscotherium</List>
+		<List recon_name="Phenacodus" recon_no="42288">Phenacodus</List>
+		<List recon_name="Pleuraspidotherium" recon_no="42264">Pleuraspidotherium</List>
+		<List recon_name="Maiorana" recon_no="42277">Maiorana</List>
+		<List recon_name="Baioconodon" recon_no="42899">Baioconodon</List>
+		<List recon_name="Arctocyonides" recon_no="42201">Arctocyonides</List>
+		<List recon_name="Colbertia" recon_no="43346">Colbertia</List>
+		<List recon_name="Plesiotypotherium" recon_no="92643">Plesiotypotherium</List>
+		<List recon_name="Protypotherium" recon_no="43422">Protypotherium</List>
+		<List recon_name="Adinotherium" recon_no="43391">Adinotherium</List>
+		<List recon_name="Notostylops" recon_no="43339">Notostylops</List>
+		<List recon_name="Pyrotherium" recon_no="43520">Pyrotherium</List>
+		<List recon_name="Miguelsoria" recon_no="43491">Miguelsoria</List>
+		<List recon_name="Proterotheriidae" recon_no="43468">Proterotheriidae</List>
+		<List recon_name="Macrauchenia" recon_no="43497">Macrauchenia</List>
+		<List recon_name="Trigonostylops" recon_no="43458">Trigonostylops</List>
+		<List recon_name="Astrapotherium" recon_no="43462">Astrapotherium</List>
+		<List recon_name="Eoastrapostylops" recon_no="264915">Eoastrapostylops</List>
+		<List recon_name="Carodnia" recon_no="43514">Carodnia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kramarz_etal_2017ac</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

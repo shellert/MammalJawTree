@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="54">
+		<List recon_name="Amphitherium" recon_no="39880">Amphitherium</List>
+		<List recon_name="Peramus" recon_no="39884">Peramus</List>
+		<List recon_name="Vincelestes" recon_no="67458">Vincelestes</List>
+		<List recon_name="Aegialodon" recon_no="39917">Aegialodon</List>
+		<List recon_name="Kielantherium" recon_no="39918">Kielantherium</List>
+		<List recon_name="Potamotelses" recon_no="39935">Potamotelses</List>
+		<List recon_name="Comanchea" recon_no="39932">Comanchea</List>
+		<List recon_name="Slaughteria" recon_no="39925">Slaughteria</List>
+		<List recon_name="Trinititherium" recon_no="39930">Trinititherium</List>
+		<List recon_name="Kermackia" recon_no="39929">Kermackia</List>
+		<List recon_name="Picopsis" recon_no="39933">Picopsis</List>
+		<List recon_name="Holoclemensia" recon_no="39927">Holoclemensia</List>
+		<List recon_name="Pappotherium" recon_no="39924">Pappotherium</List>
+		<List recon_name="Deltatheridium" recon_no="39920">Deltatheridium</List>
+		<List recon_name="Deltatheroides" recon_no="39921">Deltatheroides</List>
+		<List recon_name="Tsagandelta" recon_no="319139">Tsagandelta</List>
+		<List recon_name="Oklatheridium" recon_no="204003">Oklatheridium</List>
+		<List recon_name="Sulestes" recon_no="137969">Sulestes</List>
+		<List recon_name="Atokatheridium" recon_no="44377">Atokatheridium</List>
+		<List recon_name="Nanocuris" recon_no="109638">Nanocuris</List>
+		<List recon_name="Gurlin" recon_no="-1">Gurlin</List>
+		<List recon_name="Pariadens" recon_no="40009">Pariadens</List>
+		<List recon_name="Kokopellia" recon_no="39943">Kokopellia</List>
+		<List recon_name="Falepetrus" recon_no="39909">Falepetrus</List>
+		<List recon_name="Zygiocuspis" recon_no="39915">Zygiocuspis</List>
+		<List recon_name="Anchistodelphys" recon_no="39940">Anchistodelphys</List>
+		<List recon_name="Iugomortiferum" recon_no="39942">Iugomortiferum</List>
+		<List recon_name="Aenigmadelphys" recon_no="39939">Aenigmadelphys</List>
+		<List recon_name="Didelphodon" recon_no="40007">Didelphodon</List>
+		<List recon_name="Eodelphis" recon_no="40008">Eodelphis</List>
+		<List recon_name="Pediomys" recon_no="40001">Pediomys</List>
+		<List recon_name="Albertatherium" recon_no="39946">Albertatherium</List>
+		<List recon_name="Alphadon" recon_no="39947">Alphadon</List>
+		<List recon_name="Turgidodon" recon_no="39994">Turgidodon</List>
+		<List recon_name="Glasbius" recon_no="39998">Glasbius</List>
+		<List recon_name="Asiatherium" recon_no="183887">Asiatherium</List>
+		<List recon_name="Mayulestes" recon_no="246572">Mayulestes</List>
+		<List recon_name="Borhyaenids" recon_no="-1">Borhyaenids</List>
+		<List recon_name="Pucadelphys" recon_no="246332">Pucadelphys</List>
+		<List recon_name="Andinodelphys" recon_no="246586">Andinodelphys</List>
+		<List recon_name="Jaskhadelphys" recon_no="106234">Jaskhadelphys</List>
+		<List recon_name="Marmosa" recon_no="39970">Marmosa</List>
+		<List recon_name="Didelphis" recon_no="39959">Didelphis</List>
+		<List recon_name="Dasyurids" recon_no="-1">Dasyurids</List>
+		<List recon_name="Dromiciops" recon_no="234014">Dromiciops</List>
+		<List recon_name="Prokennalestes" recon_no="137754">Prokennalestes</List>
+		<List recon_name="Bobolestes" recon_no="137731">Bobolestes</List>
+		<List recon_name="Asioryctes" recon_no="40213">Asioryctes</List>
+		<List recon_name="Kennalestes" recon_no="40214">Kennalestes</List>
+		<List recon_name="Zalambdalestes" recon_no="40217">Zalambdalestes</List>
+		<List recon_name="Aspanlestes" recon_no="137748">Aspanlestes</List>
+		<List recon_name="Leptictids" recon_no="-1">Leptictids</List>
+		<List recon_name="Gurbanodelta" recon_no="348465">Gurbanodelta</List>
+		<List recon_name="Lotheridium" recon_no="319137">Lotheridium</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ni_etal_2016aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

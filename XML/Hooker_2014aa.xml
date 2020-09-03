@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="52">
+		<List recon_name="Outgroup" recon_no="-1">Outgroup</List>
+		<List recon_name="Ukhaatherium" recon_no="137752">Ukhaatherium</List>
+		<List recon_name="Maelestes" recon_no="143917">Maelestes</List>
+		<List recon_name="Asioryctes" recon_no="40213">Asioryctes</List>
+		<List recon_name="Zhelestidae" recon_no="67569">Zhelestidae</List>
+		<List recon_name="Zalambdalestidae" recon_no="40215">Zalambdalestidae</List>
+		<List recon_name="Cimolestes_magnus" recon_no="45117">Cimolestes_magnus</List>
+		<List recon_name="Batodon" recon_no="40393">Batodon</List>
+		<List recon_name="Gypsonictops" recon_no="40255">Gypsonictops</List>
+		<List recon_name="Deccanolestes" recon_no="53991">Deccanolestes</List>
+		<List recon_name="Afrodon_and_Bustylus" recon_no="-1">Afrodon_and_Bustylus</List>
+		<List recon_name="Fordonia" recon_no="159170">Fordonia</List>
+		<List recon_name="Leptictidium" recon_no="40267">Leptictidium</List>
+		<List recon_name="Prodiacodon_and_Palaeictops" recon_no="-1">Prodiacodon_and_Palaeictops</List>
+		<List recon_name="Leptictis" recon_no="40260">Leptictis</List>
+		<List recon_name="Aphronorus" recon_no="40273">Aphronorus</List>
+		<List recon_name="Coriphagus" recon_no="40278">Coriphagus</List>
+		<List recon_name="Palaeosinopa" recon_no="40285">Palaeosinopa</List>
+		<List recon_name="Escavadodon" recon_no="43663">Escavadodon</List>
+		<List recon_name="Miacis_and_Vulpavus" recon_no="-1">Miacis_and_Vulpavus</List>
+		<List recon_name="Viverravus" recon_no="40995">Viverravus</List>
+		<List recon_name="Protungulatum" recon_no="40211">Protungulatum</List>
+		<List recon_name="Loxolophus" recon_no="42209">Loxolophus</List>
+		<List recon_name="Arctocyon" recon_no="42200">Arctocyon</List>
+		<List recon_name="Pseudictops" recon_no="247229">Pseudictops</List>
+		<List recon_name="Gomphos" recon_no="41364">Gomphos</List>
+		<List recon_name="Rhombomylus" recon_no="41362">Rhombomylus</List>
+		<List recon_name="Macrocranion" recon_no="40355">Macrocranion</List>
+		<List recon_name="Apheliscus" recon_no="42231">Apheliscus</List>
+		<List recon_name="Haplomylus" recon_no="42249">Haplomylus</List>
+		<List recon_name="Paschatherium" recon_no="42257">Paschatherium</List>
+		<List recon_name="Rhynchocyon" recon_no="40309">Rhynchocyon</List>
+		<List recon_name="Soricidae" recon_no="40443">Soricidae</List>
+		<List recon_name="Echinosorex" recon_no="99705">Echinosorex</List>
+		<List recon_name="Erinaceus" recon_no="40375">Erinaceus</List>
+		<List recon_name="Onychonycteris" recon_no="117584">Onychonycteris</List>
+		<List recon_name="Icaronycteris" recon_no="40632">Icaronycteris</List>
+		<List recon_name="Rhinolophus" recon_no="40646">Rhinolophus</List>
+		<List recon_name="Leptacodon" recon_no="40499">Leptacodon</List>
+		<List recon_name="Cryptotopos" recon_no="92283">Cryptotopos</List>
+		<List recon_name="Tupaia" recon_no="40296">Tupaia</List>
+		<List recon_name="Ptilocercus" recon_no="97164">Ptilocercus</List>
+		<List recon_name="Mixodectes" recon_no="40333">Mixodectes</List>
+		<List recon_name="Eudaemonema" recon_no="40325">Eudaemonema</List>
+		<List recon_name="Elpidophorus" recon_no="40324">Elpidophorus</List>
+		<List recon_name="Plagiomene" recon_no="40326">Plagiomene</List>
+		<List recon_name="Cynocephalus" recon_no="236617">Cynocephalus</List>
+		<List recon_name="Purgatorius" recon_no="40704">Purgatorius</List>
+		<List recon_name="Micromomyidae" recon_no="40705">Micromomyidae</List>
+		<List recon_name="Ignacius" recon_no="40316">Ignacius</List>
+		<List recon_name="Plesiadapis" recon_no="40738">Plesiadapis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hooker_2014aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

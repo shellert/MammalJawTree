@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List recon_name="Sus_scrofa" recon_no="104172">Sus_scrofa</List>
+		<List recon_name="Hippopotamus" recon_no="42481">Hippopotamus</List>
+		<List recon_name="Pakicetidae" recon_no="310369">Pakicetidae</List>
+		<List recon_name="Ambulocetus" recon_no="36660">Ambulocetus</List>
+		<List recon_name="Remingtonocetus" recon_no="36838">Remingtonocetus</List>
+		<List recon_name="Dalanistes" recon_no="53240">Dalanistes</List>
+		<List recon_name="Andrewsiphius" recon_no="36663">Andrewsiphius</List>
+		<List recon_name="Kutchicetus" recon_no="63095">Kutchicetus</List>
+		<List recon_name="Maiacetus" recon_no="140883">Maiacetus</List>
+		<List recon_name="Artiocetus" recon_no="53316">Artiocetus</List>
+		<List recon_name="Gaviacetus" recon_no="53300">Gaviacetus</List>
+		<List recon_name="Rodhocetus" recon_no="36842">Rodhocetus</List>
+		<List recon_name="Carolinacetus" recon_no="66903">Carolinacetus</List>
+		<List recon_name="Aegyptocetus" recon_no="205439">Aegyptocetus</List>
+		<List recon_name="Protocetus" recon_no="36833">Protocetus</List>
+		<List recon_name="Natchitochia" recon_no="53997">Natchitochia</List>
+		<List recon_name="ChM_PV6950" recon_no="-1">ChM_PV6950</List>
+		<List recon_name="Georgiacetus" recon_no="36720">Georgiacetus</List>
+		<List recon_name="Eocetus" recon_no="36711">Eocetus</List>
+		<List recon_name="Basilotritus" recon_no="263252">Basilotritus</List>
+		<List recon_name="Babiacetus" recon_no="53315">Babiacetus</List>
+		<List recon_name="Basilosaurus" recon_no="36681">Basilosaurus</List>
+		<List recon_name="Dorudon" recon_no="36709">Dorudon</List>
+		<List recon_name="Qaisracetus" recon_no="53242">Qaisracetus</List>
+		<List recon_name="MUSM_1443" recon_no="-1">MUSM_1443</List>
+		<List recon_name="Supayacetus" recon_no="199243">Supayacetus</List>
+		<List recon_name="Ocucajea" recon_no="199246">Ocucajea</List>
+		<List recon_name="Saghacetus" recon_no="36844">Saghacetus</List>
+		<List recon_name="Zygorhiza" recon_no="36872">Zygorhiza</List>
+		<List recon_name="Ancalecetus" recon_no="53294">Ancalecetus</List>
+		<List recon_name="Cynthiacetus" recon_no="63143">Cynthiacetus</List>
+		<List recon_name="Chrysocetus" recon_no="57336">Chrysocetus</List>
+		<List recon_name="Peregocetus_pacificus" recon_no="384283">Peregocetus_pacificus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lambert_etal_2019aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

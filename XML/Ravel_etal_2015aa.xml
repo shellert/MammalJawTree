@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List recon_name="Icaronycteris_menui" recon_no="149422">Icaronycteris_menui</List>
+		<List recon_name="Archaeonycteris_brailloni" recon_no="149428">Archaeonycteris_brailloni</List>
+		<List recon_name="Palaeochiropteryx_tupaiodon" recon_no="385588">Palaeochiropteryx_tupaiodon</List>
+		<List recon_name="Dizzya_exsultans" recon_no="255586">Dizzya_exsultans</List>
+		<List recon_name="Witwatia_sigei" recon_no="374256">Witwatia_sigei</List>
+		<List recon_name="Witwatia_schlosseri" recon_no="136266">Witwatia_schlosseri</List>
+		<List recon_name="Witwatia_eremicus" recon_no="136267">Witwatia_eremicus</List>
+		<List recon_name="Philisis_sphingis" recon_no="136264">Philisis_sphingis</List>
+		<List recon_name="DELETE" recon_no="-1">Philisis_sevketi</List>
+		<List recon_name="DELETE" recon_no="-1">Scotophilisis_lybicus</List>
+		<List recon_name="DELETE" recon_no="-1">Scotophilus_viridis</List>
+		<List recon_name="Myotis_myotis" recon_no="94474">Myotis_myotis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ravel_etal_2015aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

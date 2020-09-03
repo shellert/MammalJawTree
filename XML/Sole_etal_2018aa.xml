@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List recon_name="Arctocyon_primaevus" recon_no="54258">Arctocyon</List>
+		<List recon_name="Diacodexis_pakistanensis" recon_no="68275">Diacodexis_pakistanensis</List>
+		<List recon_name="Diacodexis_metsiacus" recon_no="45623">Diacodexis_metsiacus</List>
+		<List recon_name="Eoconodon_heilprinianus,Eoconodon_coryphaeus,Goniacodon_gaudryanus" recon_no="46137;46135;352669">Eoconodon</List>
+		<List recon_name="Andrewsarchus_crassum,Andrewsarchus_mongoliensis" recon_no="364661;253283">Andrewsarchus</List>
+		<List recon_name="Hapalodectes_hetangensis" recon_no="142988">Hapalodectes_hetangensis</List>
+		<List recon_name="Hapalodectes_leptognathus" recon_no="46772">Hapalodectes_leptognathus</List>
+		<List recon_name="Hapalodectes_dux" recon_no="93655">Hapalodectes_dux</List>
+		<List recon_name="Hapalodectes_paleocenus" recon_no="172548">Hapalodectes_paleocenus</List>
+		<List recon_name="Hapalodectes_huanghaiensis" recon_no="348360">Hapalodectes_huanghaiensis</List>
+		<List recon_name="Hapalodectes_serus" recon_no="142989">Hapalodectes_serus</List>
+		<List recon_name="Hapalodectes_anthracinus" recon_no="46770">Hapalodectes_anthracinus</List>
+		<List recon_name="Ankalagon_saurognathus" recon_no="44111">Ankalagon</List>
+		<List recon_name="Sinonyx_jiashanensis" recon_no="140416">Sinonyx</List>
+		<List recon_name="Pachyaena_gigantea" recon_no="49572">Pachyaena_gigantea</List>
+		<List recon_name="Pachyaena_ossifraga" recon_no="49575">Pachyaena_ossifraga</List>
+		<List recon_name="Mesonyx_obtusidens" recon_no="48405">Mesonyx</List>
+		<List recon_name="Synoplotherium_canius" recon_no="329988">Synoplotherium</List>
+		<List recon_name="Harpagolestes_orientalis,Harpagolestes_macrocephalus,Harpagolestes_koreanicus,Harpagolestes_orientalis" recon_no="381548;46806;381547;381548">Harpagolestes</List>
+		<List recon_name="Dissacus_praenuntius" recon_no="45871">Dissacus_praenuntius</List>
+		<List recon_name="Dissacus_navajovius" recon_no="45870">Dissacus_navajovius</List>
+		<List recon_name="Dissacus_argenteus" recon_no="45867">Dissacus_argenteus</List>
+		<List recon_name="Dissacus_willwoodensis" recon_no="45874">Dissacus_willwoodensis</List>
+		<List recon_name="Dissacus_serior" recon_no="45873">Dissacus_serior</List>
+		<List recon_name="Dissacus_rougierae" recon_no="351092">Dissacus_rougierae</List>
+		<List recon_name="Dissacus_europaeus" recon_no="351085">Dissacus_europaeus</List>
+		<List recon_name="Dissacus_blayaci" recon_no="351089">Dissacus_blayaci</List>
+		<List recon_name="Dissacus_raslanloubatieri" recon_no="351091">Dissacus_raslanloubatieri</List>
+		<List recon_name="Dissacus_filholi" recon_no="351088">Dissacus_filholi</List>
+		<List recon_name="Dissacus_zanabazari" recon_no="156948">Dissacus_zanabazari</List>
+		<List recon_name="Dissacus_serratus" recon_no="332451">Dissacus_serratus</List>
+		<List recon_name="Dissacus_bohaiensis" recon_no="348361">Dissacus_bohaiensis</List>
+		<List recon_name="Dissacus_rotundus" recon_no="348026">Dissacus_rotundus</List>
+		<List recon_name="Dissacus_zengi" recon_no="351094">Dissacus_zengi</List>
+		<List recon_name="Dissacus_magushanensis" recon_no="342562">Dissacus_magushanensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sole_etal_2018aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

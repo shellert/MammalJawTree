@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wang, H.-B.</List>
+			<List>Bai, B.</List>
+			<List>Meng, J.</List>
+			<List>Wang, Y.-Q.</List>
+		</Author>
+		<Year>2016</Year>
+		<Title>Earliest known unequivocal rhinocerotoid sheds new light on the origin of Giant Rhinos and phylogeny of early rhinocerotoids</Title>
+		<Journal>Scientific Reports</Journal>
+		<Volume>6</Volume>
+		<Pages>39607</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List recon_name="Heptodon_posticus" recon_no="46884">Heptodon_posticus</List>
+		<List recon_name="Hyrachyus_eximius" recon_no="47274">Hyrachyus_eximius</List>
+		<List recon_name="Hyrachyus_princeps" recon_no="47285">Hyrachyus_princeps</List>
+		<List recon_name="Rostriamynodon_grangeri" recon_no="116199">Rostriamynodon_grangeri</List>
+		<List recon_name="Amynodon_advenus" recon_no="44005">Amynodon_advenus</List>
+		<List recon_name="Forstercooperia_totadentata" recon_no="371895">F_totadentata</List>
+		<List recon_name="Pappaceras_confluens" recon_no="348108">Pappaceras_confluens</List>
+		<List recon_name="Pappaceras_minuta" recon_no="348685">Pappaceras_minuta</List>
+		<List recon_name="Pappaceras_meiomenus" recon_no="348686">Pap_meiomenus</List>
+		<List recon_name="Triplopus_cubitalis" recon_no="52505">Triplopus_cubitalis</List>
+		<List recon_name="Hyracodon_nebraskensis" recon_no="47298">H_nebraskensis</List>
+		<List recon_name="Prohyracodon_meridionale" recon_no="333045">Pro_meridionale</List>
+		<List recon_name="Epitriplopus_uintensis" recon_no="46224">Epitriplopus_uintensis</List>
+		<List recon_name="Triplopides_rieli" recon_no="52503">Triplopides_rieli</List>
+		<List recon_name="Ardynia_praecox" recon_no="104271">Ardynia_praecox</List>
+		<List recon_name="Eggysodon_osborni" recon_no="347632">Eggysodon_osborni</List>
+		<List recon_name="Allacerops_turgaica" recon_no="53411">Allacerops_turgaica</List>
+		<List recon_name="Proeggysodon_qiui" recon_no="336048">Proeggysodon_qiui</List>
+		<List recon_name="Juxia_sharamurenensis" recon_no="348086">J_sharamurenensis</List>
+		<List recon_name="Urtinotherium_intermedium" recon_no="348089">U_intermedium</List>
+		<List recon_name="Paraceratherium_grangeri" recon_no="348091">Par_grangeri</List>
+		<List recon_name="Uintaceras_radinskyi" recon_no="52547">Uintaceras_radinskyi</List>
+		<List recon_name="Teletaceras_borissiaki" recon_no="297087">Teletaceras_borissiaki</List>
+		<List recon_name="Trigonias_osborni" recon_no="52444">Trigonias_osborni</List>
+		<List recon_name="Subhyracodon_occidentalis" recon_no="51873">S_occidentalis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="203">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wang_etal_2016f</Filename>
+	<Parent>Antoine_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

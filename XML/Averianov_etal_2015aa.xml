@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Averianov, A. O.</List>
+			<List>Martin, T.</List>
+			<List>Lopatin, A.</List>
+			<List>Krasnolutskii, S.</List>
+		</Author>
+		<Year>2015</Year>
+		<Title>Stem therian mammal <em>Amphibetulimus</em> from the Middle Jurassic of Siberia</Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume>89</Volume>
+		<Pages>197-206</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="44">
+		<List recon_name="Phascolotherium_bucklandi" recon_no="207503">Phascolotherium_bucklandi</List>
+		<List recon_name="Amphilestes_broderipii" recon_no="203412">Amphilestes_broderipi</List>
+		<List recon_name="Tinodon_bellus" recon_no="69253">Tinodon_bellus</List>
+		<List recon_name="Yermakia_domitor" recon_no="216643">Yermakia_domitor</List>
+		<List recon_name="Gobiotheriodon_infinitus" recon_no="204188">Gobiotheriodon_infinitus</List>
+		<List recon_name="Kiyatherium_cardiodens" recon_no="216648">Kiyatherium_cardiodens</List>
+		<List recon_name="Zhangheotherium_quinquecuspidens" recon_no="65258">Zhangheotherium_quiquecuspidens</List>
+		<List recon_name="Maotherium_sinensis" recon_no="197845">Maotherium_sinense</List>
+		<List recon_name="Maotherium_asiaticus" recon_no="156659">Maotherium_asiaticum</List>
+		<List recon_name="Spalacotherium_tricuspidens" recon_no="66821">Spalacotherium_tricuspidens</List>
+		<List recon_name="Spalacolestes_cretulablatta" recon_no="51673">Spalacolestes_cretulablatta</List>
+		<List recon_name="Groebertherium_stipanicici" recon_no="67609">Groebertherium_stipanicici</List>
+		<List recon_name="Dryolestes_priscus" recon_no="57720">Dryolestes_priscus</List>
+		<List recon_name="Dryolestes_leirensis" recon_no="212351">Dryolestes_leiriensis</List>
+		<List recon_name="Laolestes_eminens" recon_no="57719">Laolestes_eminens</List>
+		<List recon_name="Krebsotherium_lusitanicum" recon_no="212358">Krebsotherium_lusitanicum</List>
+		<List recon_name="Guimarotodus_inflatus" recon_no="212356">Guimarotodus_inflatus</List>
+		<List recon_name="Amblotherium_gracile" recon_no="212352">Amblotherium_gracile</List>
+		<List recon_name="Amblotherium_pusillum" recon_no="206741">Amblotherium_pusillum</List>
+		<List recon_name="Achyrodon_nanus" recon_no="207508">Achyrodon_nanus</List>
+		<List recon_name="Phascolestes_mustelulus" recon_no="212363">Phascolestes_mustelulus</List>
+		<List recon_name="Crusafontia_cuencana" recon_no="206747">Crusafontia_cuencana</List>
+		<List recon_name="Euthlastus_cordiformis" recon_no="57736">Euthlastus_cordiformis</List>
+		<List recon_name="Tathiodon_agilis" recon_no="206739">Tathiodon_agilis</List>
+		<List recon_name="Paurodon_valens" recon_no="57727">Paurodon_valens</List>
+		<List recon_name="Henkelotherium_guimarotae" recon_no="212375">Henkelotherium_guimarotae</List>
+		<List recon_name="Drescheratherium_acutum" recon_no="212374">Drescheratherium_acutum</List>
+		<List recon_name="Amphitherium_prevostii" recon_no="206734">Amphitherium_prevostii</List>
+		<List recon_name="Palaeoxonodon_ooliticus" recon_no="206737">Palaeoxonodon_ooliticus</List>
+		<List recon_name="Amphibetulimus_krasnolutskii" recon_no="257526">Amphibetulimus_krasnolutskii</List>
+		<List recon_name="Nanolestes_drescherae" recon_no="213203">Nanolestes_drescherae</List>
+		<List recon_name="Arguimus_khosbajari" recon_no="204159">Arguimus_khosbajari</List>
+		<List recon_name="Mozomus_shikamai" recon_no="155050">Mozomus_shikamai</List>
+		<List recon_name="Peramus_tenuirostris" recon_no="206735">Peramus_tenuirostris</List>
+		<List recon_name="Kielantherium_gobiensis" recon_no="113800">Kielantherium_gobiensis</List>
+		<List recon_name="Prokennalestes" recon_no="137754">Prokennalestes_spp</List>
+		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes_neuquenianus</List>
+		<List recon_name="Cronopio_dentiacutus" recon_no="204734">Cronopio_dentiacutus</List>
+		<List recon_name="Leonardus_cuspidatus" recon_no="207630">Leonardus_cuspidatus</List>
+		<List recon_name="Reigitherium_bunodontum" recon_no="207631">Reigitherium_bunodontum</List>
+		<List recon_name="Mesungulatum_houssayi" recon_no="67612">Mesungulatum_houssayi</List>
+		<List recon_name="Coloniatherium_cilinskii" recon_no="206767">Coloniatherium_cilinskii</List>
+		<List recon_name="Peligrotherium_tropicalis" recon_no="246789">Peligrotherium_tropicalis</List>
+		<List recon_name="Necrolestes_patagonensis" recon_no="244538">Necrolestes_patagonensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="137">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Averianov_etal_2015a</Filename>
+	<Parent>Averianov_etal_2014a</Parent>
+	<Sibling/>
+</SourceTree>

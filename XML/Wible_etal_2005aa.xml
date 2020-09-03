@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List recon_name="Sinomylus_zhaii" recon_no="246063">Sinomylus</List>
+		<List recon_name="Tribosphenomys_minutus,Tribosphenomys_secundus" recon_no="91626;91627">Tribosphenomys</List>
+		<List recon_name="Alagomys_inopinatus,Alagomys_oriensis,Alagomys_russelli" recon_no="345680;336929;43845">Alagomys</List>
+		<List recon_name="Paramys_compressidens,Paramys_copei,Paramys_delicatus,Paramys_francesi,Paramys_huerfanensis,Paramys_taurus,Paramys_wortmani" recon_no="49889;49890;49893;49895;49898;49918;49922">Paramys</List>
+		<List recon_name="Reithroparamys_debequensis,Reithroparamys_delicatissimus,Reithroparamys_huerfanensis" recon_no="51327;51328;51330">Reithroparamys</List>
+		<List recon_name="Sciuravus_nitidus" recon_no="51463">Sciuravus</List>
+		<List recon_name="Protadelomys_alsaticus,Protadelomys_cartieri,Protadelomys_lugdunensis" recon_no="347891;350387;350388">Protadelomys</List>
+		<List recon_name="Cocomys_lingchaensis" recon_no="336872">Cocomys</List>
+		<List recon_name="Exmus_mini" recon_no="333481">Exmus</List>
+		<List recon_name="Bandaomys_zhonghuaensis" recon_no="348352">Bandaomys</List>
+		<List recon_name="Tamquammys_dispinorum,Tamquammys_tantillus,Tamquammys_wilsoni" recon_no="336844;336843;336842">Tamquammys</List>
+		<List recon_name="Advenimus_burkei,Advenimus_hupeiensis" recon_no="334463;336857">Advenimus</List>
+		<List recon_name="Yuomys_cavioides" recon_no="336853">Yuomys</List>
+		<List recon_name="Tataromys_minor,Tataromys_plicidens,Tataromys_sigmodon" recon_no="334360;333042;115795">Tataromys</List>
+		<List recon_name="Sayimys_perplexus" recon_no="104396">Sayimys</List>
+		<List recon_name="Ctenodactylus" recon_no="233229">Ctenodactylus</List>
+		<List recon_name="Pectinator_spekei" recon_no="233236">Pectinator</List>
+		<List recon_name="Tsaganomys_altaicus,Tsaganomys_minutus" recon_no="98677;333349">Tsaganomys</List>
+		<List recon_name="Paraphiomys_orangeus,Paraphiomys_pigotti" recon_no="348838;351997">Paraphiomys</List>
+		<List recon_name="Erethizon_dorsatum" recon_no="46320">Erethizon</List>
+		<List recon_name="Cavia_aperea,Cavia_fulgida,Cavia_magna,Cavia_porcellus,Cavia_intermedia,Cavia_tschudii" recon_no="83725;233793;233795;233628;233796;233794">Cavia</List>
+		<List recon_name="Dasyprocta_leporina,Dasyprocta_punctata" recon_no="233629;238324">Dasyprocta</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wible_etal_2005aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List recon_name="Viverravus" recon_no="40995">Viverravus</List>
+		<List recon_name="Didymictis" recon_no="40973">Didymictis</List>
+		<List recon_name="Protictis" recon_no="40975">Protictis</List>
+		<List recon_name="Miacis" recon_no="40979">Miacis</List>
+		<List recon_name="Vulpavus" recon_no="40991">Vulpavus</List>
+		<List recon_name="Oodectes" recon_no="40981">Oodectes</List>
+		<List recon_name="Daphoenodon" recon_no="41278">Daphoenodon</List>
+		<List recon_name="Daphoenus" recon_no="41279">Daphoenus</List>
+		<List recon_name="Paradaphaenus" recon_no="407950">Paradaphaenus</List>
+		<List recon_name="Dinaelurus_crassus" recon_no="45744">Dinaelurus_crassus</List>
+		<List recon_name="Nimravus_brachyops" recon_no="49167">Nimravus_brachyops</List>
+		<List recon_name="Nimravus_intermedius" recon_no="347808">Nimravus_intermedius</List>
+		<List recon_name="Eofelis" recon_no="41053">Eofelis</List>
+		<List recon_name="Dinailurictis_bonali" recon_no="348601">Dinailurictis_bonali</List>
+		<List recon_name="Quercylurus_major" recon_no="348604">Quercylurus_major</List>
+		<List recon_name="Dinictis_felina" recon_no="45752">Dinictis_felina</List>
+		<List recon_name="Pogonodon_platycopis" recon_no="50636">Pogonodon_platycopis</List>
+		<List recon_name="Pogonodon_davisi" recon_no="50634">Pogonodon_davisi</List>
+		<List recon_name="Nanosmilus_kurteni" recon_no="48994">Nanosmilus_kurteni</List>
+		<List recon_name="Hoplophoneus_oharrai" recon_no="47105">Hoplophoneus_oharrai</List>
+		<List recon_name="Hoplophoneus_primaevus" recon_no="47108">Hoplophoneus_primaevus</List>
+		<List recon_name="Hoplophoneus_occidentalis" recon_no="47104">Hoplophoneus_occidentalis</List>
+		<List recon_name="Hoplophoneus_dakotensis" recon_no="47096">Hoplophoneus_dakotensis</List>
+		<List recon_name="Hoplophoneus_sicarius" recon_no="47110">Hoplophoneus_sicarius</List>
+		<List recon_name="Hoplophoneus_cerebralis" recon_no="47095">Hoplophoneus_cerebralis</List>
+		<List recon_name="Eusmilus_bidentatus" recon_no="348916">Eusmilus_bidentatus</List>
+		<List recon_name="Eusmilus_villebramarensis" recon_no="348930">Eusmilus_villebramarensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Barrett_2016aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

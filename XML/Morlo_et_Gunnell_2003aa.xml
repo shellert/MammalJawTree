@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> add_author_here </List>
+		</Author>
+		<Year>2014</Year>
+		<Title>insert_title_here</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>Page_range</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List recon_name="Galecyon_mordax" recon_no="46576">Galecyon_mordax</List>
+		<List recon_name="Prototomus_phobos" recon_no="51110">Prototomus_phobos</List>
+		<List recon_name="Thinocyon_velox" recon_no="52253">Thinocyon_velox</List>
+		<List recon_name="Thinocyon_medius" recon_no="52249">Thinocyon_medius</List>
+		<List recon_name="Iridodon_datzae" recon_no="303094">Iridodon_datzae</List>
+		<List recon_name="Limnocyon_verus" recon_no="47679">Limnocyon_verus</List>
+		<List recon_name="Limnocyon_potens" recon_no="47675">Limnocyon_potens</List>
+		<List recon_name="Prolimnocyon_atavus" recon_no="50793">Prolimnocyon_atavus</List>
+		<List recon_name="Prolimnocyon_haematus" recon_no="50797">Prolimnocyon_haematus</List>
+		<List recon_name="Oxyaenodon_dysodus" recon_no="49547">Oxyaenodon_dysodus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Morlo_et_Gunnell_2003aa</Filename>
+	<Parent>add_parent_here</Parent>
+	<Sibling/>
+</SourceTree>

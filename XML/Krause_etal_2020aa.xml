@@ -1,0 +1,130 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Krause, D. W.</List>
+			<List>Hoffman, S.</List>
+			<List>Hu, Y.-M.</List>
+			<List>Wible, J. R.</List>
+			<List>Rougier, G. W.</List>
+			<List>Kirk, E. C.</List>
+			<List>Groenke, J. R.</List>
+			<List>Rogers, R. R.</List>
+			<List>Rossie, J. B.</List>
+			<List>Schultz, J. A.</List>
+			<List>Evans, A. R.</List>
+			<List>von Koenigswald, W.</List>
+			<List>Rahantarisca, L. J.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Skeleton of a Cretaceous mammal from Madagascar reflects long-term insularity</Title>
+		<Journal>Nature</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="84">
+		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
+		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus</List>
+		<List recon_name="Cynognathus_minor" recon_no="177560">Cynognathus</List>
+		<List recon_name="Diademodon_tetragonus" recon_no="171986">Diademodon</List>
+		<List recon_name="Exaeretodon_riograndensis,Exaeretodon_frenguellii" recon_no="333700;117949">Exaeretodon</List>
+		<List recon_name="Oligokyphus_major,Oligokyphus_minor,Oligokyphus_lufengensis" recon_no="252539;252543;178204">Oligokyphus</List>
+		<List recon_name="Kayentatherium_wellesi" recon_no="175105">Kayentatherium</List>
+		<List recon_name="Yunnanodon_brevirostre" recon_no="252933">Yunnanodon</List>
+		<List recon_name="Bocatherium_mexicanum" recon_no="252017">Bocatherium</List>
+		<List recon_name="Bienotheroides_wansienensis,Bienotheroides_zigongensis" recon_no="112542;260786">Bienotheroides</List>
+		<List recon_name="Bienotherium_yunnanense,Bienotherium_elegans,Bienotherium_minor" recon_no="64289;252029;252060">Bienotherium</List>
+		<List recon_name="Pachygenelus_monus" recon_no="56650">Pachygenelus</List>
+		<List recon_name="Brasilodon_quadrangularis" recon_no="174538">Brasilodon</List>
+		<List recon_name="Riograndia_guaibensis" recon_no="178232">Riograndia</List>
+		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">Sinoconodon</List>
+		<List recon_name="Morganucodon_watsoni,Morganucodon_oehleri" recon_no="203396;203398">Morganucodon</List>
+		<List recon_name="Megazostrodon_rudnerae" recon_no="178199">Megazostrodon</List>
+		<List recon_name="Hadrocodium_wui" recon_no="91338">Hadrocodium</List>
+		<List recon_name="Haldanodon_exspectatus" recon_no="203425">Haldanodon</List>
+		<List recon_name="Pseudotribos_robustus" recon_no="130176">Pseudotribos</List>
+		<List recon_name="Ornithorhynchus_anatinus" recon_no="166835">Ornithorhynchus</List>
+		<List recon_name="Steropodon_galmani" recon_no="166544">Steropodon</List>
+		<List recon_name="Teinolophos_trusleri" recon_no="137612">Teinolophos</List>
+		<List recon_name="Obdurodon_dicksoni,Obdurodon_insignis,Obdurodon_tharalkooschild" recon_no="166585;166545;285190">Obdurodon</List>
+		<List recon_name="Megaconus_mammaliaformis" recon_no="276072">Megaconus</List>
+		<List recon_name="Haramiyavia_clemmenseni" recon_no="178263">Haramiyavia</List>
+		<List recon_name="Thomasia_antiqua,Thomasia_hahni,Thomasia_moorei,Thomasia_woutersi" recon_no="204239;208925;208923;208926">Thomasia</List>
+		<List recon_name="Arboroharamiya_jenkinsi" recon_no="276074">Arboroharamiya_j</List>
+		<List recon_name="Arboroharamiya_allinhopsoni" recon_no="106246">Arboroharamiya_a</List>
+		<List recon_name="Xianshou_linglong" recon_no="308737">Xianshou_l</List>
+		<List recon_name="Xianshou_songae" recon_no="308740">Xianshou_s</List>
+		<List recon_name="Shenshou_lui" recon_no="308734">Shenshou</List>
+		<List recon_name="Qishou_jizantang" recon_no="424651">Qishou</List>
+		<List recon_name="Maiopatagium_furculiferum" recon_no="358789">Maiopatagium</List>
+		<List recon_name="Vilevolodon_diplomylos" recon_no="358795">Vilevolodon</List>
+		<List recon_name="Cifelliodon_wahkarmoosuch" recon_no="370749">Cifelliodon</List>
+		<List recon_name="Adalatherium_hui" recon_no="419515">Adalatherium</List>
+		<List recon_name="Vintana_sertichi" recon_no="331045">Vintana</List>
+		<List recon_name="Ferugliotherium_windhauseni" recon_no="67618">Ferugliotherium</List>
+		<List recon_name="Trapalcotherium_matuastensis" recon_no="140937">Trapalcotherium</List>
+		<List recon_name="Bharattherium_bonapartei" recon_no="109645">Bharattherium</List>
+		<List recon_name="Gondwanatherium_patagonicum" recon_no="66687">Gondwanatherium</List>
+		<List recon_name="Lavanify_miolaka" recon_no="57603">Lavanify</List>
+		<List recon_name="Sudamerica_ameghinoi" recon_no="206773">Sudamerica</List>
+		<List recon_name="Galulatherium_jenkinsi" recon_no="382701">Galulatherium</List>
+		<List recon_name="Greniodon_sylvaticus" recon_no="327301">Greniodon</List>
+		<List recon_name="Jeholbaatar_kielanae" recon_no="424646">Jeholbaatar</List>
+		<List recon_name="Rugosodon_eurasiaticus" recon_no="276142">Rugosodon</List>
+		<List recon_name="DELETE" recon_no="-1">Guimarota_paulchoffatiidae</List>
+		<List recon_name="Sinobaatar_fuxinensis,Sinobaatar_xiei,Sinobaatar_lingyuanensis" recon_no="216673;216672;167144">Sinobaatar</List>
+		<List recon_name="Bolodon_elongatus,Bolodon_osborni,Bolodon_crassidens,Plagiaulax_becklesii" recon_no="203430;203429;53332;203451">Plagiaulacidae</List>
+		<List recon_name="Ptilodus_gnomus,Ptilodus_montanus" recon_no="51250;51254">Ptilodus</List>
+		<List recon_name="Taeniolabis_scalper,Taeniolabis_taoensis,Taeniolabis_lamberti" recon_no="51985;51987;51984">Taeniolabis</List>
+		<List recon_name="Lambdopsalis_bulla" recon_no="345697">Lambdopsalis</List>
+		<List recon_name="Catopsbaatar_catopsaloides" recon_no="204043">Catopsbaatar</List>
+		<List recon_name="Chulsanbaatar_vulgaris" recon_no="204040">Chulsanbaatar</List>
+		<List recon_name="Nemegtbaatar_gobiensis" recon_no="204010">Nemegtbaatar</List>
+		<List recon_name="Kryptobaatar_dashzevegi" recon_no="57298">Kryptobaatar</List>
+		<List recon_name="Gobiconodon_hopsoni,Gobiconodon_zofiae,Gobiconodon_borissiaki,Gobiconodon_ostromi" recon_no="204184;197841;140283;46675">Gobiconodon</List>
+		<List recon_name="Repenomamus_giganticus,Repenomamus_robustus" recon_no="67606;67607">Repenomamus</List>
+		<List recon_name="Yanoconodon_allini" recon_no="65083">Yanoconodon</List>
+		<List recon_name="Jeholodens_jenkinsi" recon_no="197843">Jeholodens</List>
+		<List recon_name="Akidolestes_cifelli" recon_no="137605">Akidolestes</List>
+		<List recon_name="Zhangheotherium_quinquecuspidens" recon_no="65258">Zhangheotherium</List>
+		<List recon_name="Maotherium_asiaticus,Maotherium_sinensis" recon_no="156659;197845">Maotherium</List>
+		<List recon_name="Cronopio_dentiacutus" recon_no="204734">Cronopio</List>
+		<List recon_name="Henkelotherium_guimarotae" recon_no="212375">Henkelotherium</List>
+		<List recon_name="Dryolestes_leirensis,Dryolestes_vorax" recon_no="212351;57721">Dryolestes</List>
+		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes</List>
+		<List recon_name="Eomaia_scansoria" recon_no="67563">Eomaia</List>
+		<List recon_name="Juramaia_sinensis" recon_no="196928">Juramaia</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
+		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium</List>
+		<List recon_name="Zalambdalestes_lechei,Zalambdalestes_grangeri" recon_no="70459;57350">Zalambdalestes</List>
+		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus</List>
+		<List recon_name="Gomphos_elkema" recon_no="101464">Gomphos</List>
+		<List recon_name="Tribosphenomys_minutus,Tribosphenomys_secundus" recon_no="91626;91627">Tribosphenomys</List>
+		<List recon_name="Dasypus_(Dasypus)_novemcinctus" recon_no="161184">Dasypus</List>
+		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium</List>
+		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
+		<List recon_name="Didelphis_virginiana" recon_no="45705">Didelphis</List>
+		<List recon_name="Sinodelphys_szalayi" recon_no="91354">Sinodelphys</List>
+		<List recon_name="Ambolestes_zhoui" recon_no="371742">Ambolestes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="530">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Krause_etal_inpressb</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>
