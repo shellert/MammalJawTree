@@ -2,50 +2,55 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Gunnell, G. F. </List>
+			<List> Simmons, N. B. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2005</Year>
+		<Title>Fossil Evidence and the Origin of Bats</Title>
+		<Journal>Journal of Mammalian Evolution</Journal>
+		<Volume>12(1–2)</Volume>
+		<Pages>209–246</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
 		<Editor/>
 	</Source>
 	<Taxa number="35">
-		<List recon_name="Cynocephalus" recon_no="236617">Cynocephalus</List>
-		<List recon_name="Tupaia" recon_no="40296">Tupaia</List>
-		<List recon_name="Erinaceus" recon_no="40375">Erinaceus</List>
-		<List recon_name="Sus" recon_no="42416">Sus</List>
-		<List recon_name="Felis" recon_no="41055">Felis</List>
-		<List recon_name="New_Green_River_Bat" recon_no="-1">New_Green_River_Bat</List>
-		<List recon_name="Icaronycteris" recon_no="40632">Icaronycteris</List>
-		<List recon_name="Pteropodidae" recon_no="40624">Pteropodidae</List>
-		<List recon_name="Archaeonycteris" recon_no="40630">Archaeonycteris</List>
-		<List recon_name="Tanzanycteris" recon_no="134909">Tanzanycteris</List>
-		<List recon_name="Hassianycteris" recon_no="178571">Hassianycteris</List>
-		<List recon_name="Palaeochiropteryx" recon_no="40634">Palaeochiropteryx</List>
-		<List recon_name="Emballonuridae" recon_no="40636">Emballonuridae</List>
-		<List recon_name="Rhinopornatidae" recon_no="-1">Rhinopornatidae</List>
+		<List recon_name="Cynocephalus_babouin,Cynocephalus_sphingiola,Cynocephalus_volans" recon_no="232574;232573;206240">Cynocephalus</List>
+		<List recon_name="Tupaia_belangeri,Tupaia_chrysogaster,Tupaia_dorsalis,Tupaia_glis,Tupaia_gracilis,Tupaia_javanica,Tupaia_longipes,Tupaia_minor,Tupaia_miocenica,Tupaia_moellendorffi,Tupaia_montana,Tupaia_nicobarica,Tupaia_palawanensis,Tupaia_picta,Tupaia_splendidula,Tupaia_storchi,Tupaia_tana" recon_no="234207;234208;234210;234212;234213;234214;234215;234216;234183;234217;234218;234219;234221;234222;234223;233491;234224">Tupaia</List>
+		<List recon_name="Erinaceus_concolor,Erinaceus_europaeus,Erinaceus_lechei,Erinaceus_mongolicus,Erinaceus_praeglacialis,Erinaceus_samsonowiczi" recon_no="430610;104181;376795;109089;376794;92554">Erinaceus</List>
+		<List recon_name="Sus_antediluvianus,Sus_barbatus,Sus_bucculentus,Sus_cebifrons,Sus_celebensis,Sus_cristatus,Sus_giganteus,Sus_hysudricus,Sus_larvatus,Sus_palaeochoerus,Sus_philippensis,Sus_pusillus,Sus_scrofa,Sus_sivalensis,Sus_verrucosus,Sus_vittatus,Sus_waylandi" recon_no="348646;133154;133151;133153;133156;237886;390260;390263;149370;348645;133152;108539;104172;390262;133155;234261;374986">Sus</List>
+		<List recon_name="Felis_antediluviana,Felis_aphanista,Felis_bieti,Felis_borealis,Felis_catus,Felis_chaus,Felis_domesticus,Felis_gombaszoegensis,Felis_lunensis,Felis_lybica,Felis_margarita,Felis_maximus,Felis_nigripes,Felis_obscura,Felis_ocreata,Felis_pardoides,Felis_platensis,Felis_prisca,Felis_proplatensis,Felis_propuma,Felis_pumoides,Felis_rexroadensis,Felis_silvestris,Felis_spelaea,Felis_toscana,Felis_youngi" recon_no="348651;348648;224044;232073;104159;224047;231413;376878;376873;224043;224045;395736;224046;199989;236732;376879;247633;348649;318377;318376;100308;46527;224042;308748;376877;54357">Felis</List>
+		<List recon_name="DELETE" recon_no="-1">New_Green_River_Bat</List>
+		<List recon_name="Icaronycteris_index,Icaronycteris_menui,Icaronycteris_sigei" recon_no="56929;149422;178563">Icaronycteris</List>
+		<List recon_name="Nyctimene_albiventer,Pteropus_giganteus,Rousettus_pattersoni,Turkanycteris_harrisi" recon_no="385424;425149;379486;379488">Pteropodidae</List>
+		<List recon_name="Archaeonycteris_brailloni" recon_no="149428">Archaeonycteris</List>
+		<List recon_name="Tanzanycteris_mannardi" recon_no="134910">Tanzanycteris</List>
+		<List recon_name="Hassianycteris_kumari" recon_no="178572">Hassianycteris</List>
+		<List recon_name="Palaeochiropteryx_spiegeli,Palaeochiropteryx_tupaiodon" recon_no="385614;385588">Palaeochiropteryx</List>
+		<List recon_name="Balantiopteryx_io,Dhofarella_sigei,Eppsinycteris_anglica,Pseudovespertiliavus_parva,Dhofarella_sigei,Saccolaimus_kenyensis,Saccopteryx_bilineata,Tachypteron_franzeni,Taphozous_nudiventris,Taphozous_nudiventris" recon_no="160954;136270;57565;69691;136270;379490;425214;110059;385416;385416">Emballonuridae</List>
+		<List recon_name="Qarunycteris_moerisae" recon_no="136272">Rhinopornatidae</List>
 		<List recon_name="Craseonycteridae" recon_no="66281">Craseonycteridae</List>
 		<List recon_name="Nycteridae" recon_no="66299">Nycteridae</List>
-		<List recon_name="Megaderrnatidae" recon_no="-1">Megaderrnatidae</List>
-		<List recon_name="Rhinolophidae" recon_no="40644">Rhinolophidae</List>
-		<List recon_name="Hipposideridae" recon_no="40647">Hipposideridae</List>
-		<List recon_name="Phyllostomidae" recon_no="66303">Phyllostomidae</List>
-		<List recon_name="Mormoopidae" recon_no="66293">Mormoopidae</List>
-		<List recon_name="Noctilionidae" recon_no="66297">Noctilionidae</List>
-		<List recon_name="Mystacinidae" recon_no="66295">Mystacinidae</List>
+		<List recon_name="DELETE" recon_no="-1">Megaderrnatidae</List>
+<List recon_name="Rhinolophus_blasii,Rhinolophus_borneensis,Rhinolophus_wenzensis,Rhinolophus_yongyuthi" recon_no="376818;385419;94199;234176">Rhinolophidae</List>
+<List recon_name="Asellia_mariaetheresae,Hipposideros_bernardsigei,Miophyllorhina_riversleighensis,Palaeophyllophora_oltina,Paraphyllophora_robusta,Archerops_annectens,Riversleigha_williamsi,Vaylatsia_prisca,Xenorhinos_halli" recon_no="92042;348472;348473;349278;136306;67827;348471;348693;136146">Hipposideridae</List>
+<List recon_name="Brachyphylla_nana,Desmodus_archaeodaptes,Erophylla_sezekorni,Glossophaga_apolinari,Lonchophylla_concava,Lophostoma_silvicolum,Macrotus_waterhousii,Mimon_bennettii,Notonycteris_magdalenensis,Phyllonycteris_poeyi,Leptonycteris_nivalis,Chrotopterus_auritus,Trachops_cirrhosus" recon_no="420390;270547;420394;238619;390230;117398;420389;424043;249112;420395;47600;273786;117401">Phyllostomidae</List>
+<List recon_name="Mormoops_megaphylla,Pteronotus_pristinus" recon_no="48814;340018">Mormoopidae</List>
+<List recon_name="Noctilio_(Dirias)_albiventris,Noctilio_albiventris,Noctilio_lacrimaelunaris,Noctilio_leporinus" recon_no="385422;269558;266644;233610">Noctilionidae</List>
+<List recon_name="Mystacina_miocenalis,Mystacina_robusta" recon_no="333939;428461">Mystacinidae</List>
 		<List recon_name="Myzopodidae" recon_no="40661">Myzopodidae</List>
-		<List recon_name="Thyropteridae" recon_no="66307">Thyropteridae</List>
+		<List recon_name="Thyroptera_lavali,Thyroptera_robusta" recon_no="270346;269560">Thyropteridae</List>
 		<List recon_name="Furipteridae" recon_no="66285">Furipteridae</List>
-		<List recon_name="Natalidae" recon_no="40696">Natalidae</List>
-		<List recon_name="Antrozoidae" recon_no="-1">Antrozoidae</List>
-		<List recon_name="Tornopeatinae" recon_no="-1">Tornopeatinae</List>
-		<List recon_name="Molossinae" recon_no="139827">Molossinae</List>
+		<List recon_name="Ageina_tobieni,Honrovits_tsuwape,Natalus_major,Natalus_micropus,Primonatalus_prattae" recon_no="149432;145195;420396;420397;56186">Natalidae</List>
+		<List recon_name="DELETE" recon_no="-1">Antrozoidae</List>
+		<List recon_name="DELETE" recon_no="-1">Tornopeatinae</List>
+		<List recon_name="Kiotomops_lopezi" recon_no="266938">Molossinae</List>
 		<List recon_name="Vespertilioninae" recon_no="378932">Vespertilioninae</List>
+		<List recon_name="DELETE" recon_no="-1">Minopterinae</List>
+		<List recon_name="DELETE" recon_no="-1">Myotinae</List>
+		<List recon_name="DELETE" recon_no="-1">Murininae</List>
+		<List recon_name="DELETE" recon_no="-1">Kerivoulinae</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>
@@ -60,6 +65,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Gunnell_et_Simmons_2005aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Simmons_et_Geisler_2002aa</Parent>
 	<Sibling/>
 </SourceTree>

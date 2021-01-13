@@ -2,13 +2,20 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Bertrand, O. C. </List>
+			<List> Shelley, S. L. </List>
+			<List> Wible, J. R. </List>
+			<List> Williamson, T. E. </List>
+			<List> Holbrook, L. T. </List>
+			<List> Chester, S. G.</List>
+			<List> Butler, I. B.</List>
+			<List> Brusatte, S. L. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2020</Year>
+		<Title>Virtual endocranial and inner ear endocasts of the Paleocene ‘condylarth’ Chriacus: new insight into the neurosensory system and evolution of early placental mammals</Title>
+		<Journal>Journal of Anatomy</Journal>
+		<Volume>236(1)</Volume>
+		<Pages>21-49</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -20,8 +27,8 @@
 		<List recon_name="Kulbeckia_kulbecke" recon_no="137977">Kulbeckia</List>
 		<List recon_name="Zalambdalestes_lechei" recon_no="70459">Zalambdalestes</List>
 		<List recon_name="Chilecebus_carrascoensis" recon_no="165994">Chilecebus</List>
-		<List recon_name="UFRJ_DG" recon_no="-1">UFRJ_DG</List>
-		<List recon_name="MNHN_F_BRD" recon_no="-1">MNHN_F_BRD</List>
+		<List recon_name="DELETE" recon_no="-1">UFRJ_DG</List>
+		<List recon_name="DELETE" recon_no="-1">MNHN_F_BRD</List>
 		<List recon_name="Altitypotherium_chucalensis" recon_no="258868">Altitypotherium</List>
 		<List recon_name="Pachyrukhos_moyani" recon_no="399315">Pachyrukhos</List>
 		<List recon_name="Cochilius_columnifer,Cochilius_fumensis,Cochilius_pendens,Cochilius_volvens" recon_no="318553;271221;318552;318551">Cochilius</List>
@@ -33,6 +40,7 @@
 		<List recon_name="Protungulatum_donnae,Protungulatum_gorgun,Protungulatum_mckeeveri" recon_no="51116;51117;51118">Protungulatum_sp</List>
 		<List recon_name="Chriacus_pelvidens" recon_no="45086">Chriacus_pelvidens</List>
 		<List recon_name="Chriacus_baldwini" recon_no="45077">Chriacus_baldwini</List>
+		<List recon_name="DELETE" recon_no="-1">Reconstructed_Placental_Ancestor</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>
@@ -47,6 +55,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Bertrand_etal_2020aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Macrini_etal_2013aa</Parent>
 	<Sibling/>
 </SourceTree>

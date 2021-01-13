@@ -2,13 +2,18 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Eberle, Jaelyn J. </List>
+			<List> Clemens, W. A. </List>
+			<List> McCarthy, P. J. </List>
+			<List> Fiorillo, A. R. </List>
+			<List> Erickson, G. M. </List>
+			<List> Druckenmiller, P. S. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
+		<Year>2019</Year>
+		<Title>Northernmost record of the Metatheria: a new Late Cretaceous pediomyid from the North Slope of Alaska</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
 		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Pages>1-20</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -57,7 +62,7 @@
 		<List recon_name="Hatcheritherium_alpha" recon_no="160062">Hatcheritherium_alpha</List>
 		<List recon_name="Golerdelphys_stocki" recon_no="289554">Golerdelphys_stocki</List>
 		<List recon_name="Herpetotherium_comstocki" recon_no="46890">Herpetotherium_comstocki</List>
-		<List recon_name="DELETE" recon_no="-1">Herpetotherium_edwardi</List>
+		<List recon_name="Herpetotherium_edwardi" recon_no="426071">Herpetotherium_edwardi</List>
 		<List recon_name="Herpetotherium_fugax" recon_no="339420">Herpetotherium_fugax</List>
 		<List recon_name="Herpetotherium_knighti" recon_no="46893">Herpetotherium_knighti</List>
 		<List recon_name="Herpetotherium_marsupium" recon_no="46895">Herpetotherium_marsupium</List>
@@ -88,8 +93,8 @@
 		<List recon_name="Peradectes_protinnominatus" recon_no="50122">Peradectes_protinnominatus</List>
 		<List recon_name="Protalphadon_foxi" recon_no="50931">Protalphadon_foxi</List>
 		<List recon_name="Protalphadon_lulli" recon_no="50932">Protalphadon_lulli</List>
-		<List recon_name="DELETE" recon_no="-1">Protolambda_clemensi</List>
-		<List recon_name="DELETE" recon_no="-1">Protolambda_florencae</List>
+		<List recon_name="Protolambda_clemensi" recon_no="426040">Protolambda_clemensi</List>
+		<List recon_name="Protolambda_florencae" recon_no="426041">Protolambda_florencae</List>
 		<List recon_name="Protolambda_hatcheri" recon_no="51058">Protolambda_hatcheri</List>
 		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys_andinus</List>
 		<List recon_name="Roberthoffstetteria_nationalgeographica" recon_no="139784">Roberthoffstetteria_nationalgeographica</List>
@@ -125,6 +130,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Eberle_etal_2019aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Williamson_etal_2014aa</Parent>
 	<Sibling/>
 </SourceTree>

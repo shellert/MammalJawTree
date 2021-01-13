@@ -2,13 +2,16 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Averianov, A.</List>
+			<List> Danilov, I. </List>
+			<List> Chen, W. </List>
+			<List> Jin, J. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2018</Year>
+		<Title>A new brontothere from the Eocene of South China</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>63(1)</Volume>
+		<Pages>189-196</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -20,8 +23,8 @@
 		<List recon_name="Danjiangia_pingi" recon_no="333311">Danjiangia_pingi</List>
 		<List recon_name="Lambdotherium_popoagicum" recon_no="47471">Lambdotherium_popoagicum</List>
 		<List recon_name="Eotitanops" recon_no="43038">Eotitanops</List>
-		<List recon_name="DELETE" recon_no="-1">cf_Eotitanops</List>
-		<List recon_name="Palaeosyops" recon_no="43053">Palaeosyops</List>
+		<List recon_name="Eotitanops_sp_CMN_32249,Eotitanops_sp_NUFV_34,Eotitanops_sp_CMN_32279,Eotitanops_sp_CMN_32280,Eotitanops_sp_CMN_32247,Eotitanops_sp_CMN_52062,Eotitanops_sp_CMN_32240" recon_no="43038;43038;43038;43038;43038;43038;43038">cf_Eotitanops</List>
+		<List recon_name="Palaeosyops_paludosus,Palaeosyops_laevidens" recon_no="49706;49698">Palaeosyops</List>
 		<List recon_name="Eotitanops_pakistanensis" recon_no="169823">Eotitanops_pakistanensis</List>
 		<List recon_name="Balochititanops_haqi" recon_no="192106">Balochititanops_haqi</List>
 		<List recon_name="Bunobrontops_savagei" recon_no="260820">Bunobrontops_savegei</List>
@@ -87,6 +90,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Averianov_etal_2018aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Mihlbachler_et_Samuels_2016aa</Parent>
 	<Sibling/>
 </SourceTree>

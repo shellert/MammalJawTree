@@ -2,13 +2,19 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Weppe, R. </List>
+			<List> Blondel, C. </List>
+			<List> Vianey-Liaud, M. </List>
+			<List> Escarguel, G. </List>
+			<List> Pelissie, T. </List>
+			<List> Antoine, P. O. </List>
+			<List> Orliac, J. M. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2019</Year>
+		<Title>Cainotheriidae (Mammalia, Artiodactyla) from Dams (Quercy, SW France): phylogenetic relationships and evolution around the Eocene–Oligocene transition (MP19–MP21)</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>18(7)</Volume>
+		<Pages>541-572</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -52,6 +58,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Weppe_etal_2019aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

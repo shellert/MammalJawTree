@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> Mennecart, B. </List>
+			<List> Métais, G. </List>
+		</Author>
+		<Year>2015</Year>
+		<Title>Mosaicomeryx gen. nov., a ruminant mammal from the Oligocene of Europe and the significance of ‘gelocids’</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>13(7)</Volume>
+		<Pages>581-600</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List recon_name="Amphirhagatherium_weigelti" recon_no="347730">Amphirhagatherium_weigelti</List>
+		<List recon_name="Merycoidodon_(Merycoidodon)_culbertsoni" recon_no="390048">Merycoidodon_culbertsoni</List>
+		<List recon_name="Lophiomeryx_chalaniati" recon_no="104698">Lophiomeryx_chalaniati</List>
+		<List recon_name="Bachitherium_curtum" recon_no="95923">Bachitherium_curtum</List>
+		<List recon_name="Bachitherium_insigne" recon_no="352966">Bachitherium_insigne</List>
+		<List recon_name="Gelocus_communis" recon_no="349727">Gelocus_communis</List>
+		<List recon_name="Mosaicomeryx_quercyi" recon_no="349725">Mosaicomeryx_quercyi</List>
+		<List recon_name="Prodremotherium_elongatum" recon_no="348567">Prodremotherium_elongatum</List>
+		<List recon_name="Dremotherium_guthi" recon_no="347107">Dremotherium_guthi</List>
+		<List recon_name="Dremotherium_feignouxi" recon_no="347940">Dremotherium_feignouxi</List>
+		<List recon_name="Amphitragulus_elegans" recon_no="425111">Amphitragulus_elegans</List>
+		<List recon_name="Amphitragulus_quercyi" recon_no="349818">Amphitragulus_quercyi</List>
+		<List recon_name="Gobiomeryx_dubius" recon_no="347101">Gobiomerxy_dubius</List>
+		<List recon_name="Notomeryx_besensis" recon_no="336256">Notomeryx_besensis</List>
+		<List recon_name="Indomeryx_cotteri" recon_no="336255">Indomeryx_cotteri</List>
+		<List recon_name="Miomeryx_altaicus" recon_no="332202">Miomeryx_altaicus</List>
+		<List recon_name="Pseudomeryx_gobiensis" recon_no="347102">Pseudomeryx_gobiensis</List>
+		<List recon_name="Leptomeryx_evansi" recon_no="47588">Leptomeryx_evansi</List>
+		<List recon_name="Archaeomeryx_optatus" recon_no="337968">Archaeomeryx_optatus</List>
+		<List recon_name="Hypertragulus_calcaratus" recon_no="47198">Hypertragulus_calcaratus</List>
+		<List recon_name="Archaeotragulus_krabiensis" recon_no="116559">Archeotragulus_krabiensis</List>
+		<List recon_name="Iberomeryx_minor" recon_no="348852">Iberomeryx_minor</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mennecart_et_Metais_2015aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -2,13 +2,14 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Giannini, N. P.</List>
+			<List> García-López, D. A. </List>
 		</Author>
 		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Title>Ecomorphology of mammalian fossil lineages: identifying morphotypes in a case study of endemic South American ungulates</Title>
+		<Journal>Journal of Mammalian Evolution</Journal>
+		<Volume>21(2)</Volume>
+		<Pages>195-212</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -58,6 +59,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Giannini_et_GarciaLopez_2014aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Billet_2010aa</Parent>
 	<Sibling/>
 </SourceTree>

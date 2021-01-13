@@ -2,13 +2,14 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Rook, D. L. </List>
+			<List> Hunter, J. P. </List>
 		</Author>
 		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Title>Rooting around the eutherian family tree: the origin and relations of the Taeniodonta</Title>
+		<Journal>Journal of Mammalian Evolution</Journal>
+		<Volume>21(1)</Volume>
+		<Pages>75-91</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -23,13 +24,13 @@
 		<List recon_name="Didelphodus_absarokae,Didelphodus_altidens,Didelphodus_rheos,Didelphodus_serus" recon_no="45712;45713;45714;45715">Didelphodus</List>
 		<List recon_name="Procerberus_formicarum" recon_no="50717">Procerberus_formicarum</List>
 		<List recon_name="Procerberus_grandis" recon_no="91642">Procerberus_grandis</List>
-		<List recon_name="Alveugena_carbonensis" recon_no="43952">Aveugena</List>
+		<List recon_name="Alveugena_carbonensis" recon_no="43952">Alveugena</List>
 		<List recon_name="Schowalteria_clemensi" recon_no="56943">Schowalteria</List>
 		<List recon_name="Onychodectes_tisonensis" recon_no="49344">Onychodectes</List>
 		<List recon_name="Conoryctella_dragonensis" recon_no="45224">Conoryctella</List>
 		<List recon_name="Conoryctes_comma" recon_no="45226">Conoryctes</List>
 		<List recon_name="Huerfanodon_heilprinianus,Huerfanodon_polecatensis,Huerfanodon_torrejonius" recon_no="140422;47115;47116">Huerfanodon</List>
-		<List recon_name="DELETE" recon_no="40615">Schochia</List>
+		<List recon_name="Schochia_sullivani" recon_no="51456">Schochia</List>
 		<List recon_name="Wortmania_otariidens" recon_no="52707">Wortmania</List>
 		<List recon_name="Psittacotherium_multifragum" recon_no="51238">Psittacotherium</List>
 		<List recon_name="Ectoganus_bighornensis,Ectoganus_gliriformis,Ectoganus_lobdelli" recon_no="45983;45985;45986">Ectoganus</List>
@@ -48,6 +49,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Rook_et_Hunter_2014aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Rook_et_Hunter_2011aa</Parent>
 	<Sibling/>
 </SourceTree>

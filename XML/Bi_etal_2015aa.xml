@@ -2,20 +2,23 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Bi, S. </List>
+			<List> Jin, X. </List>
+			<List> Li, S. </List>
+			<List> Du, T. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2015</Year>
+		<Title>A new Cretaceous metatherian mammal from Henan, China</Title>
+		<Journal>PeerJ</Journal>
+		<Volume>3</Volume>
+		<Pages>e896</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
 		<Editor/>
 	</Source>
 	<Taxa number="47">
-		<List recon_name="Amphitherium_et_Dryolestidae" recon_no="-1">Amphitherium_et_Dryolestidae</List>
+		<List recon_name="DELETE" recon_no="-1">Amphitherium_et_Dryolestidae</List>
 		<List recon_name="Peramus_tenuirostris" recon_no="206735">Peramus</List>
 		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes</List>
 		<List recon_name="Kielantherium_gobiensis" recon_no="113800">Kielantherium</List>
@@ -31,7 +34,7 @@
 		<List recon_name="Sulestes_karakshi" recon_no="137970">Sulestes</List>
 		<List recon_name="Atokatheridium_boreni" recon_no="44378">Atokatheridium</List>
 		<List recon_name="Nanocuris_improvida" recon_no="109639">Nanocuris</List>
-		<List recon_name="GurlinTsavSkull" recon_no="-1">GurlinTsavSkull</List>
+		<List recon_name="DELETE" recon_no="-1">GurlinTsavSkull</List>
 		<List recon_name="Pariadens_kirklandi,Pariadens_mckennai" recon_no="49997;216468">Pariadens</List>
 		<List recon_name="Kokopellia_juddi" recon_no="47450">Kokopellia</List>
 		<List recon_name="Anchistodelphys_archibaldi,Anchistodelphys_delicatus" recon_no="44039;44040">Anchistodelphys</List>
@@ -46,13 +49,13 @@
 		<List recon_name="Glasbius_intricatus,Glasbius_twitchelli" recon_no="46652;46653">Glasbius</List>
 		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium</List>
 		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes</List>
-		<List recon_name="Borhyaenids" recon_no="-1">Borhyaenids</List>
+		<List recon_name="DELETE" recon_no="-1">Borhyaenids</List>
 		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
 		<List recon_name="Andinodelphys_cochabambensis" recon_no="266231">Andinodelphys</List>
 		<List recon_name="Jaskhadelphys_minutus" recon_no="266235">Jaskhadelphys</List>
 		<List recon_name="Marmosa_demerarae,Marmosa_lepida,Marmosa_mexicana,Marmosa_murina,Marmosa_regina,Marmosa_robinsoni" recon_no="284733;284731;160951;233580;284735;284738">Marmosa</List>
 		<List recon_name="Didelphis_albiventris,Didelphis_marsupialis,Didelphis_virginiana" recon_no="234384;45701;45705">Didelphis</List>
-		<List recon_name="Dasyurids" recon_no="-1">Dasyurids</List>
+		<List recon_name="DELETE" recon_no="-1">Dasyurids</List>
 		<List recon_name="Dromiciops_gliroides" recon_no="234408">Dromiciops</List>
 		<List recon_name="Prokennalestes_trofimovi,Prokennalestes_minor" recon_no="137755;185139">Prokennalestes</List>
 		<List recon_name="Bobolestes_zenge" recon_no="137733">Bobolestes</List>
@@ -60,7 +63,7 @@
 		<List recon_name="Kennalestes_gobiensis" recon_no="57349">Kennalestes</List>
 		<List recon_name="Zalambdalestes_lechei,Zalambdalestes_grangeri" recon_no="70459;57350">Zalambdalestes</List>
 		<List recon_name="Aspanlestes_aptap" recon_no="137972">Aspanlestes</List>
-		<List recon_name="Leptictids" recon_no="-1">Leptictids</List>
+		<List recon_name="DELETE" recon_no="-1">Leptictids</List>
 		<List recon_name="Lotheridium_mengi" recon_no="319138">Lotheridium_mengi</List>
 	</Taxa>
 	<Characters>
@@ -76,6 +79,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Bi_etal_2015aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Rougier_etal_2015aa</Parent>
 	<Sibling/>
 </SourceTree>

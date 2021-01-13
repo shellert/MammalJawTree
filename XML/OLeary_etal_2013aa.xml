@@ -2,13 +2,13 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> O'Leary, M.A., Bloch, J.I., Flynn, J.J., Gaudin, T.J., Giallombardo, A., Giannini, N.P., Goldberg, S.L., Kraatz, B.P., Luo, Z.X., Meng, J. and Ni, X., </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2013</Year>
+		<Title>The placental mammal ancestor and the post–K-Pg radiation of placentals</Title>
+		<Journal>Science</Journal>
+		<Volume>339(6120)</Volume>
+		<Pages>662-667</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -39,9 +39,9 @@
 		<List recon_name="Talpa_europaea" recon_no="104182">Talpa_europaea</List>
 		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus_europaeus</List>
 		<List recon_name="Sorex_araneus" recon_no="104184">Sorex_araneus</List>
-		<List recon_name="Amblysomus_hottentotus" recon_no="-1">Amblysomus_hottentotus</List>
+		<List recon_name="Amblysomus_hottentotus" recon_no="425148">Amblysomus_hottentotus</List>
 		<List recon_name="Echinops_telfairi" recon_no="231470">Echinops_telfairi</List>
-		<List recon_name="Rhynchocyon_cirnei" recon_no="-1">Rhynchocyon_cirnei</List>
+		<List recon_name="Rhynchocyon_cirnei" recon_no="425136">Rhynchocyon_cirnei</List>
 		<List recon_name="Procavia_capensis" recon_no="143657">Procavia_capensis</List>
 		<List recon_name="Loxodonta_africana" recon_no="157818">Loxodonta_africana</List>
 		<List recon_name="Trichechus_manatus" recon_no="53129">Trichechus_manatus</List>
@@ -75,7 +75,7 @@
 		<List recon_name="Tribosphenomys_minutus" recon_no="91626">Tribosphenomys_minutus</List>
 		<List recon_name="Paramys_delicatus" recon_no="49893">Paramys_delicatus</List>
 		<List recon_name="Cocomys_lingchaensis" recon_no="336872">Cocomys_lingchaensis</List>
-		<List recon_name="Ictidomys_tridecemlineatus" recon_no="-1">Ictidomys_tridecemlineatus</List>
+		<List recon_name="Ictidomys_tridecemlineatus" recon_no="425212">Ictidomys_tridecemlineatus</List>
 		<List recon_name="Castor_canadensis" recon_no="44957">Castor_canadensis</List>
 		<List recon_name="Cavia_porcellus" recon_no="233628">Cavia_porcellus</List>
 		<List recon_name="Rattus_norvegicus" recon_no="231469">Rattus_norvegicus</List>
@@ -93,12 +93,12 @@
 		<List recon_name="Archaeotherium_mortoni" recon_no="44242">Archaeotherium_mortoni</List>
 		<List recon_name="Artiocetus_clavis" recon_no="53317">Artiocetus_clavis</List>
 		<List recon_name="Rodhocetus_balochistanensis" recon_no="53318">Rodhocetus_balochistanensis</List>
-		<List recon_name="Pteropus_giganteus" recon_no="-1">Pteropus_giganteus</List>
-		<List recon_name="Rhinopoma_hardwickii" recon_no="-1">Rhinopoma_hardwickii</List>
-		<List recon_name="Saccopteryx_bilineata" recon_no="-1">Saccopteryx_bilineata</List>
-		<List recon_name="Nycteris_thebaica" recon_no="-1">Nycteris_thebaica</List>
+		<List recon_name="Pteropus_giganteus" recon_no="425149">Pteropus_giganteus</List>
+		<List recon_name="Rhinopoma_hardwickii" recon_no="425150">Rhinopoma_hardwickii</List>
+		<List recon_name="Saccopteryx_bilineata" recon_no="425214">Saccopteryx_bilineata</List>
+		<List recon_name="Nycteris_thebaica" recon_no="425151">Nycteris_thebaica</List>
 		<List recon_name="Myotis_lucifugus" recon_no="48914">Myotis_lucifugus</List>
-		<List recon_name="Pteronotus_parnellii" recon_no="-1">Pteronotus_parnellii</List>
+		<List recon_name="Pteronotus_parnellii" recon_no="425152">Pteronotus_parnellii</List>
 		<List recon_name="Icaronycteris_index" recon_no="56929">Icaronycteris_index</List>
 		<List recon_name="Onychonycteris_finneyi" recon_no="117585">Onychonycteris_finneyi</List>
 	</Taxa>
@@ -115,6 +115,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>OLeary_etal_2013aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

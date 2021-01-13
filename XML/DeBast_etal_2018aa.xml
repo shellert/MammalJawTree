@@ -2,20 +2,22 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> De Bast, E. </List>
+			<List> Gagnaison, C. </List>
+			<List> Smith, T. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2018</Year>
+		<Title>Plesiadapid mammals from the latest Paleocene of France offer new insights on the evolution of Plesiadapis during the Paleocene-Eocene transition</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>38(3)</Volume>
+		<Pages>e1460602</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
 		<Editor/>
 	</Source>
 	<Taxa number="35">
-		<List recon_name="Purgatorius_janisae,Purgatorius_unio" recon_no="51268;51270">Purgatorius</List>
+		<List recon_name="Purgatorius_janisae,Purgatorius_unio" recon_no="51268;51270">Purgatories</List>
 		<List recon_name="Elphidotarsius_florencae,Elphidotarsius_russelli,Elphidotarsius_shotgunensis,Elphidotarsius_wightoni" recon_no="46063;46064;46065;46066">Elphidotarsius</List>
 		<List recon_name="Carpolestes_simpsoni" recon_no="44951">Carpolestes_simpsoni</List>
 		<List recon_name="Pronothodectes_matthewi" recon_no="50864">Pronothodectes_matthewi</List>
@@ -64,6 +66,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>DeBast_etal_2018aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Boyer_etal_2012aa</Parent>
 	<Sibling/>
 </SourceTree>

@@ -2,57 +2,58 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List>Archibald, D. J.</List>
+			<List>Averianov, A.</List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2012</Year>
+		<Title>Phylogenetic analysis, taxonomic revision, and dental ontogeny of the Cretaceous Zhelestidae (Mammalia: Eutheria)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>164(2)</Volume>
+		<Pages>361-426</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
 		<Editor/>
 	</Source>
 	<Taxa number="72">
-		<List recon_name="Nanolestes_drescherae" recon_no="213203">Nanolestes_drescherae</List>
+		<List recon_name="Nanolestes_drescherae" recon_no="213203">Nanolestes</List>
 		<List recon_name="Peramus_tenuirostris,Peramus_dubius,Peramus_minor" recon_no="206735;241959;207615">Peramus</List>
-		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes_neuquenianus</List>
-		<List recon_name="Kielantherium_gobiensis" recon_no="113800">Kielantherium_gobiensis</List>
-		<List recon_name="Montanalestes_keeblerorum" recon_no="48803">Montanalestes_keeblerorum</List>
-		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium_pretirtuberculare</List>
-		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes_ferox</List>
-		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys_andinus</List>
-		<List recon_name="Eomaia_scansoria" recon_no="67563">Eomaia_scansoria</List>
+		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes</List>
+		<List recon_name="Kielantherium_gobiensis" recon_no="113800">Kielantherium</List>
+		<List recon_name="Montanalestes_keeblerorum" recon_no="48803">Montanalestes</List>
+		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium</List>
+		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
+		<List recon_name="Eomaia_scansoria" recon_no="67563">Eomaia</List>
 		<List recon_name="Prokennalestes_trofimovi,Prokennalestes_minor" recon_no="137755;185139">Prokennalestes</List>
-		<List recon_name="Murtoilestes_abramovi" recon_no="213234">Murtoilestes_abramovi</List>
-		<List recon_name="Bobolestes_zenge" recon_no="137733">Bobolestes_zenge</List>
+		<List recon_name="Murtoilestes_abramovi" recon_no="213234">Murtoilestes</List>
+		<List recon_name="Bobolestes_zenge" recon_no="137733">Bobolestes</List>
 		<List recon_name="Paranyctoides_aralensis,Paranyctoides_maleficus,Paranyctoides_sternbergi" recon_no="137963;49927;49929">Paranyctoides</List>
-		<List recon_name="Eozhelestes_mangit" recon_no="137738">Eozhelestes_mangit</List>
+		<List recon_name="Eozhelestes_mangit" recon_no="137738">Eozhelestes</List>
 		<List recon_name="Sheikhdzheilia_rezvyii" recon_no="137736">Sheikhdzheilia</List>
 		<List recon_name="Borisodon_kara" recon_no="217349">Borisodon</List>
 		<List recon_name="Lainodon_orueetxebarriai" recon_no="53173">Lainodon</List>
 		<List recon_name="Avitotherium_utahensis" recon_no="44395">Avitotherium</List>
 		<List recon_name="Gallolestes_agujaensis,Gallolestes_pachymandibularis" recon_no="46581;46582">Gallolestes</List>
 		<List recon_name="Parazhelestes_mynbulakensis,Parazhelestes_robustus" recon_no="217348;213245">Parazhelestes</List>
-		<List recon_name="Aspanlestes_aptap" recon_no="137972">Aspanlestes_aptap</List>
+		<List recon_name="Aspanlestes_aptap" recon_no="137972">Aspanlestes</List>
 		<List recon_name="Zhelestes_temirkazyk" recon_no="203027">Zhelestes</List>
-		<List recon_name="Eoungulatum_kudukensis" recon_no="213248">Eoungulatum_kudukensis</List>
-		<List recon_name="Cimolestes_incisus,Cimolestes_stirtoni,Ambilestes_cerberoides" recon_no="45115;45120;331295">Cimolestes_spp</List>
-		<List recon_name="Maelestes_gobiensis" recon_no="143918">Maelestes_gobiensis</List>
-		<List recon_name="Batodon_tenuis" recon_no="44482">Batodon_tenuis</List>
-		<List recon_name="Bulaklestes_kezbe" recon_no="81053">Bulaklestes_kezbe</List>
+		<List recon_name="Eoungulatum_kudukensis" recon_no="213248">Eoungulatum</List>
+		<List recon_name="Cimolestes_incisus,Cimolestes_stirtoni,Ambilestes_cerberoides" recon_no="45115;45120;331295">Cimolestes</List>
+		<List recon_name="Maelestes_gobiensis" recon_no="143918">Maelestes</List>
+		<List recon_name="Batodon_tenuis" recon_no="44482">Batodon</List>
+		<List recon_name="Bulaklestes_kezbe" recon_no="81053">Bulaklestes</List>
 		<List recon_name="Daulestes_inobservabilis,Daulestes_kulbeckensis" recon_no="81048;81045">Daulestes</List>
-		<List recon_name="Uchkudukodon_nessovi" recon_no="81051">Uchkudukodon_nessovi</List>
-		<List recon_name="Kennalestes_gobiensis" recon_no="57349">Kennalestes_gobiensis</List>
-		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes_nemegtensis</List>
-		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium_nessovi</List>
+		<List recon_name="Uchkudukodon_nessovi" recon_no="81051">Uchkudukodon</List>
+		<List recon_name="Kennalestes_gobiensis" recon_no="57349">Kennalestes</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
+		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium</List>
 		<List recon_name="Deccanolestes_hislopi,Deccanolestes_narmadensis,Deccanolestes_robustus" recon_no="137961;202470;137962">Deccanolestes</List>
-		<List recon_name="Kulbeckia_kulbecke" recon_no="137977">Kulbeckia_kulbecke</List>
-		<List recon_name="Zhangolestes_jilinensis" recon_no="102838">Zhangolestes_jilinensis</List>
+		<List recon_name="Kulbeckia_kulbecke" recon_no="137977">Kulbeckia</List>
+		<List recon_name="Zhangolestes_jilinensis" recon_no="102838">Zhangolestes</List>
 		<List recon_name="Alymlestes_kielanae" recon_no="137750">Alymlestes</List>
-		<List recon_name="Zalambdalestes_lechei" recon_no="70459">Zalambdalestes_lechei</List>
-		<List recon_name="Barunlestes_butleri" recon_no="57289">Barunlestes_butleri</List>
+		<List recon_name="Zalambdalestes_lechei" recon_no="70459">Zalambdalestes</List>
+		<List recon_name="Barunlestes_butleri" recon_no="57289">Barunlestes</List>
 		<List recon_name="Gypsonictops_hypoconus,Gypsonictops_illuminatus,Gypsonictops_lewisi" recon_no="46754;46755;46756">Gypsonictops</List>
 		<List recon_name="Leptictis_acutidens,Leptictis_bullatus,Leptictis_dakotensis,Leptictis_montanus,Leptictis_thomsoni" recon_no="47556;144951;47557;47560;47561">Leptictis</List>
 		<List recon_name="Purgatorius_janisae,Purgatorius_unio" recon_no="51268;51270">Purgatorius</List>
@@ -66,22 +67,22 @@
 		<List recon_name="Meniscotherium_chamense,Meniscotherium_priscum,Meniscotherium_tapiacitum" recon_no="48088;48089;48092">Meniscotherium</List>
 		<List recon_name="Opisthotomus_astutus,Phenacodus_bisonensis,Phenacodus_grangeri,Phenacodus_hemiconus,Opisthotomus_flagrans" recon_no="49367;50302;50307;50308;49368">Phenacodus</List>
 		<List recon_name="Arctocyon_ferox,Arctocyon_mumak,Arctocyon_nexus,Arctocyon_primaevus" recon_no="44261;44264;358993;54258">Arctocyon</List>
-		<List recon_name="Ptilocercus_lowii" recon_no="234229">Ptilocercus_lowii</List>
+		<List recon_name="Ptilocercus_lowii" recon_no="234229">Ptilocercus</List>
 		<List recon_name="Plesiadapis_tricuspidens,Nannodectes_gidleyi" recon_no="50444;48973">Plesiadapis</List>
-		<List recon_name="Notharctus_tenebrosus,Notharctus_robustior" recon_no="49200;49199">Notharctus</List>
+		<List recon_name="Notharctus_tenebrosus,Notharctus_robustior" recon_no="49200;49199">Northarctus</List>
 		<List recon_name="Adapis_parisiensis,Leptadapis_magnus" recon_no="57922;127247">Adapis</List>
 		<List recon_name="Tribosphenomys_minutus,Tribosphenomys_secundus" recon_no="91626;91627">Tribosphenomys</List>
 		<List recon_name="Paramys_copei,Paramys_delicatus,Paramys_taurus" recon_no="49890;49893;49918">Paramys</List>
 		<List recon_name="Rhombomylus_turpanensis" recon_no="333090">Rhombomylus</List>
-		<List recon_name="Gomphos_elkema" recon_no="101464;0">Gomphos</List>
+		<List recon_name="Gomphos_elkema" recon_no="101464">Gomphos</List>
 		<List recon_name="Mimotona_wana" recon_no="246061">Mimotona</List>
 		<List recon_name="Blarina_brevicauda" recon_no="44538">Blarina</List>
 		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus</List>
-		<List recon_name="Solenodon_paradoxus" recon_no="385513">Solenodon_paradoxus</List>
+		<List recon_name="Solenodon_paradoxus" recon_no="385513">Solenodon</List>
 		<List recon_name="Eoryctes_melanus" recon_no="46177">Eoryctes</List>
 		<List recon_name="Potamogale_velox" recon_no="231780">Potamogale</List>
-		<List recon_name="Orycteropus_afer" recon_no="119862">Orycteropus_afer</List>
-		<List recon_name="DELETE" recon_no="-1">Rhynchocyon</List>
+		<List recon_name="Orycteropus_afer" recon_no="119862">Orycteropus</List>
+		<List recon_name="Rhynchocyon_cirnei,Rhynchocyon_petersi" recon_no="425136;425135">Rhynchocyon</List>
 		<List recon_name="Procavia_capensis" recon_no="143657">Procavia</List>
 		<List recon_name="Moeritherium_trigonodon" recon_no="86198">Moeritherium</List>
 		<List recon_name="Chaetophractus_vellerosus,Chaetophractus_villosus" recon_no="233289;83806">Chaetophractus</List>
@@ -101,6 +102,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Archibald_et_Averianov_2012ab</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Wible_etal_2009aa</Parent>
 	<Sibling/>
 </SourceTree>

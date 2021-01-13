@@ -2,13 +2,14 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Li, Q. </List>
+			<List> Meng, J. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2015</Year>
+		<Title>New ctenodactyloid rodents from the Erlian Basin, Nei Mongol, China, and the phylogenetic relationships of Eocene Asian ctenodactyloids</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3828</Volume>
+		<Pages>1-20</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -40,7 +41,7 @@
 		<List recon_name="Advenimus_burkei,Advenimus_hupeiensis,Advenimus_ulungurensis" recon_no="334463;336857;333239">Advenimus</List>
 		<List recon_name="Bandaomys_zhonghuaensis" recon_no="348352">Bandaomys</List>
 		<List recon_name="Protataromys_mianchiensis,Protataromys_yuanquensis" recon_no="117832;117833">Protataromys</List>
-		<List recon_name="Borisomys" recon_no="336863">Borisomys</List>
+		<List recon_name="Borisomys_borisovi" recon_no="425146">Borisomys</List>
 		<List recon_name="Saykanomys_bohlini" recon_no="337962">Saykanomys</List>
 		<List recon_name="Archetypomys_erlianensi" recon_no="64999">Archetypomys</List>
 		<List recon_name="Simplicimys_bellus" recon_no="336849">Simplicimys</List>
@@ -52,7 +53,7 @@
 		<List recon_name="Sayimys_perplexus" recon_no="104396">Sayimys</List>
 		<List recon_name="Mergenomys_orientalis" recon_no="260696">Mergenomys</List>
 		<List recon_name="Gobiomys_asiaticus,Gobiomys_exiguus,Gobiomys_neimongolensis" recon_no="334461;334460;334459">Gobiomys</List>
-		<List recon_name="Ctenodactylus" recon_no="233229">Ctenodactylus</List>
+		<List recon_name="Ctenodactylus_vali,Ctenodactylus_gundi" recon_no="425145;425144">Ctenodactylus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>
@@ -67,6 +68,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Li_et_Meng_2015aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

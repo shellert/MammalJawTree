@@ -2,21 +2,21 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List>Ahrens, H.E.</List>
+			<List>Ahrens, H. E.</List>
 		</Author>
 		<Year>2017</Year>
 		<Title>Phylogeny and locomotor ecomorphology of Oxyaenidae and macroevolutionary patterns in North American "Creodonta" (Mammalia, Placentalia)</Title>
-		<Journal></Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
-		<Booktitle>Doctoral Dissertation<Booktitle/>
-		<Publisher>Johns Hopkins University<Publisher/>
-		<City>Baltimore<City/>
+		<Journal/>
+		<Volume/>
+		<Pages/>
+		<Booktitle>Doctoral Dissertation</Booktitle>
+		<Publisher>John Hopkins University</Publisher>
+		<City/>
 		<Editor/>
 	</Source>
 	<Taxa number="23">
-		<List recon_name="Cimolestes_cereberoides, Cimolestes_magnus, Cimolestes_propalaeoryctes" recon_no="45112;45117;45118">Cimolestes</List>
-		<List recon_name="Palaeosinopa_didelphoides,Palaeosinopa_incerta,Palaeosinopa_lutreola,Palaeosinopa_veterrima,Palaeosinopa_sp_UM_64466,Palaeosinopa_sp_UM_91648,Palaeosinopa_sp_USGS_3961,Palaeosinopa_sp_USGS_9329,Palaeosinopa_sp_USGS 26983,Palaeosinopa_sp_WDC_dash_CGR_dash_009" recon_no="49681;49684;49685;49689;40285;40285;40285;40285;40285;40285">Palaeosinopa</List>
+		<List recon_name="Cimolestes_cerberoides,Cimolestes_magnus,Cimolestes_propalaeoryctes" recon_no="45112;45117;45118">Cimolestes</List>
+		<List recon_name="Palaeosinopa_didelphoides,Palaeosinopa_incerta,Palaeosinopa_lutreola,Palaeosinopa_veterrima,Palaeosinopa_sp_UM_64466,Palaeosinopa_sp_UM_91648,Palaeosinopa_sp_USGS_3961,Palaeosinopa_sp_USGS_9329,Palaeosinopa_sp_USGS_26983,Palaeosinopa_sp_WDC_dash_CGR_dash_009" recon_no="49681;49684;49685;49689;40285;40285;40285;40285;40285;40285">Palaeosinopa</List>
 		<List recon_name="Vulpavus_australis,Vulpavus_sp_USGS_5025,Vulpavus_sp_USGS_6636,Vulpavus_sp_USGS_7143,Vulpavus_sp_USGS_9083,Vulpavus_sp_USGS_9335,Vulpavus_sp_USGS_16488,Vulpavus_sp_USGS_25431,Vulpavus_sp_USGS_27246,Vulpavus_sp_USNM_P_510879" recon_no="52674;40991;40991;40991;40991;40991;40991;40991;40991;40991">Vulpavus</List>
 		<List recon_name="Didymictis_leptomylus,Didymictis_protenus,Didymictis_sp_USGS_6087,Didymictis_sp_USGS_21835,Didymictis_sp_USGS_21836,Didymictis_sp_USGS_21899,Didymictis_sp_USGS_25039,Didymictis_sp_USGS_25040,Didymictis_sp_USGS_25393,Didymictis_sp_USGS_27585,Didymictis_sp_USNM_P_495301,Didymictis_sp_USNM_P_495348,Didymictis_sp_USNM_P_511055" recon_no="45729;45733;40973;40973;40973;40973;40973;40973;40973;40973;40973;40973;40973">Didymictis</List>
 		<List recon_name="Ambloctonus_major" recon_no="43958">Ambloctonus_major</List>
@@ -41,7 +41,7 @@
 	</Taxa>
 	<Characters>
 		<Molecular/>
-		<Morphological number="91">
+		<Morphological number="0">
 			<Type>Osteology</Type>
 		</Morphological>
 		<Behavioural/>
@@ -52,6 +52,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Ahrens_2017aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

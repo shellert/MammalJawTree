@@ -2,13 +2,17 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Manz, C. L. </List>
+			<List> Chester, S. G. </List>
+			<List> Bloch, J. I. </List>
+			<List> Silcox, M. T. </List>
+			<List> Sargis, E. J. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2015</Year>
+		<Title>New partial skeletons of Palaeocene Nyctitheriidae and evaluation of proposed euarchontan affinities</Title>
+		<Journal>Biology letters</Journal>
+		<Volume>11(1)</Volume>
+		<Pages>20140911</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -48,7 +52,7 @@
 		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
 		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium</List>
 		<List recon_name="Deccanolestes_hislopi" recon_no="137961">Deccanolestes_hislopi</List>
-		<List recon_name="VPL/JU/IM4,VPL/JU/IM5,VPL/JU/IM11,VPL/JU/IM14,VPL/JU/IM15,VPL/JU/IM16,VPL/JU/IM17" recon_no="-1">Deccanolestes_cf_hislopi</List>
+		<List recon_name="VPL_dash_JU_dash_IM4,VPL_dash_JU_dash_IM5,VPL_dash_JU_dash_IM11,VPL_dash_JU_dash_IM14,VPL_dash_JU_dash_IM15,VPL_dash_JU_dash_IM16,VPL_dash_JU_dash_IM17" recon_no="53991;53991;53991;53991;53991;53991;53991">Deccanolestes_cf_hislopi</List>
 		<List recon_name="Deccanolestes_robustus" recon_no="137962">Deccanolestes_robustus</List>
 		<List recon_name="Deccanolestes_narmadensis" recon_no="202470">Deccanolestes_narmadensis</List>
 		<List recon_name="Kharmerungulatum" recon_no="111053">Kharmerungulatum</List>
@@ -85,11 +89,11 @@
 		<List recon_name="Eoryctes_melanus" recon_no="46177">Eoryctes</List>
 		<List recon_name="Potamogale_velox" recon_no="231780">Potamogale</List>
 		<List recon_name="Orycteropus_afer" recon_no="119862">Orycteropus</List>
-		<List recon_name="Rhynchocyon" recon_no="40309">Rhynchocyon</List>
+		<List recon_name="Rhynchocyon_cirnei,Rhynchocyon_petersi" recon_no="425136;425135">Rhynchocyon</List>
 		<List recon_name="Procavia_capensis" recon_no="143657">Procavia</List>
 		<List recon_name="Moeritherium_trigodon" recon_no="157869">Moeritherium</List>
 		<List recon_name="Chaetophractus_villosus" recon_no="83806">Chaetophractus</List>
-		<List recon_name="Bradypus" recon_no="72263">Bradypus</List>
+		<List recon_name="Bradypus_variegatus" recon_no="426010">Bradypus</List>
 		<List recon_name="Tamandua_tetradactyla" recon_no="233569">Tamandua</List>
 		<List recon_name="Dilambdogale_gheerbranti" recon_no="344262">Dilambdogale</List>
 		<List recon_name="Widanelfarasia_bowni" recon_no="97119">Widanelfarasia</List>
@@ -120,7 +124,7 @@
 		<Type>Maximum Parsimony</Type>
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
-	<Filename>Manz_etal_2015aaTEST</Filename>
-	<Parent>add_parent_here</Parent>
+	<Filename>Manz_etal_2015aa</Filename>
+	<Parent>Wible_etal_2009aa</Parent>
 	<Sibling/>
 </SourceTree>

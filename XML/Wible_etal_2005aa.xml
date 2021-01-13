@@ -2,13 +2,16 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Wible, J. R. </List>
+			<List> Wang, Y. </List>
+			<List> Li, C. </List>
+			<List> Dawson, M. R </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2005</Year>
+		<Title>Cranial anatomy and relationships of a new ctenodactyloid (Mammalia, Rodentia) from the early Eocene of Hubei Province, China</Title>
+		<Journal>Annals of Carnegie Museum</Journal>
+		<Volume>74(2)</Volume>
+		<Pages>91-150</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -30,7 +33,7 @@
 		<List recon_name="Yuomys_cavioides" recon_no="336853">Yuomys</List>
 		<List recon_name="Tataromys_minor,Tataromys_plicidens,Tataromys_sigmodon" recon_no="334360;333042;115795">Tataromys</List>
 		<List recon_name="Sayimys_perplexus" recon_no="104396">Sayimys</List>
-		<List recon_name="Ctenodactylus" recon_no="233229">Ctenodactylus</List>
+		<List recon_name="Ctenodactylus_vali,Ctenodactylus_gundi" recon_no="425145;425144">Ctenodactylus</List>
 		<List recon_name="Pectinator_spekei" recon_no="233236">Pectinator</List>
 		<List recon_name="Tsaganomys_altaicus,Tsaganomys_minutus" recon_no="98677;333349">Tsaganomys</List>
 		<List recon_name="Paraphiomys_orangeus,Paraphiomys_pigotti" recon_no="348838;351997">Paraphiomys</List>
@@ -51,6 +54,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Wible_etal_2005aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Meng_etal_2003aa</Parent>
 	<Sibling/>
 </SourceTree>

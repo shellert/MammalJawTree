@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> Wang, H. </List>
+			<List> Meng, J. </List>
+			<List> Wang, Y. </List>
+		</Author>
+		<Year>2019</Year>
+		<Title>Cretaceous fossil reveals a new pattern in mammalian middle ear evolution</Title>
+		<Journal>Nature</Journal>
+		<Volume>7785</Volume>
+		<Pages>102-105</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">Sinoconodon</List>
+		<List recon_name="Cimexomys_antiquus,Cimexomys_hausoi,Cimexomys_judithae,Cimexomys_minor" recon_no="45101;45104;45105;45108">Cimexomys</List>
+		<List recon_name="Meniscoessus_major,Meniscoessus_robustus" recon_no="48075;48076">Meniscoessus</List>
+		<List recon_name="Mesodma_ambigua,Mesodma_formosa,Mesodma_hensleighi,Mesodma_primaeva,Mesodma_thompsoni" recon_no="48343;48344;48346;48347;48351">Mesodma</List>
+		<List recon_name="Cimolodon_electus,Cimolodon_nitidus,Cimolodon_similis" recon_no="45121;45122;45123">Cimolodon</List>
+		<List recon_name="Ectypodus_powelli,Ectypodus_tardus" recon_no="46002;46008">Ectypodus</List>
+		<List recon_name="Ptilodus_montanus,Ptilodus_tsosiensis,Ptilodus_wyomingensis" recon_no="51254;51260;51261">Ptilodus</List>
+		<List recon_name="Neoliotomus_conventus,Neoliotomus_ultimus" recon_no="49066;49067">Neoliotomus</List>
+		<List recon_name="Pentacosmodon_pronus" recon_no="50104">Pentacosmodon</List>
+		<List recon_name="Morganucodon_oehleri,Morganucodon_watsoni" recon_no="203398;203396">Morganucodon</List>
+		<List recon_name="Thomasia_antiqua,Thomasia_hahni,Thomasia_moorei,Thomasia_woutersi" recon_no="204239;208925;208923;208926">Thomasia</List>
+		<List recon_name="Haramiyavia_clemmenseni" recon_no="178263">Haramiyavia</List>
+		<List recon_name="Meketichoffatia_krausei" recon_no="208936">Meketichoffatia</List>
+		<List recon_name="Henkelodon_guimarotensis,Henkelodon_naias" recon_no="203432;203431">Henkelodon</List>
+		<List recon_name="Rugosodon_eurasiaticus" recon_no="276142">Rugosodon</List>
+		<List recon_name="Paulchoffatia_delgadoi" recon_no="203426">Paulchoffatia</List>
+		<List recon_name="Meketibolodon_robustus" recon_no="208928">Meketibolodon</List>
+		<List recon_name="Guimarotodon_leiriensis" recon_no="203437">Guimarotodon</List>
+		<List recon_name="Kuehneodon_dietrichi,Kuehneodon_simpsoni,Kuehneodon_uniradiculatus" recon_no="203433;203435;208942">Kuehneodon</List>
+		<List recon_name="Pseudobolodon_oreas,Pseudobolodon_robustus" recon_no="203428;208927">Pseudobolodon</List>
+		<List recon_name="Ctenacodon_laticeps,Ctenacodon_minor,Ctenacodon_scindens,Ctenacodon_serratus" recon_no="57699;207526;203448;57692">Ctenacodon</List>
+		<List recon_name="Glirodon_grandis" recon_no="106742">Glirodon</List>
+		<List recon_name="Bolodon_crassidens,Bolodon_elongatus,Bolodon_osborni" recon_no="53332;203430;203429">Bolodon</List>
+		<List recon_name="Plagiaulax_becklesii" recon_no="203451">Plagiaulax</List>
+		<List recon_name="Zofiabaatar_pulcher" recon_no="57648">Zofiabaatar</List>
+		<List recon_name="Sinobaatar_lingyuanensis" recon_no="167144">Sinobaatar</List>
+		<List recon_name="Eobaatar_magnus" recon_no="94197">Eobaatar</List>
+		<List recon_name="Jeholbaatar_kielanae" recon_no="424646">Jeholbaatar</List>
+		<List recon_name="Heishanobaatar_triangulus" recon_no="216658">Heishanobaatar</List>
+		<List recon_name="Liaobaatar_changi" recon_no="216675">Liaobaatar</List>
+		<List recon_name="Hakusanobaatar_matsuoi" recon_no="216662">Hakusanobaatar</List>
+		<List recon_name="Arginbaatar_dimitrievae" recon_no="204183">Arginbaatar</List>
+		<List recon_name="Boffius_splendidus" recon_no="347634">Boffius</List>
+		<List recon_name="Buginbaatar_transaltaiensis" recon_no="204008">Buginbaatar</List>
+		<List recon_name="Catopsbaatar_catopsaloides" recon_no="204043">Catopsbaatar</List>
+		<List recon_name="Kamptobaatar_kuczynskii" recon_no="57299">Kamptobaatar</List>
+		<List recon_name="Chulsanbaatar_vulgaris" recon_no="204040">Chulsanbaatar</List>
+		<List recon_name="Kryptobaatar_dashzevegi" recon_no="57298">Kryptobaatar</List>
+		<List recon_name="Nemegtbaatar_gobiensis" recon_no="204010">Nemegtbaatar</List>
+		<List recon_name="Eucosmodon_americanus,Eucosmodon_molestus,Eucosmodon_primus" recon_no="46366;46368;46369">Eucosmodon</List>
+		<List recon_name="Stygimys_camptorhiza,Stygimys_kuszmauli" recon_no="51831;51835">Stygimys</List>
+		<List recon_name="Microcosmodon_arcuatus,Microcosmodon_conus,Microcosmodon_harleyi,Microcosmodon_rosei" recon_no="48506;48507;48508;48509">Microcosmodon</List>
+		<List recon_name="Kogaionon_ungureanui" recon_no="209868">Kogaionon</List>
+		<List recon_name="Taeniolabis_lamberti,Taeniolabis_taoensis" recon_no="51984;51987">Taeniolabis</List>
+		<List recon_name="Lambdopsalis_bulla" recon_no="345697">Lambdopsalis</List>
+		<List recon_name="Sphenopsalis_nobilis" recon_no="247227">Sphenopsalis</List>
+		<List recon_name="Prionessus_lucifer" recon_no="247224">Prionessus</List>
+		<List recon_name="Catopsalis_joyneri,Catopsalis_alexanderi" recon_no="44971;44966">Catopsalis</List>
+		<List recon_name="Yubaatar_zhongyuanensis" recon_no="331090">Yubaatar</List>
+		<List recon_name="Litovoi_tholocephalos" recon_no="371029">Litovoi</List>
+		<List recon_name="Barbatodon_oardaensis,Barbatodon_transylvanicus" recon_no="289407;197180">Barbatodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wang_etal_2019aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -2,13 +2,14 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Morlo, M. </List>
+			<List> Gunnell, G. F. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2003</Year>
+		<Title>Small Limnocyonines (Hyaenodontidae, Mammalia) from the Bridgerian middle Eocene of Wyoming: Thinocyon, Prolimnocyon, and Iridonon, new genus</Title>
+		<Journal>Contributions from the Museum of Paleontology</Journal>
+		<Volume>31(2)</Volume>
+		<Pages>43-78</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -39,6 +40,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Morlo_et_Gunnell_2003aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

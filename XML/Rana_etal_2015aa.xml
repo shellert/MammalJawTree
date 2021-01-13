@@ -2,13 +2,21 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Rana, R. S. </List>
+			<List> Kumar, K. </List>
+			<List> Zack, S. P. </List>
+			<List> Solé, F. </List>
+			<List> Rose, K. D. </List>
+			<List> Missiaen, P. </List>
+			<List> Singh, L. </List>
+			<List> Sahni, A. </List>
+			<List> Smith, T. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2015</Year>
+		<Title>Craniodental and postcranial morphology of Indohyaenodon raoi from the early Eocene of India, and its implications for ecology, phylogeny, and biogeography of hyaenodontid mammals</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>35(5)</Volume>
+		<Pages>e965308</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -16,55 +24,55 @@
 	</Source>
 	<Taxa number="50">
 		<List recon_name="Cimolestes_magnus" recon_no="45117">Cimolestes_magnus</List>
-		<List recon_name="Tinherodon_disputatum" recon_no="-1">Tinherodon_disputatum</List>
+		<List recon_name="Tinerhodon_disputatus" recon_no="347661">Tinherodon_disputatum</List>
 		<List recon_name="Boualitomus_marocanensis" recon_no="91843">Boualitomus_marocanensis</List>
 		<List recon_name="Lahimia_selloumi" recon_no="246618">Lahimia_selloumi</List>
 		<List recon_name="Koholia_atlasense" recon_no="334669">Koholia_atlasense</List>
-		<List recon_name="Proviverra_eisenmanni_P_in_quotes" recon_no="-1">Proviverra_eisenmanni_P_in_quotes</List>
+		<List recon_name="Proviverra_eisenmanni" recon_no="347680">Proviverra_eisenmanni</List>
 		<List recon_name="Oxyaenoides_bicuspidens" recon_no="62960">Oxyaenoides_bicuspidens</List>
-		<List recon_name="Eurotherium" recon_no="115871">Eurotherium</List>
+		<List recon_name="Eurotherium_matthesi,Eurotherium_theriodis" recon_no="347889;347693">Eurotherium</List>
 		<List recon_name="Prodissopsalis_eocaenicus" recon_no="63427">Prodissopsalis_eocaenicus</List>
 		<List recon_name="Leonhardtina_gracilis" recon_no="63432">Leonhardtina_gracilis</List>
 		<List recon_name="Proviverra_typica" recon_no="54265">Proviverra_typica</List>
-		<List recon_name="Allopterodon" recon_no="40906">Allopterodon</List>
+		<List recon_name="Allopterodon_bulbosus,Allopterodon_minor,Allopterodon_torvidus" recon_no="425138;425139;347886">Allopterodon</List>
 		<List recon_name="Cynohyaenodon_cayluxi" recon_no="58761">Cynohyaenodon_cayluxi</List>
-		<List recon_name="Paracynohyaenodon_spp" recon_no="-1">Paracynohyaenodon_spp</List>
-		<List recon_name="Quercytherium_spp" recon_no="-1">Quercytherium_spp</List>
+		<List recon_name="Paracynohyaenodon_magnus,Paracynohyaenodon_schlosseri" recon_no="425143;347887">Paracynohyaenodon_spp</List>
+		<List recon_name="Quercytherium_simplicidens,Quercytherium_tenebrosum" recon_no="424611;424612">Quercytherium_spp</List>
 		<List recon_name="Morlodon_vellerei" recon_no="347657">Morlodon_vellerei</List>
 		<List recon_name="Matthodon_tritens" recon_no="347667">Matthodon_tritens</List>
 		<List recon_name="Indohyaenodon_raoi" recon_no="152716">Indohyaenodon_raoi</List>
 		<List recon_name="Paratritemnodon_indicus" recon_no="144281">Paratritemnodon_indicus</List>
 		<List recon_name="Kyawdawia_lupina" recon_no="80834">Kyawdawia_lupina</List>
 		<List recon_name="Glibzegdouia_tabelbalaensis" recon_no="343241">Glibzegdouia_tabelbalaensis</List>
-		<List recon_name="Masrasector" recon_no="40923">Masrasector</List>
-		<List recon_name="Teratodon" recon_no="40946">Teratodon</List>
-		<List recon_name="African_Sinopa" recon_no="-1">African_Sinopa</List>
+		<List recon_name="Masrasector_aegypticum,Masrasector_ligabuei,Masrasector_nananubis" recon_no="334670;362050;352290">Masrasector</List>
+		<List recon_name="Teratodon_enigmae,Teratodon_spekei" recon_no="272058;272056">Teratodon</List>
+		<List recon_name="DELETE" recon_no="-1">African_Sinopa</List>
 		<List recon_name="Anasinopa_leakeyi" recon_no="272060">Anasinopa_leakeyi</List>
-		<List recon_name="Dissopsalis" recon_no="40912">Dissopsalis</List>
+		<List recon_name="Dissopsalis_pyroclasticus" recon_no="272066">Dissopsalis</List>
 		<List recon_name="Furodon_crocheti" recon_no="343261">Furodon_crocheti</List>
-		<List recon_name="Metapterodon" recon_no="40925">Metapterodon</List>
-		<List recon_name="Pterodon" recon_no="40940">Pterodon</List>
+		<List recon_name="Metapterodon_brachycephalus,Metapterodon_kaiseri,Metapterodon_schlosseri,Metapterodon_stromeri" recon_no="334672;97201;80837;97200">Metapterodon</List>
+		<List recon_name="Pterodon_africanus,Pterodon_dasyuroides,Pterodon_hyaenoides" recon_no="86255;424631;115874">Pterodon</List>
 		<List recon_name="Akhnatenavus_leptognathus" recon_no="81420">Akhnatenavus_leptognathus</List>
-		<List recon_name="Hyainailouros_and_Megistotherium" recon_no="-1">Hyainailouros_and_Megistotherium</List>
+		<List recon_name="Hyaenailurus_sulzeri,Hyainailouros_sulzeri,Megistotherium_osteothlastes" recon_no="96578;97045;97043">Hyainailouros_slash_Megistotherium</List>
 		<List recon_name="Apterodon_macrognathus" recon_no="86257">Apterodon_macrognathus</List>
 		<List recon_name="Galecyon_peregrinus" recon_no="347514">Galecyon_peregrinus</List>
 		<List recon_name="Galecyon_chronius" recon_no="347513">Galecyon_chronius</List>
 		<List recon_name="Prototomus_minimus" recon_no="331775">Prototomus_minimus</List>
 		<List recon_name="Prototomus_phobos" recon_no="51110">Prototomus_phobos</List>
 		<List recon_name="Prototomus_secundarius" recon_no="51112">Prototomus_secundarius</List>
-		<List recon_name="Gazinocyon_whitiae" recon_no="-1">Gazinocyon_whitiae</List>
-		<List recon_name="Sinopa" recon_no="40944">Sinopa</List>
+		<List recon_name="Gazinocyon_vulpeculus" recon_no="46586">Gazinocyon_whitiae</List>
+		<List recon_name="Sinopa_grangeri,Sinopa_major,Sinopa_minor,Sinopa_rapax" recon_no="51590;51593;51594;51599">Sinopa</List>
 		<List recon_name="Tritemnodon_agilis" recon_no="52514">Tritemnodon_agilis</List>
 		<List recon_name="Prototomus_martis" recon_no="51108">Prototomus_martis</List>
 		<List recon_name="Pyrocyon_dioctetus" recon_no="51278">Pyrocyon_dioctetus</List>
 		<List recon_name="Pyrocyon_strenuus" recon_no="424632">Pyrocyon_strenuus</List>
 		<List recon_name="Arfia_gingerichi" recon_no="331777">Arfia_gingerichi</List>
-		<List recon_name="Arfia_shoshoniensis_and_opisthotoma" recon_no="-1">Arfia_shoshoniensis_and_opisthotoma</List>
-		<List recon_name="Prolimnocyon" recon_no="40952">Prolimnocyon</List>
-		<List recon_name="Limnocyon" recon_no="40950">Limnocyon</List>
-		<List recon_name="Thinocyon" recon_no="40953">Thinocyon</List>
-		<List recon_name="Propterodon" recon_no="40936">Propterodon</List>
-		<List recon_name="Hyaenodon" recon_no="40917">Hyaenodon</List>
+		<List recon_name="Arfia_shoshoniensis,Arfia_opisthotoma" recon_no="44315;44314">Arfia_shoshoniensis_slash_opisthotoma</List>
+		<List recon_name="Prolimnocyon_antiquus,Prolimnocyon_atavus,Prolimnocyon_eerius,Prolimnocyon_haematus" recon_no="50792;50793;50795;50797">Prolimnocyon</List>
+		<List recon_name="Limnocyon_cuspidens,Limnocyon_medius,Limnocyon_potens,Limnocyon_velox,Limnocyon_verus" recon_no="80532;47674;47675;47678;47679">Limnocyon</List>
+		<List recon_name="Thinocyon_sichowensis" recon_no="115881">Thinocyon</List>
+		<List recon_name="Propterodon_morrisi" recon_no="347879">Propterodon</List>
+		<List recon_name="Hyaenodon_crucians,Hyaenodon_horridus,Hyaenodon_leptorhynchus,Hyaenodon_mustelinus,Hyaenodon_venturae" recon_no="47124;47127;57925;47133;47136">Hyaenodon</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>
@@ -79,6 +87,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Rana_etal_2015aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

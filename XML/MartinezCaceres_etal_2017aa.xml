@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> Martínez-Cáceres, M. </List>
+			<List> Lambert, O. </List>
+			<List> deMuizon, C. </List>
+		</Author>
+		<Year>2017</Year>
+		<Title>The anatomy and phylogenetic affinities of Cynthiacetus peruvianus, a large Dorudon-like basilosaurid (Cetacea, Mammalia) from the late Eocene of Peru</Title>
+		<Journal>Insert_journal_here</Journal>
+		<Volume>39(1)</Volume>
+		<Pages>7-163</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="31">
+		<List recon_name="Pakicetus_attocki,Pakicetus_calcis,Pakicetus_chittas,Pakicetus_inachus,Nalacetus_ratimitus,Ichthyolestes_pinfoldi,Himalayacetus_subathuensis" recon_no="53312;69726;69734;53310;63098;62974;63094">Pakicetidae</List>
+		<List recon_name="Ambulocetus_natans,Gandakasia_potens" recon_no="62971;62973">Ambulocetidae</List>
+		<List recon_name="Remingtonocetus_domandaensis,Remingtonocetus_harudiensis,Dalanistes_ahmedi,Attockicetus_praecursor,Andrewsiphius_sloani,Kutchicetus_minimus,Rayanistes_afer" recon_no="53239;63122;53241;62970;63152;63096;347240">Remingtoncetidae</List>
+		<List recon_name="Artiocetus_clavis" recon_no="53317">Artiocetus_clavus</List>
+		<List recon_name="Rodhocetus_kasrani" recon_no="53296">Rodhocetus_kasrani</List>
+		<List recon_name="Carolinacetus_gingerichi" recon_no="66904">Carolinacetus_gingerichi</List>
+		<List recon_name="Protocetus_atavus" recon_no="62989">Protocetus_atavus</List>
+		<List recon_name="Georgiacetus_vogtlensis" recon_no="63123">Georgiacetus_vogtlensis</List>
+		<List recon_name="Basilosaurus_cetoides" recon_no="53153">Basilosaurus_cetoides</List>
+		<List recon_name="Basilosaurus_isis" recon_no="53287">Basilosaurus_isis</List>
+		<List recon_name="Dorudon_atrox" recon_no="53288">Dorudon_atrox</List>
+		<List recon_name="Zygorhiza_kochii" recon_no="53292">Zygorhiza_kochii</List>
+		<List recon_name="Cynthiacetus_peruvianus" recon_no="185633">Cynthiacetus_peruvianus</List>
+		<List recon_name="Chrysocetus_healyorum" recon_no="57337">Chrysocetus_healyorum</List>
+		<List recon_name="Saghacetus_osiris" recon_no="53293">Saghacetus_osiris</List>
+		<List recon_name="Ancalecetus_simonsi" recon_no="53295">Ancalecetus_simonsi</List>
+		<List recon_name="DELETE" recon_no="-1">MUSM_1917</List>
+		<List recon_name="Mammalodon_colliveri" recon_no="63222">Mammalodon_colliveri</List>
+		<List recon_name="Janjucetus_hunderi" recon_no="84035">Janjucetus_hunderi</List>
+		<List recon_name="Aetiocetus_weltoni" recon_no="63483">Aetiocetus_weltoni</List>
+		<List recon_name="Aetiocetus_cotylalveus" recon_no="63473">Aetiocetus_cotylalveus</List>
+		<List recon_name="DELETE" recon_no="-1">ChM_PV_5720</List>
+		<List recon_name="Eomysticetus_whitmorei" recon_no="63469">Eomysticetus_whitmorei</List>
+		<List recon_name="Simocetus_rayi" recon_no="63231">Simocetus_rayii</List>
+		<List recon_name="Agorophius_pygmaeus" recon_no="63210">Agorophius_pygmaeus</List>
+		<List recon_name="Archaeodelphis_patrius" recon_no="63246">Archaeodelphis_patrius</List>
+		<List recon_name="Xenorophus_sloanii" recon_no="62942">Xenorophus_sloani</List>
+		<List recon_name="Echovenator_sandersi" recon_no="345869">Echovenator_sandersii</List>
+		<List recon_name="Albertocetus_meffordorum" recon_no="135854">Albertocetus_meffordorum</List>
+		<List recon_name="Squalodon_calvertensis" recon_no="68288">Squalodon_calvertensis</List>
+		<List recon_name="Waipatia_maerewhenua" recon_no="62904">Waipatia_maerewhenua</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>MartinezCaceres_etal_2017aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

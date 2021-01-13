@@ -2,13 +2,17 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Solé, F. </List>
+			<List> Godinot, M. </List>
+			<List> Laurent, Y. </List>
+			<List> Alain Galoyer, A. </List>
+			<List> Smith, T. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2018</Year>
+		<Title>The European Mesonychid mammals: phylogeny, ecology, biogeography, and biochronology</Title>
+		<Journal>Journal of Mammalian Evolution</Journal>
+		<Volume>25(3)</Volume>
+		<Pages>339-379</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -64,6 +68,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Sole_etal_2018aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

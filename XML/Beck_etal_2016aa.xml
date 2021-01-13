@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> Beck, R. M. </List>
+			<List> Warburton, N. M. </List>
+			<List> Archer, M. </List>
+			<List> Hand, S. J. </List>
+			<List> Aplin, K. P. </List>
+		</Author>
+		<Year>2016</Year>
+		<Title>Going underground: postcranial morphology of the early Miocene marsupial mole Naraboryctes philcreaseri and the evolution of fossoriality in notoryctemorphians</Title>
+		<Journal>Memoirs of Museum Victoria</Journal>
+		<Volume>74</Volume>
+		<Pages>151-171</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="39">
+		<List recon_name="Ornithorhynchus_anatinus" recon_no="166835">Ornithorhynchus</List>
+		<List recon_name="Tachyglossus_aculeatus" recon_no="231485">Tachyglossus</List>
+		<List recon_name="Didelphis_marsupialis,Didelphis_virginiana" recon_no="45701;45705">Didelphis</List>
+		<List recon_name="Monodelphis_brevicaudata,Monodelphis_domestica" recon_no="284763;231479">Monodelphis</List>
+		<List recon_name="Caluromys_lanatus,Caluromys_philander" recon_no="284727;233578">Caluromys</List>
+		<List recon_name="Glironia_venusta" recon_no="284729">Glironia</List>
+		<List recon_name="Caenolestes_caniventer,Caenolestes_condorensis,Caenolestes_convelatus,Caenolestes_fuliginnosus,Caenolestes_sangay" recon_no="425112;425113;425114;425115;425119">Caenolestes</List>
+		<List recon_name="Dasyuroides_byrnei" recon_no="427617">Dasyuroides</List>
+		<List recon_name="Dasyurus_hallucatus,Dasyurus_viverrinus" recon_no="234431;235548">Dasyurus</List>
+		<List recon_name="Phascogale_tapoatafa" recon_no="234442">Phascogale</List>
+		<List recon_name="Notoryctes_typhlops,Notoryctes_caurinus" recon_no="430597;430598">Notoryctes</List>
+		<List recon_name="Echymipera_kalubu,Echymipera_rufescens" recon_no="430601;430606">Echymipera</List>
+		<List recon_name="Perameles_gunnii,Perameles_nasuta" recon_no="247887;234454">Perameles</List>
+		<List recon_name="Dromiciops_gliroides" recon_no="234408">Dromiciops</List>
+		<List recon_name="Trichosurus_vulpecula" recon_no="231483">Trichosurus</List>
+		<List recon_name="Phalanger" recon_no="40124">Phalanger</List>
+		<List recon_name="Petaurus_breviceps" recon_no="234627">Petaurus</List>
+		<List recon_name="Pseudochirops_corinnae,Pseudochirops_cupreus,Pseudochirops_winteri" recon_no="248424;248423;248426">Pseudochirops</List>
+		<List recon_name="Cercartetus_nanus,Cercartetus_caudatus" recon_no="234541;234544">Cercartetus</List>
+		<List recon_name="Macropus_(Macropus)_giganteus,Macropus_(Osphranter)_rufus,Macropus_(Notamacropus)_parma" recon_no="162495;162528;162551">Macropus</List>
+		<List recon_name="Dendrolagus_dorianus,Dendrolagus_goodfellowi,Dendrolagus_lumholtzi" recon_no="231655;234869;231653">Dendrolagus</List>
+		<List recon_name="Dorcopsis_veterum" recon_no="234871">Dorcopsis</List>
+		<List recon_name="Thylogale_billardieri,Thylogale_stigmatica" recon_no="248746;234863">Thylogale</List>
+		<List recon_name="Vombatus_ursinus" recon_no="234548">Vombatus</List>
+		<List recon_name="Phascolarctos_cinereus" recon_no="234486">Phascolarctos</List>
+		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes</List>
+		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
+		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium</List>
+		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
+		<List recon_name="Andinodelphys_cochabambensis" recon_no="266231">Andinodelphys</List>
+		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium</List>
+		<List recon_name="Herpetotherium_fugax,Herpetotherium_innominatum,Herpetotherium_knighti,Herpetotherium_marsupium,Herpetotherium_merriami,Herpetotherium_valens,Herpetotherium_youngi" recon_no="339420;288487;46893;46895;46896;46901;46902">Herpetotherium</List>
+		<List recon_name="Peradectidae" recon_no="253242">Peradectidae</List>
+		<List recon_name="Djarthia_murgonensis" recon_no="247038">Djarthia</List>
+		<List recon_name="Palaeothentes_minutus,Palaeothentes_lemoinei" recon_no="243787;243738">Palaeothentes</List>
+		<List recon_name="Yalkaparidon_coheni,Yalkaparidon_jonesi" recon_no="247031;247032">Yalkaparidon</List>
+		<List recon_name="Naraboryctes_philcreaseri" recon_no="247036">Naraboryctes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Beck_etal_2016aa</Filename>
+	<Parent>Beck_etal_2014aa</Parent>
+	<Sibling/>
+</SourceTree>

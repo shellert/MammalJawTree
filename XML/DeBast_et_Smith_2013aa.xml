@@ -2,13 +2,14 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> De Bast, E. </List>
+			<List> Smith, T. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2013</Year>
+		<Title>Reassessment of the small ‘arctocyonid’ Prolatidens waudruae from the early Paleocene of Belgium, and its phylogenetic relationships with ungulate-like mammals.</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33(4)</Volume>
+		<Pages>964-976</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -63,6 +64,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>DeBast_et_Smith_2013aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Williamson_et_Carr_2007aa</Parent>
 	<Sibling/>
 </SourceTree>

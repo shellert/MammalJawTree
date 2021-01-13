@@ -2,32 +2,32 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Barrett, P. Z. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2016</Year>
+		<Title>Taxonomic and systematic revisions to the North American Nimravidae (Mammalia, Carnivora)</Title>
+		<Journal>PeerJ</Journal>
+		<Volume>4</Volume>
+		<Pages>e1658</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
 		<Editor/>
 	</Source>
 	<Taxa number="27">
-		<List recon_name="Viverravus" recon_no="40995">Viverravus</List>
-		<List recon_name="Didymictis" recon_no="40973">Didymictis</List>
-		<List recon_name="Protictis" recon_no="40975">Protictis</List>
-		<List recon_name="Miacis" recon_no="40979">Miacis</List>
-		<List recon_name="Vulpavus" recon_no="40991">Vulpavus</List>
-		<List recon_name="Oodectes" recon_no="40981">Oodectes</List>
-		<List recon_name="Daphoenodon" recon_no="41278">Daphoenodon</List>
-		<List recon_name="Daphoenus" recon_no="41279">Daphoenus</List>
-		<List recon_name="Paradaphaenus" recon_no="407950">Paradaphaenus</List>
+		<List recon_name="Viverravus_acutus,Viverravus_gracilis,Viverravus_lawsoni,Viverravus_laytoni,Viverravus_lutosus,Viverravus_minutus,Viverravus_politus,Viverravus_rosei,Viverravus_schaffi,Viverravus_sicarius" recon_no="52659;52662;347837;52664;52665;52666;52668;52670;358991;52671">Viverravus</List>
+		<List recon_name="Didymictis_altidens,Didymictis_dellensis,Didymictis_leptomylus,Didymictis_protenus,Didymictis_proteus,Didymictis_vancleveae" recon_no="45724;45727;45729;45733;45734;45736">Didymictis</List>
+		<List recon_name="Protictis_agastor,Protictis_haydenianus,Protictis_minor,Protictis_paralus,Protictis_simpsoni" recon_no="50956;50959;50962;50963;50965">Protictis</List>
+		<List recon_name="Miacis_boqinghensis,Miacis_deutschi,Miacis_edax,Miacis_exiguus,Miacis_hookwayi,Miacis_invictus,Miacis_latidens,Miacis_lushiensis,Miacis_medius,Miacis_parvivorus,Miacis_petilus,Miacis_rundlei,Miacis_vorax" recon_no="333099;48482;352695;48483;48486;142992;48488;97813;48491;48492;48493;347701;352696">Miacis</List>
+		<List recon_name="Vulpavus_australis,Vulpavus_canavus,Vulpavus_farsonensis,Vulpavus_hargeri,Vulpavus_palustris,Vulpavus_profectus" recon_no="52674;52675;52677;52678;52680;52682">Vulpavus</List>
+		<List recon_name="Oodectes_herpestoides,Oodectes_jepseni" recon_no="49355;49356">Oodectes</List>
+		<List recon_name="Daphoenodon_falkenbachi,Daphoenodon_notionastes,Daphoenodon_skinneri,Daphoenodon_superbus" recon_no="45533;45535;45538;45539">Daphoenodon</List>
+		<List recon_name="Daphoenus_demilo,Daphoenus_felinus,Daphoenus_hartshornianus,Daphoenus_lambei,Daphoenus_robustus,Daphoenus_ruber,Daphoenus_socialis,Daphoenus_transversus,Daphoenus_vetus" recon_no="45542;45545;45547;45548;395709;45550;45551;45552;45553">Daphoenus</List>
+		<List recon_name="Paradaphoenus_cuspigerus,Paradaphoenus_minimus,Paradaphoenus_tooheyi" recon_no="49804;49805;49807">Paradaphaenus</List>
 		<List recon_name="Dinaelurus_crassus" recon_no="45744">Dinaelurus_crassus</List>
 		<List recon_name="Nimravus_brachyops" recon_no="49167">Nimravus_brachyops</List>
 		<List recon_name="Nimravus_intermedius" recon_no="347808">Nimravus_intermedius</List>
-		<List recon_name="Eofelis" recon_no="41053">Eofelis</List>
+		<List recon_name="Eofelis_edwardsii,Eofelis_giganteus" recon_no="350413;350414">Eofelis</List>
 		<List recon_name="Dinailurictis_bonali" recon_no="348601">Dinailurictis_bonali</List>
 		<List recon_name="Quercylurus_major" recon_no="348604">Quercylurus_major</List>
 		<List recon_name="Dinictis_felina" recon_no="45752">Dinictis_felina</List>
@@ -56,6 +56,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Barrett_2016aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Peigne_2003aa</Parent>
 	<Sibling/>
 </SourceTree>

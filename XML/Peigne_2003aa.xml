@@ -2,13 +2,13 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Peigné, S. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2003</Year>
+		<Title>Systematic review of European Nimravinae (Mammalia, Carnivora, Nimravidae) and the phylogenetic relationships of Palaeogene Nimravidae.</Title>
+		<Journal>Zoologica Scripta</Journal>
+		<Volume>32(3)</Volume>
+		<Pages>199-229</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -16,7 +16,7 @@
 	</Source>
 	<Taxa number="19">
 		<List recon_name="Prohesperocyon_wilsoni,Hesperocyon_gregarius,Amphicynodon_leptorhynchus" recon_no="50768;46911;348697">Outgroup</List>
-		<List recon_name="MA_PHQ_348" recon_no="-1">MA_PHQ_348</List>
+		<List recon_name="Eofelis_sp_MA_PHQ_348" recon_no="41053">MA_PHQ_348</List>
 		<List recon_name="Dinaelurus_crassus" recon_no="45744">Dinaelurus</List>
 		<List recon_name="Nimravus_intermedius" recon_no="347808">Nimravus_intermedius</List>
 		<List recon_name="Nimravus_brachyops" recon_no="49167">Nimravus_brachyops</List>
@@ -48,6 +48,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Peigne_2003aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Bryant_1996aa</Parent>
 	<Sibling/>
 </SourceTree>

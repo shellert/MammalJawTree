@@ -2,13 +2,18 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Egi, N. </List>
+			<List> Holroyd, P. A. </List>
+			<List> Tsubamoto, T. </List>
+			<List> Soe, A. N. </List>
+			<List> Takai, M. </List>
+			<List> Ciochon, R. L. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2005</Year>
+		<Title>Proviverrine hyaenodontids (Creodonta: Mammalia) from the Eocene of Myanmar and a phylogenetic analysis of the proviverrines from the Para‐Tethys area</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>3(4)</Volume>
+		<Pages>337-358</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -44,6 +49,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Egi_etal_2005aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

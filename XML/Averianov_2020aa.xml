@@ -1,14 +1,14 @@
-<?xml version="1.0" standalone="yes"?> 
+<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Averianov, A. O. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2020</Year>
+		<Title>Reappraisal of arctostylopid mammal Kazachostylops occidentalis from the late Paleocene of Kazakhstan and phylogenetic relationships within Arctostylopida</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>94(3)</Volume>
+		<Pages>568-579</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -16,14 +16,14 @@
 	</Source>
 	<Taxa number="17">
 		<List recon_name="Astigale_nanxiogensis" recon_no="247046">Astigale_nanxiongensis</List>
-		<List recon_name="Allostylops_periconotus" recon_no="-1">Allostylops_periconotus</List>
+		<List recon_name="Allostylops_periconotus" recon_no="425131">Allostylops_periconotus</List>
 		<List recon_name="Anatolostylops_dubius" recon_no="333264">Anatolostylops_dubius</List>
 		<List recon_name="Anatolostylops_zhaii" recon_no="336375">Anatolostylops_zhaii</List>
 		<List recon_name="Arctostylops_steini" recon_no="44306">Arctostylops_steini</List>
-		<List recon_name="Asiostylops_spanios" recon_no="-1">Asiostylops_spanios</List>
+		<List recon_name="Asiostylops_spanios" recon_no="425132">Asiostylops_spanios</List>
 		<List recon_name="Bothriostylops_medius" recon_no="253051">Bothriostylops_medius</List>
 		<List recon_name="Bothriostylops_notios" recon_no="247188">Bothriostylops_notios</List>
-		<List recon_name="Enantiostylops_progressus" recon_no="-1">Enantiostylops_progressus</List>
+		<List recon_name="Enantiostylops_progressus" recon_no="425204">Enantiostylops_progressus</List>
 		<List recon_name="Kazachostylops_occidentalis" recon_no="203045">Kazachostylops_occidentalis</List>
 		<List recon_name="Migrostylops_roboreus" recon_no="348452">Migrostylops_roboreus</List>
 		<List recon_name="Migrostylops_rosella" recon_no="348453">Migrostylops_rosella</List>
@@ -45,7 +45,7 @@
 		<Type>Maximum Parsimony</Type>
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
-	<Filename>Averianov_2019aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Filename>Averianov_2020aa</Filename>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

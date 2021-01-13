@@ -2,13 +2,19 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Seiffert, E. R. </List>
+			<List> Boyer, D. M. </List>
+			<List> Fleagle, J. G. </List>
+			<List> Gunnell, G. F. </List>
+			<List> Heesy, C. P. </List>
+			<List> Perry, J. M. </List>
+			<List> Sallam, H. M. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2018</Year>
+		<Title>New adapiform primate fossils from the late Eocene of Egypt</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>30(1-2)</Volume>
+		<Pages>204-226</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -17,14 +23,14 @@
 	<Taxa number="122">
 		<List recon_name="Tupaia_glis" recon_no="234212">Tupaia_glis</List>
 		<List recon_name="Ptilocercus_kylin" recon_no="335342">Ptilocercus_kylin</List>
-		<List recon_name="Absarokius_sp" recon_no="-1">Absarokius_sp</List>
+		<List recon_name="Absarokius_abbotti,Absarokius_gazini,Absarokius_metoecus" recon_no="43687;43689;43691">Absarokius_sp</List>
 		<List recon_name="Abuqatrania_basiodontos" recon_no="166584">Abuqatrania_basiodontos</List>
 		<List recon_name="Adapis_parisiensis" recon_no="57922">Adapis_parisiensis</List>
 		<List recon_name="Aegyptopithecus_zeuxis" recon_no="100577">Aegyptopithecus_zeuxis</List>
 		<List recon_name="Afradapis_longicristatus" recon_no="156661">Afradapis_longicristatus</List>
 		<List recon_name="Aframonius_dieides" recon_no="143110">Aframonius_dieides</List>
 		<List recon_name="Afrasia_djijidae" recon_no="308481">Afrasia_djijidae</List>
-		<List recon_name="Afrotarsius_spp" recon_no="-1">Afrotarsius_spp</List>
+		<List recon_name="Afrotarsius_chatrathi,Afrotarsius_libycus" recon_no="100568;172405">Afrotarsius_spp</List>
 		<List recon_name="Algeripithecus_minutus" recon_no="143122">Algeripithecus_minutus</List>
 		<List recon_name="Allenopithecus_nigroviridis" recon_no="385063">Allenopithecus_nigroviridis</List>
 		<List recon_name="Alouatta_seniculus" recon_no="232537">Alouatta_seniculus</List>
@@ -68,13 +74,13 @@
 		<List recon_name="Hemiacodon_gracilis" recon_no="46847">Hemiacodon_gracilis</List>
 		<List recon_name="Hoanghonius_stehlini" recon_no="58316">Hoanghonius_stehlini</List>
 		<List recon_name="Karanisia_clarki" recon_no="90338">Karanisia_clarki</List>
-		<List recon_name="Komba_spp" recon_no="-1">Komba_spp</List>
+		<List recon_name="Komba_robustus" recon_no="385231">Komba_spp</List>
 		<List recon_name="Laomaki_yunnanensis" recon_no="343082">Laomaki_yunnanensis</List>
 		<List recon_name="Lemur_catta" recon_no="104138">Lemur_catta</List>
 		<List recon_name="Leontopithecus_rosalia" recon_no="385319">Leontopithecus_rosalia</List>
 		<List recon_name="Lepilemur_mustelinus" recon_no="385148">Lepilemur_mustelinus</List>
 		<List recon_name="Leptadapis_magnus" recon_no="127247">Leptadapis_magnus</List>
-		<List recon_name="Leptadapis_priscus" recon_no="-1">Leptadapis_priscus</List>
+		<List recon_name="Leptadapis_(Paradapis)_priscus" recon_no="145146">Leptadapis_priscus</List>
 		<List recon_name="Leptadapis_ruetimeyeri" recon_no="374311">Leptadapis_ruetimeyeri</List>
 		<List recon_name="Loris_tardigradus" recon_no="206247">Loris_tardigradus</List>
 		<List recon_name="Loveina_zephyri" recon_no="47778">Loveina_zephyri</List>
@@ -91,14 +97,14 @@
 		<List recon_name="Myanmarpithecus_yarshensis" recon_no="106801">Myanmarpithecus_yarshensis</List>
 		<List recon_name="Nannopithex_abderhaldeni" recon_no="352360">Nannopithex_abderhaldeni</List>
 		<List recon_name="Nannopithex_raabi" recon_no="352359">Nannopithex_raabi</List>
-		<List recon_name="Necrolemur_spp" recon_no="-1">Necrolemur_spp</List>
+		<List recon_name="Necrolemur_anadoni,Necrolemur_antiquus,Necrolemur_parvulus,Necrolemur_zitteli" recon_no="347165;347334;374332;385351">Necrolemur_spp</List>
 		<List recon_name="Nievesia_sossisensis" recon_no="264449">Nievesia_sossisensis</List>
 		<List recon_name="Nosmips_aenigmaticus" recon_no="343227">Nosmips_aenigmaticus</List>
 		<List recon_name="Nycticeboides_simpsoni" recon_no="385132">Nycticeboides_simpsoni</List>
 		<List recon_name="Nycticebus_coucang" recon_no="234313">Nycticebus_coucang</List>
 		<List recon_name="Oligopithecus_rogeri" recon_no="306557">Oligopithecus_rogeri</List>
 		<List recon_name="Oligopithecus_savagei" recon_no="172415">Oligopithecus_savagei</List>
-		<List recon_name="Omomys_sp" recon_no="-1">Omomys_sp</List>
+		<List recon_name="Omomys_carteri,Omomys_lloydi,Omomys_pucillus" recon_no="49314;49316;49319">Omomys_sp</List>
 		<List recon_name="Otolemur_crassicaudatus" recon_no="385164">Otolemur_crassicaudatus</List>
 		<List recon_name="Pan_troglodytes" recon_no="157891">Pan_troglodytes</List>
 		<List recon_name="Parapithecus_fraasi" recon_no="144353">Parapithecus_fraasi</List>
@@ -110,7 +116,7 @@
 		<List recon_name="Plesiopithecus_teras" recon_no="133674">Plesiopithecus_teras</List>
 		<List recon_name="Pondaungia_cotteri" recon_no="100581">Pondaungia_cotteri</List>
 		<List recon_name="Pronycticebus_gaudryi" recon_no="145090">Pronycticebus_gaudryi</List>
-		<List recon_name="Propithecus_spp" recon_no="-1">Propithecus_spp</List>
+		<List recon_name="Propithecus_candidus,Propithecus_coquereli,Propithecus_coronatus,Propithecus_deckenii,Propithecus_diadema,Propithecus_edwardsi,Propithecus_perrieri,Propithecus_tattersalli,Propithecus_verreauxi" recon_no="385221;385155;385324;385322;385156;385220;385222;385076;385079">Propithecus_spp</List>
 		<List recon_name="Propliopithecus_chirobates" recon_no="184209">Propliopithecus_chirobates</List>
 		<List recon_name="Proteopithecus_sylviae" recon_no="97123">Proteopithecus_sylviae</List>
 		<List recon_name="Protoadapis_curvicuspidens" recon_no="144267">Protoadapis_curvicuspidens</List>
@@ -124,14 +130,14 @@
 		<List recon_name="Serapia_eocaena" recon_no="133673">Serapia_eocaena</List>
 		<List recon_name="Shoshonius_cooperi" recon_no="51543">Shoshonius_cooperi</List>
 		<List recon_name="Siamopithecus_eocaenus" recon_no="145178">Siamopithecus_eocaenus</List>
-		<List recon_name="Steinius_spp" recon_no="-1">Steinius_spp</List>
-		<List recon_name="Taqah_propliopithecid" recon_no="-1">Taqah_propliopithecid</List>
+		<List recon_name="Steinius_annectens,Steinius_vespertinus" recon_no="51771;51772">Steinius_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Taqah_propliopithecid</List>
 		<List recon_name="Tarsius_bancanus" recon_no="232742">Tarsius_bancanus</List>
 		<List recon_name="Tarsius_sirindhornae" recon_no="193184">Tarsius_sirindhornae</List>
 		<List recon_name="Teilhardina_americana" recon_no="52105">Teilhardina_americana</List>
 		<List recon_name="Teilhardina_asiatica" recon_no="101085">Teilhardina_asiatica</List>
 		<List recon_name="Teilhardina_belgica" recon_no="53408">Teilhardina_belgica</List>
-		<List recon_name="Tetonius_sp" recon_no="-1">Tetonius_sp</List>
+		<List recon_name="Tetonius_homunculus,Tetonius_matthewi,Tetonius_mckennai" recon_no="52190;52191;52192">Tetonius_sp</List>
 		<List recon_name="Varecia_variegata" recon_no="237775">Varecia_variegata</List>
 		<List recon_name="Wadilemur_elegans" recon_no="121440">Wadilemur_elegans</List>
 		<List recon_name="Washakius_insignis" recon_no="52699">Washakius_insignis</List>
@@ -151,6 +157,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Seiffert_etal_2018aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Boyer_etal_2016aa</Parent>
 	<Sibling/>
 </SourceTree>

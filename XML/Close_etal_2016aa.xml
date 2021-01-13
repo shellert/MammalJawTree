@@ -2,13 +2,18 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Close, R. A. </List>
+			<List> Davis, B. M. </List>
+			<List> Walsh, S. </List>
+			<List> Wolniewicz, A. S. </List>
+			<List> Friedman, M. </List>
+			<List> Benson, R. B. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2016</Year>
+		<Title>A lower jaw of Palaeoxonodon from the Middle Jurassic of the Isle of Skye, Scotland, sheds new light on the diversity of British stem therians</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>59(1)</Volume>
+		<Pages>155-169</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -86,13 +91,13 @@
 		<List recon_name="Cimolestes_incisus,Cimolestes_stirtoni,Ambilestes_cerberoides" recon_no="45115;45120;331295">Cimolestes</List>
 		<List recon_name="Gypsonictops_hypoconus,Gypsonictops_illuminatus,Gypsonictops_lewisi" recon_no="46754;46755;46756">Gypsonictops</List>
 		<List recon_name="Protungulatum_donnae,Protungulatum_gorgun,Protungulatum_mckeeveri" recon_no="51116;51117;51118">Protungulatum</List>
-		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus_europaeus</List>
+		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus</List>
 		<List recon_name="Leptictis_acutidens,Leptictis_bullatus,Leptictis_dakotensis,Leptictis_douglassi,Leptictis_haydeni,Leptictis_montanus,Leptictis_thomsoni,Leptictis_wilsoni" recon_no="47556;144951;47557;47558;47559;47560;47561;47562">Leptictis</List>
 		<List recon_name="Canis_adustus,Canis_anthus,Canis_latrans,Canis_lupus,Canis_mesomelas" recon_no="232942;233548;44854;44860;232943">Canis</List>
 		<List recon_name="Felis_bieti,Felis_catus,Felis_chaus,Felis_lybica,Felis_silvestris,Felis_margarita,Felis_nigripes" recon_no="224044;104159;224047;224043;224042;224045;224046">Felis</List>
 		<List recon_name="Rattus_flavipectus,Rattus_norvegicus,Rattus_rattus,Rattus_sabanus" recon_no="232006;231469;232003;232000">Rattus</List>
 		<List recon_name="Oryctolagus_cuniculus" recon_no="233585">Oryctolagus</List>
-		<List recon_name="Bradypus_griseus,Bradypus_tridactylus" recon_no="235352;104148">Bradypus</List>
+		<List recon_name="Bradypus_griseus,Bradypus_tridactylus,Bradypus_variegatus" recon_no="235352;104148;426010">Bradypus</List>
 		<List recon_name="Tamandua_tetradactyla" recon_no="233569">Tamandua</List>
 		<List recon_name="Glyptotherium_cylindricum,Glyptotherium_texanum" recon_no="46666;46669">Glyptotherium</List>
 		<List recon_name="Dasypus_(Dasypus)_novemcinctus" recon_no="161184">Dasypus</List>
@@ -115,7 +120,7 @@
 		<List recon_name="Andinodelphys_cochabambensis" recon_no="266231">Andinodelphys</List>
 		<List recon_name="Didelphis_virginiana" recon_no="45705">Didelphis</List>
 		<List recon_name="Marmosa_demerarae,Marmosa_lepida,Marmosa_mexicana,Marmosa_murina,Marmosa_regina,Marmosa_robinsoni" recon_no="284733;284731;160951;233580;284735;284738">Marmosa</List>
-		<List recon_name="DELETE" recon_no="-1">Caenolestes</List>
+		<List recon_name="Caenolestes_caniventer,Caenolestes_condorensis,Caenolestes_convelatus,Caenolestes_fuliginnosus,Caenolestes_sangay" recon_no="425112;425113;425114;425115;425119">Caenolestes</List>
 		<List recon_name="Dasyurus_hallucatus,Dasyurus_maculatus,Dasyurus_viverrinus" recon_no="234431;234430;235548">Dasyurus</List>
 		<List recon_name="Perameles_gunnii,Perameles_nasuta" recon_no="247887;234454">Perameles</List>
 		<List recon_name="Dromiciops_australis,Dromiciops_gliroides" recon_no="337154;234408">Dromiciops</List>
@@ -125,7 +130,7 @@
 		<List recon_name="Phascolarctos_cinereus,Phascolarctos_stirtoni" recon_no="234486;247551">Phascolarctos</List>
 		<List recon_name="Vombatus_ursinus" recon_no="234548">Vombatus</List>
 		<List recon_name="Phalanger_breviceps,Phalanger_carmelitae,Phalanger_gymnotis,Phalanger_intercastellanus,Phalanger_leucippus,Phalanger_maculatus,Phalanger_orientalis,Phalanger_sericeus,Phalangista_cookii" recon_no="234498;234493;234500;241800;234494;234483;234497;241799;234647">Phalanger</List>
-		<List recon_name="Pseudochirus_peregrinus" recon_no="234481">Pseudochirus</List>
+		<List recon_name="Pseudochirus_peregrinus" recon_no="234481">Pseudocheirus</List>
 		<List recon_name="Petauroides_volans" recon_no="247841">Petauroides</List>
 	</Taxa>
 	<Characters>
@@ -141,6 +146,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Close_etal_2016aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Zhou_etal_2013aa</Parent>
 	<Sibling/>
 </SourceTree>

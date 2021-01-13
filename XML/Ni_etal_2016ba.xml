@@ -200,7 +200,7 @@
 		<List recon_name="Tinimomys_graybulliensis" recon_no="52321">Tinimomys_graybulliensis</List>
 		<List recon_name="Tupaia_belangeri" recon_no="234207">Tupaia_belangeri</List>
 		<List recon_name="Urogale_everetti" recon_no="234226">Tupaia_everetti</List>
-		<List recon_name="Tupaia_glis_M55561,Tupaia_glis_M55562,Tupaia_glis_M250028,Tupaia_glis_M250029" recon_no="234212;234212;234212;234212">Tupaia_glis_Thailand</List>
+		<List recon_name="Tupaia_glis" recon_no="234212">Tupaia_glis_Thailand</List>
 		<List recon_name="Tupaia_javanica" recon_no="234214">Tupaia_javanica</List>
 		<List recon_name="Tupaia_nicobarica" recon_no="234219">Tupaia_nicobarica</List>
 		<List recon_name="Tupaia_palawanensis" recon_no="234221">Tupaia_palawanensis</List>
@@ -227,7 +227,7 @@
 		<Type>Maximum Parsimony</Type>
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
-	<Filename>Ni_etal_2016a</Filename>
-	<Parent>Ni_etal_2013a</Parent>
+	<Filename>Ni_etal_2016ba</Filename>
+	<Parent>Ni_etal_2013aa</Parent>
 	<Sibling/>
 </SourceTree>

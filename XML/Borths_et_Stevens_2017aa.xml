@@ -23,7 +23,7 @@
 		<List recon_name="Allopterodon_torvidus" recon_no="347886">Allopterodon_torvidus</List>
 		<List recon_name="Anasinopa_leakeyi" recon_no="272060">Anasinopa_leakeyi</List>
 		<List recon_name="Apterodon_gaudryi" recon_no="98848">Apterodon_gaudryi</List>
-		<List recon_name="Apterodon_langebadrae" recon_no="-1">Apterodon_langebadrae</List>
+		<List recon_name="Apterodon_langebadreae" recon_no="331904">Apterodon_langebadrae</List>
 		<List recon_name="Apterodon_macrognathus" recon_no="86257">Apterodon_macrognathus</List>
 		<List recon_name="Arfia_gingerichi" recon_no="331777">Arfia_gingerichi</List>
 		<List recon_name="Arfia_shoshoniensis" recon_no="44315">Arfia_shoshoniensis</List>
@@ -45,13 +45,13 @@
 		<List recon_name="Glibzegdouia_tabelbalaensis" recon_no="343241">Glibzegdouia</List>
 		<List recon_name="Hemipsalodon_grandis" recon_no="40916">Hemipsalodon</List>
 		<List recon_name="Hyaenodon_horridus" recon_no="47127">Hyaenodon_horridus</List>
-		<List recon_name="Hyaenodon_ErgiliynDzo" recon_no="-1">Hyaenodon_ErgiliynDzo</List>
+		<List recon_name="DELETE" recon_no="-1">Hyaenodon_ErgiliynDzo</List>
 		<List recon_name="Hyaenodon_minor" recon_no="424630">Hyaenodon_minor</List>
 		<List recon_name="Hyaenodon_exiguus" recon_no="47126">Hyaenodon_exiguus</List>
 		<List recon_name="Hyaenodon_neimongoliensis" recon_no="333347">Hyaenodon_neimongoliensis</List>
 		<List recon_name="Hyainailouros_sulzeri" recon_no="97045">Hyainailouros_sulzeri</List>
 		<List recon_name="Indohyaenodon_raoi" recon_no="152716">Indohyaenodon</List>
-		<List recon_name="Isohyaenodon_pilgrimi" recon_no="-1">Isohyaenodon_pilgrimi</List>
+		<List recon_name="Hyaenodon_(Isohyaenodon)_pilgrimi" recon_no="272077">Isohyaenodon_pilgrimi</List>
 		<List recon_name="Kerberos_langebadreae" recon_no="348487">Kerberos</List>
 		<List recon_name="Koholia_atlasense" recon_no="334669">Koholia</List>
 		<List recon_name="Kyawdawia_lupina" recon_no="80834">Kyawdawia</List>
@@ -111,6 +111,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Borths_et_Stevens_2017aa</Filename>
-	<Parent>Borths_et_Seiffert_2017aa</Parent>
+	<Parent>Borths_etal_2016aa</Parent>
 	<Sibling/>
 </SourceTree>

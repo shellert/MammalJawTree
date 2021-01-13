@@ -2,13 +2,15 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Solé, F. </List>
+			<List> Falconnet, J. </List>
+			<List> Yves, L. </List>
 		</Author>
 		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Title>New proviverrines (Hyaenodontida) from the early Eocene of Europe; phylogeny and ecological evolution of the Proviverrinae</Title>
+		<Journal>Zoological Journal of the Linnean Society </Journal>
+		<Volume>171(4)</Volume>
+		<Pages>878-917</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -31,23 +33,23 @@
 		<List recon_name="Oxyaenoides_lindgreni" recon_no="347666">Oxyaenoides_lindgreni</List>
 		<List recon_name="Oxyaenoides_bicuspidens" recon_no="62960">Oxyaenoides_bicuspidens</List>
 		<List recon_name="Oxyaenoides_schlosseri" recon_no="347664">Oxyaenoides_schlosseri</List>
-		<List recon_name="Alienetherium_buxwilleri" recon_no="-1">Alienetherium_buxwilleri</List>
+		<List recon_name="Alienetherium_buxwilleri" recon_no="425142">Alienetherium_buxwilleri</List>
 		<List recon_name="Eurotherium_theriodis" recon_no="347693">Eurotherium_theriodis</List>
 		<List recon_name="Eurotherium_matthesi" recon_no="347889">Eurotherium_matthesi</List>
 		<List recon_name="Prodissopsalis_eocaenicus" recon_no="63427">Prodissopsalis_eocaenicus</List>
-		<List recon_name="Paenoxyaenoides_liguritor" recon_no="-1">Paenoxyaenoides_liguritor</List>
+		<List recon_name="Paenoxyaenoides_liguritor" recon_no="425141">Paenoxyaenoides_liguritor</List>
 		<List recon_name="Leonhardtina_gracilis" recon_no="63432">Leonhardtina_gracilis</List>
 		<List recon_name="Leonhardtina_godinoti" recon_no="347674">Leonhardtina_godinoti</List>
-		<List recon_name="Allopterodon_bulbosus" recon_no="-1">Allopterodon_bulbosus</List>
-		<List recon_name="Allopterodon_minor" recon_no="-1">Allopterodon_minor</List>
+		<List recon_name="Allopterodon_bulbosus" recon_no="425138">Allopterodon_bulbosus</List>
+		<List recon_name="Allopterodon_minor" recon_no="425139">Allopterodon_minor</List>
 		<List recon_name="Allopterodon_torvidus" recon_no="347886">Allopterodon_torvidus</List>
 		<List recon_name="Proviverra_typica" recon_no="54265">Proviverra_typica</List>
 		<List recon_name="Lesmesodon_behnkeae,Lesmesodon_edingeri" recon_no="424615;424616">Lesmesodon</List>
 		<List recon_name="Cynohyaenodon_trux" recon_no="424629">Cynohyaenodon_trux</List>
-		<List recon_name="Cynohyaenodon_ruetimeyeri" recon_no="-1">Cynohyaenodon_ruetimeyeri</List>
+		<List recon_name="Cynohyaenodon_ruetimeyeri" recon_no="425140">Cynohyaenodon_ruetimeyeri</List>
 		<List recon_name="Cynohyaenodon_cayluxi" recon_no="58761">Cynohyaenodon_cayluxi</List>
 		<List recon_name="Cynohyaenodon_lautricensis" recon_no="348488">Cynohyaenodon_lautricensis</List>
-		<List recon_name="Paracynohyaenodon_magnus" recon_no="-1">Paracynohyaenodon_magnus</List>
+		<List recon_name="Paracynohyaenodon_magnus" recon_no="425143">Paracynohyaenodon_magnus</List>
 		<List recon_name="Paracynohyaenodon_schlosseri" recon_no="347887">Paracynohyaenodon_schlosseri</List>
 		<List recon_name="Quercytherium_simplicidens" recon_no="424611">Quercytherium_simplicidens</List>
 		<List recon_name="Quercytherium_tenebrosum" recon_no="424612">Quercytherium_tenebrosum</List>
@@ -66,6 +68,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Sole_etal_2014aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

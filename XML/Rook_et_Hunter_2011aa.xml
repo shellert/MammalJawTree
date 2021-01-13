@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rook, D. L.</List>
+			<List>Hunter, J. P.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Phylogeny of the Taeniodonta: evidence from dental characters and stratigraphy</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>422-427</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List recon_name="Ambilestes_cerberoides,Scollardius_propalaeoryctes,Altacreodus_magnus" recon_no="331295;331297;331293">Cimolestes</List>
+		<List recon_name="Procerberus_formicarum" recon_no="50717">Procerberus_formicarum</List>
+		<List recon_name="Procerberus_grandis" recon_no="91642">Procerberus_grandis</List>
+		<List recon_name="Alveugena_carbonensis" recon_no="43952">Alveugena</List>
+		<List recon_name="Schowalteria_clemensi" recon_no="56943">Schowalteria</List>
+		<List recon_name="Onychodectes_tisonensis" recon_no="49344">Onychodectes</List>
+		<List recon_name="Conoryctella_dragonensis" recon_no="45224">Conoryctella</List>
+		<List recon_name="Conoryctes_comma" recon_no="45226">Conoryctes</List>
+		<List recon_name="Huerfanodon_heilprinianus,Huerfanodon_polecatensis,Huerfanodon_torrejonius" recon_no="140422;47115;47116">Huerfanodon</List>
+		<List recon_name="Schochia_sullivani" recon_no="51456">Schochia</List>
+		<List recon_name="Wortmania_otariidens" recon_no="52707">Wortmania</List>
+		<List recon_name="Psittacotherium_multifragum" recon_no="51238">Psittacotherium</List>
+		<List recon_name="Ectoganus_bighornensis,Ectoganus_gliriformis,Ectoganus_lobdelli" recon_no="45983;45985;45986">Ectoganus</List>
+		<List recon_name="Stylinodon_mirus" recon_no="51839">Stylinodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rook_et_Hunter_2011aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

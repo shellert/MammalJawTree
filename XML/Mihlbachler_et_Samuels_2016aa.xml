@@ -2,13 +2,14 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Mihlbachler, M. C. </List>
+			<List> Samuels, J. X. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2016</Year>
+		<Title>A small-bodied species of Brontotheriidae from the middle Eocene Nut Beds of the Clarno Formation, John Day Basin, Oregon</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>90(6)</Volume>
+		<Pages>1233-1244</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -20,7 +21,7 @@
 		<List recon_name="Danjiangia_pingi" recon_no="333311">Danjiangia_pingi</List>
 		<List recon_name="Lambdotherium_popoagicum" recon_no="47471">Lambdotherium_popoagicum</List>
 		<List recon_name="Eotitanops_borealis" recon_no="46182">Eotitanops</List>
-		<List recon_name="CMN_32249,NUFV_34,CMN_32279,CMN_32280,CMN_32247,CMN_52062,CMN_32240," recon_no="-1">cf_Eotitanops_from_Eberle_2006</List>
+		<List recon_name="Eotitanops_sp_CMN_32249,Eotitanops_sp_NUFV_34,Eotitanops_sp_CMN_32279,Eotitanops_sp_CMN_32280,Eotitanops_sp_CMN_32247,Eotitanops_sp_CMN_52062,Eotitanops_sp_CMN_32240" recon_no="43038;43038;43038;43038;43038;43038;43038">cf_Eotitanops_from_Eberle_2006</List>
 		<List recon_name="Palaeosyops_paludosus,Palaeosyops_laevidens" recon_no="49706;49698">Palaeosyops</List>
 		<List recon_name="Eotitanops_pakistanensis" recon_no="169823">Eotitanops_pakistanensis</List>
 		<List recon_name="Balochititanops_haqi" recon_no="192106">Balochititanops_haqi</List>
@@ -71,6 +72,7 @@
 		<List recon_name="Dianotitan_lunanensis" recon_no="296315">Dianotitan_lunanensis</List>
 		<List recon_name="Duchesneodus_uintensis" recon_no="45948">Duchesneodus_uintensis</List>
 		<List recon_name="Megacerops_coloradensis" recon_no="47980">Megacerops_coloradensis</List>
+		<List recon_name="Megacerops_kuwagatarhinus" recon_no="47986">Megacerops_kuwakatarhinus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>
@@ -85,6 +87,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Mihlbachler_et_Samuels_2016aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Mihlbachler_2011aa</Parent>
 	<Sibling/>
 </SourceTree>

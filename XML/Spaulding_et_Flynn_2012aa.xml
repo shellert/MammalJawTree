@@ -2,13 +2,14 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Spaulding, M. </List>
+			<List> Flynn, J. J. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2012</Year>
+		<Title>Phylogeny of the Carnivoramorpha: the impact of postcranial characters</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>10(4)</Volume>
+		<Pages>653-677</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -17,7 +18,7 @@
 	<Taxa number="51">
 		<List recon_name="Leptictis_dakotensis" recon_no="47557">Leptictis</List>
 		<List recon_name="Hyaenodon_cruentus" recon_no="47125">Hyaenodon</List>
-		<List recon_name="DELETE" recon_no="-1">Thinocyon_sp</List>
+		<List recon_name="Entomodon_comptus,Thinocyon_sichowensis" recon_no="46101;115881">Thinocyon_sp</List>
 		<List recon_name="Echinosorex_gymnurus" recon_no="237495">Echinosorex_gymnurus</List>
 		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus_europaeus</List>
 		<List recon_name="Oodectes_herpestoides" recon_no="49355">Oodectes_herpestoides</List>
@@ -41,7 +42,7 @@
 		<List recon_name="Didymictis_vancleveae" recon_no="45736">Didymictis_vancleveae</List>
 		<List recon_name="Hesperocyon_gregarius" recon_no="46911">Hesperocyon_gregarious</List>
 		<List recon_name="Otarocyon_macdonaldi" recon_no="49485">Otarocyon</List>
-		<List recon_name="DELETE" recon_no="-1">Daphoenus_sp</List>
+		<List recon_name="Daphoenus_felinus,Daphoenus_hartshornianus,Daphoenus_lambei,Daphoenus_ruber,Daphoenus_socialis,Daphoenus_transversus,Daphoenus_vetus" recon_no="45545;45547;45548;45550;45551;45552;45553">Daphoenus_sp</List>
 		<List recon_name="Miacis_cognitus" recon_no="48481">Miacis_cognitus</List>
 		<List recon_name="Canis_latrans" recon_no="44854">Canis_latrans</List>
 		<List recon_name="Mephitis_mephitis" recon_no="48141">Mephitis_mephitis</List>
@@ -80,6 +81,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Spaulding_et_Flynn_2012aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>WesleyHunt_et_Flynn_2005aa</Parent>
 	<Sibling/>
 </SourceTree>

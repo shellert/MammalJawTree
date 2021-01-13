@@ -21,74 +21,74 @@
 		<Editor/>
 	</Source>
 	<Taxa number="68">
-		<List recon_name="Didelphis" recon_no="39959">Didelphis</List>
-		<List recon_name="Macropus" recon_no="40153">Macropus</List>
+		<List recon_name="Didelphis_albiventris,Didelphis_marsupialis,Didelphis_virginiana" recon_no="234384;45701;45705">Didelphis</List>
+		<List recon_name="Macropus_(Macropus)_fuliginosus,Macropus_(Macropus)_giganteus,Macropus_rufogriseus" recon_no="162501;162495;380042">Macropus</List>
 		<List recon_name="Vombatus_ursinus" recon_no="234548">Vombatus</List>
 		<List recon_name="Aplodontia_rufa" recon_no="44187">Aplodontia</List>
-		<List recon_name="Castor" recon_no="41539">Castor</List>
-		<List recon_name="Cavia" recon_no="42111">Cavia</List>
-		<List recon_name="Chinchilla" recon_no="231797">Chinchilla</List>
-		<List recon_name="Cynocephalus" recon_no="236617">Cynocephalus</List>
-		<List recon_name="Dasyprocta" recon_no="105149">Dasyprocta</List>
-		<List recon_name="Dipodomys" recon_no="41678">Dipodomys</List>
-		<List recon_name="Echimys" recon_no="233839">Echimys</List>
-		<List recon_name="Erethizon" recon_no="42139">Erethizon</List>
-		<List recon_name="Hydrochoerus" recon_no="42128">Hydrochoerus</List>
-		<List recon_name="Lepus" recon_no="42176">Lepus</List>
-		<List recon_name="Marmota" recon_no="41502">Marmota</List>
-		<List recon_name="Massoutiera" recon_no="-1">Massoutiera</List>
-		<List recon_name="Mus" recon_no="41911">Mus</List>
-		<List recon_name="Myocastor" recon_no="42072">Myocastor</List>
-		<List recon_name="Glis" recon_no="-1">Glis</List>
-		<List recon_name="Ochotona" recon_no="42159">Ochotona</List>
+		<List recon_name="Castor_canadensis,Castor_fiber" recon_no="44957;54309">Castor</List>
+		<List recon_name="Cavia_aperea,Cavia_fulgida,Cavia_magna,Cavia_porcellus,Cavia_intermedia,Cavia_tschudii" recon_no="83725;233793;233795;233628;233796;233794">Cavia</List>
+		<List recon_name="Chinchilla_chinchilla,Chinchilla_lanigera" recon_no="424034;231806">Chinchilla</List>
+		<List recon_name="Cynocephalus_volans" recon_no="206240">Cynocephalus</List>
+		<List recon_name="Dasyprocta_leporina,Dasyprocta_punctata" recon_no="233629;238324">Dasyprocta</List>
+		<List recon_name="Dipodomys_agilis,Dipodomys_compactus,Dipodomys_deserti,Dipodomys_ingens,Dipodomys_merriami,Dipodomys_microps,Dipodomys_nitratoides,Dipodomys_ordii,Dipodomys_spectabilis" recon_no="45820;45821;45822;45825;45828;161716;237265;45830;45832">Dipodomys</List>
+		<List recon_name="Echimys_chrysurus,Echimys_paleaceus,Echimys_saturnus,Echimys_vieirai" recon_no="233844;233868;233845;233849">Echimys</List>
+		<List recon_name="Erethizon_dorsatum" recon_no="46320">Erethizon</List>
+		<List recon_name="Hydrochoerus_hydrochaeris,Hydrochoerus_isthmius" recon_no="128740;131370">Hydrochoerus</List>
+		<List recon_name="Lepus_alleni,Lepus_americanus,Lepus_arcticus,Lepus_californicus,Lepus_callotis,Lepus_capensis,Lepus_europaeus,Lepus_othus,Lepus_somaliensis,Lepus_timidus,Lepus_townsendii,Lepus_whytei" recon_no="47635;47636;47638;47642;47643;104194;231747;47651;236851;47655;47656;240278">Lepus</List>
+		<List recon_name="Marmota_broweri,Marmota_caligata,Marmota_flaviventris,Marmota_korthi,Marmota_marmota,Marmota_monax,Marmota_olympus,Marmota_vancouverensis" recon_no="133142;47895;47897;47898;47899;47902;47905;47909">Marmota</List>
+		<List recon_name="Massoutiera_mzabi" recon_no="430613">Massoutiera</List>
+		<List recon_name="Mus_alexandrinus,Mus_erythroleucus,Mus_musculoides,Mus_musculus,Mus_sylvaticus" recon_no="234282;390826;390828;104205;104207">Mus</List>
+		<List recon_name="Myocastor_coypus" recon_no="231489">Myocastor</List>
+		<List recon_name="Glis_glis" recon_no="131651">Glis</List>
+		<List recon_name="Ochotona_collaris,Ochotona_daurica,Ochotona_princeps" recon_no="49266;109538;49267">Ochotona</List>
 		<List recon_name="Oryctolagus_cuniculus" recon_no="233585">Oryctolagus</List>
-		<List recon_name="Petrodromus" recon_no="253383">Petrodromus</List>
-		<List recon_name="Rattus" recon_no="41923">Rattus</List>
-		<List recon_name="Rhynchocyon" recon_no="40309">Rhynchocyon</List>
-		<List recon_name="Sciurus" recon_no="41525">Sciurus</List>
-		<List recon_name="Sylvilagus" recon_no="42193">Sylvilagus</List>
-		<List recon_name="Thomomys" recon_no="41671">Thomomys</List>
+		<List recon_name="Petrodromus_tetradactylus" recon_no="430614">Petrodromus</List>
+		<List recon_name="Rattus_flavipectus,Rattus_norvegicus,Rattus_rattus,Rattus_sabanus" recon_no="232006;231469;232003;232000">Rattus</List>
+		<List recon_name="Rhynchocyon_cirnei,Rhynchocyon_petersi" recon_no="425136;425135">Rhynchocyon</List>
+		<List recon_name="Sciurus_niger" recon_no="51490">Sciurus</List>
+		<List recon_name="Sylvilagus_aquaticus,Sylvilagus_audubonii,Sylvilagus_bachmani,Sylvilagus_boylei,Sylvilagus_brasiliensis,Sylvilagus_cunicularius,Sylvilagus_floridanus,Sylvilagus_gabbi,Sylvilagus_nuttallii,Sylvilagus_palustris,Sylvilagus_transitionalis" recon_no="51907;51908;51909;238615;233586;51911;51912;235403;161713;51918;51919">Sylvilagus</List>
+		<List recon_name="Thomomys_bottae,Thomomys_bulbivorus,Thomomys_monticola,Thomomys_talpoides,Thomomys_townsendii,Thomomys_umbrinus" recon_no="52275;395351;161238;52281;52282;52283">Thomomys</List>
 		<List recon_name="Thryonomys_swinderianus" recon_no="380402">Thryonomys</List>
-		<List recon_name="Tupaia" recon_no="40296">Tupaia</List>
-		<List recon_name="Adapis" recon_no="40750">Adapis</List>
+		<List recon_name="Tupaia_glis,Tupaia_javanica" recon_no="234212;234214">Tupaia</List>
+		<List recon_name="Adapis_collinsonae,Adapis_parisiensis,Adapis_stintoni,Adapis_sudrei" recon_no="145142;57922;374336;347333">Adapis</List>
 		<List recon_name="Anagale_gobiensis" recon_no="347361">Anagale</List>
 		<List recon_name="Anagalopsis_kansuensis" recon_no="332277">Anagalopsis</List>
 		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
 		<List recon_name="Barunlestes_butleri" recon_no="57289">Barunlestes</List>
 		<List recon_name="Cocomys_lingchaensis" recon_no="336872">Cocomys</List>
-		<List recon_name="Cricetops" recon_no="41755">Cricetops</List>
+		<List recon_name="Cricetops_dormitor" recon_no="333031">Cricetops</List>
 		<List recon_name="Eurymylus_laticeps" recon_no="247225">Eurymylus</List>
-		<List recon_name="Florentiamys" recon_no="41647">Florentiamys</List>
-		<List recon_name="Gomphos" recon_no="41364">Gomphos</List>
-		<List recon_name="Gregorymys" recon_no="41655">Gregorymys</List>
+		<List recon_name="Florentiamys_kingi,Florentiamys_kinseyi,Florentiamys_loomisi,Florentiamys_tiptoni" recon_no="46544;46545;46546;46548">Florentiamys</List>
+		<List recon_name="Gomphos_elkema,Gomphos_ellae,Gomphos_progressus,Gomphos_shevyrevae" recon_no="101464;332231;347357;332230">Gomphos</List>
+		<List recon_name="Gregorymys_curtus,Gregorymys_douglassi,Gregorymys_formosus,Gregorymys_riggsi" recon_no="46722;46723;46724;46728">Gregorymys</List>
 		<List recon_name="Heomys_orientalis" recon_no="246060">Heomys</List>
-		<List recon_name="Hyopsodus" recon_no="42250">Hyopsodus</List>
-		<List recon_name="Incamys" recon_no="247412">Incamys</List>
+		<List recon_name="Hyopsodus_itinerans,Hyopsodus_latidens,Hyopsodus_lepidus,Hyopsodus_loomisi,Hyopsodus_lysitensis,Hyopsodus_markmani,Hyopsodus_minor,Hyopsodus_minusculus,Hyopsodus_miticulus,Hyopsodus_paulus,Hyopsodus_powellianus,Hyopsodus_simplex,Hyopsodus_uintensis,Hyopsodus_walcottianus,Hyopsodus_wortmani" recon_no="149489;47169;47172;47173;47174;47175;47178;47179;47180;47181;47183;47186;47189;47191;47192">Hyopsodus</List>
+		<List recon_name="Incamys_bolivianus" recon_no="247420">Incamys</List>
 		<List recon_name="Kennalestes_gobiensis" recon_no="57349">Kennalestes</List>
 		<List recon_name="Kulbeckia_kulbecke" recon_no="137977">Kulbeckia</List>
-		<List recon_name="Leptictis" recon_no="40260">Leptictis</List>
-		<List recon_name="Matutinia" recon_no="41361">Matutinia</List>
-		<List recon_name="Mimolagus" recon_no="41366">Mimolagus</List>
-		<List recon_name="Mimotona" recon_no="41367">Mimotona</List>
-		<List recon_name="Neoreomys" recon_no="42086">Neoreomys</List>
-		<List recon_name="Notharctus" recon_no="40764">Notharctus</List>
-		<List recon_name="Palaeolagus" recon_no="42184">Palaeolagus</List>
-		<List recon_name="Paradjidaumo" recon_no="41632">Paradjidaumo</List>
-		<List recon_name="Paramys" recon_no="41408">Paramys</List>
-		<List recon_name="Paraphiomys" recon_no="42019">Paraphiomys</List>
-		<List recon_name="Phenacodus" recon_no="42288">Phenacodus</List>
-		<List recon_name="Plesiadapis" recon_no="40738">Plesiadapis</List>
-		<List recon_name="Prolagus" recon_no="53930">Prolagus</List>
+		<List recon_name="Leptictis_acutidens,Leptictis_bullatus,Leptictis_dakotensis,Leptictis_douglassi,Leptictis_haydeni,Leptictis_montanus,Leptictis_thomsoni,Leptictis_wilsoni" recon_no="47556;144951;47557;47558;47559;47560;47561;47562">Leptictis</List>
+		<List recon_name="Rhombomylus_nitidulus" recon_no="247218">Matutinia</List>
+		<List recon_name="Mimolagus_rodens" recon_no="332228">Mimolagus</List>
+		<List recon_name="Mimotona_lii,Mimotona_robusta,Mimotona_wana" recon_no="247216;246062;246061">Mimotona</List>
+		<List recon_name="Neoreomys_australis,Neoreomys_(Pseudoneoreomys)_pachyrhynchus" recon_no="243566;313104">Neoreomys</List>
+		<List recon_name="Notharctus_robinsoni,Notharctus_robustior,Notharctus_tenebrosus,Notharctus_venticolus" recon_no="49198;49199;49200;49204">Notharctus</List>
+		<List recon_name="Palaeolagus_burkei,Palaeolagus_haydeni,Palaeolagus_hemirhizis,Palaeolagus_hypsodus,Palaeolagus_intermedius,Palaeolagus_philoi,Palaeolagus_temnodon" recon_no="49655;49656;49657;49658;49659;49661;49664">Palaeolagus</List>
+		<List recon_name="Paradjidaumo_alberti,Paradjidaumo_hansonorum,Paradjidaumo_spokanensis,Paradjidaumo_trilophus" recon_no="49811;49812;49817;49818">Paradjidaumo</List>
+		<List recon_name="Paramys_compressidens,Paramys_copei,Paramys_delicatus,Paramys_francesi,Paramys_huerfanensis,Paramys_taurus,Paramys_wortmani" recon_no="49889;49890;49893;49895;49898;49918;49922">Paramys</List>
+		<List recon_name="Paraphiomys_orangeus,Paraphiomys_pigotti" recon_no="348838;351997">Paraphiomys</List>
+		<List recon_name="Phenacodus_bisonensis,Phenacodus_grangeri,Phenacodus_intermedius,Phenacodus_magnus,Phenacodus_matthewi,Phenacodus_primaevus,Phenacodus_trilobatus,Phenacodus_vortmani" recon_no="50302;50307;50309;50312;50313;308215;50320;50321">Phenacodus</List>
+		<List recon_name="Plesiadapis_tricuspidens,Nannodectes_gidleyi,Plesiadapis_anceps,Plesiadapis_churchilli,Plesiadapis_cookei,Plesiadapis_dubius,Plesiadapis_fodinatus,Plesiadapis_praecursor,Plesiadapis_remensis,Plesiadapis_rex,Plesiadapis_russelli,Plesiadapis_walbeckensis" recon_no="50444;48973;50429;50430;50431;50432;50434;50440;144257;50441;144259;144256">Plesiadapis</List>
+		<List recon_name="Prolagus_sardus" recon_no="94473">Prolagus</List>
 		<List recon_name="Pseudictops_lophiodon" recon_no="247230">Pseudictops</List>
-		<List recon_name="Reithroparamys" recon_no="41484">Reithroparamys</List>
-		<List recon_name="Rhombomylus" recon_no="41362">Rhombomylus</List>
-		<List recon_name="Sciuravus" recon_no="41421">Sciuravus</List>
+		<List recon_name="Reithroparamys_debequensis,Reithroparamys_delicatissimus,Reithroparamys_huerfanensis" recon_no="51327;51328;51330">Reithroparamys</List>
+		<List recon_name="Rhombomylus_laianensis,Rhombomylus_turpanensis" recon_no="345749;333090">Rhombomylus</List>
+		<List recon_name="Sciuravus_nitidus" recon_no="51463">Sciuravus</List>
 		<List recon_name="Sinomylus_zhaii" recon_no="246063">Sinomylus</List>
-		<List recon_name="Tataromys" recon_no="41953">Tataromys</List>
-		<List recon_name="Tribosphenomys" recon_no="91624">Tribosphenomys</List>
-		<List recon_name="Tsaganomys" recon_no="42007">Tsaganomys</List>
+		<List recon_name="Tataromys_minor,Tataromys_plicidens,Tataromys_sigmodon" recon_no="334360;333042;115795">Tataromys</List>
+		<List recon_name="Tribosphenomys_minutus,Tribosphenomys_secundus" recon_no="91626;91627">Tribosphenomys</List>
+		<List recon_name="Tsaganomys_altaicus,Tsaganomys_minutus" recon_no="98677;333349">Tsaganomys</List>
 		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium</List>
-		<List recon_name="Zalambdalestes" recon_no="40217">Zalambdalestes</List>
+		<List recon_name="Zalambdalestes_grangeri,Zalambdalestes_lechei" recon_no="57350;70459">Zalambdalestes</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

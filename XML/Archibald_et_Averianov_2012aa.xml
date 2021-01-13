@@ -2,8 +2,8 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> Archibald, D. J. </List>
-			<List> Averianov, A. </List>
+			<List>Archibald, D. J.</List>
+			<List>Averianov, A.</List>
 		</Author>
 		<Year>2012</Year>
 		<Title>Phylogenetic analysis, taxonomic revision, and dental ontogeny of the Cretaceous Zhelestidae (Mammalia: Eutheria)</Title>
@@ -17,13 +17,13 @@
 	</Source>
 	<Taxa number="34">
 		<List recon_name="Peramus_tenuirostris,Peramus_dubius,Peramus_minor" recon_no="206735;241959;207615">Peramus</List>
-		<List recon_name="Kielantherium_gobiensis" recon_no="113800">Kielantherium_gobiensis</List>
+		<List recon_name="Kielantherium_gobiensis" recon_no="113800">Kielantherium</List>
 		<List recon_name="Eomaia_scansoria" recon_no="67563">Eomaia</List>
 		<List recon_name="Prokennalestes_trofimovi,Prokennalestes_kozlovi,Prokennalestes_minor,Prokennalestes_trofimovi" recon_no="137755;185141;185139;137755">Prokennalestes</List>
-		<List recon_name="Murtoilestes_abramovi" recon_no="213234">Murtoilestes_abramovi</List>
-		<List recon_name="Bobolestes_zenge" recon_no="137733">Bobolestes_zenge</List>
+		<List recon_name="Murtoilestes_abramovi" recon_no="213234">Murtoilestes</List>
+		<List recon_name="Bobolestes_zenge" recon_no="137733">Bobolestes</List>
 		<List recon_name="Paranyctoides_aralensis,Paranyctoides_maleficus,Paranyctoides_sternbergi" recon_no="137963;49927;49929">Paranyctoides</List>
-		<List recon_name="Eozhelestes_mangit" recon_no="137738">Eozhelestes_mangit</List>
+		<List recon_name="Eozhelestes_mangit" recon_no="137738">Eozhelestes</List>
 		<List recon_name="Sheikhdzheilia_rezvyii" recon_no="137736">Sheikhdzheilia</List>
 		<List recon_name="Avitotherium_utahensis" recon_no="44395">Avitotherium</List>
 		<List recon_name="Lainodon_orueetxebarriai" recon_no="53173">Lainodon</List>
@@ -33,22 +33,22 @@
 		<List recon_name="Parazhelestes_robustus" recon_no="213245">Parazhelestes_robustus</List>
 		<List recon_name="Aspanlestes_aptap" recon_no="137972">Aspanlestes</List>
 		<List recon_name="Zhelestes_temirkazyk" recon_no="203027">Zhelestes</List>
-		<List recon_name="Eoungulatum_kudukensis" recon_no="213248">Eoungulatum_kudukensis</List>
-		<List recon_name="Cimolestes_incisus,Cimolestes_stirtoni,Ambilestes_cerberoides" recon_no="45115;45120;331295">Cimolestes_spp</List>
-		<List recon_name="Maelestes_gobiensis" recon_no="143918">Maelestes_gobiensis</List>
+		<List recon_name="Eoungulatum_kudukensis" recon_no="213248">Eoungulatum</List>
+		<List recon_name="Cimolestes_incisus,Cimolestes_stirtoni,Ambilestes_cerberoides" recon_no="45115;45120;331295">Cimolestes</List>
+		<List recon_name="Maelestes_gobiensis" recon_no="143918">Maelestes</List>
 		<List recon_name="Batodon_tenuis" recon_no="44482">Batodon</List>
-		<List recon_name="Bulaklestes_kezbe" recon_no="81053">Bulaklestes_kezbe</List>
+		<List recon_name="Bulaklestes_kezbe" recon_no="81053">Bulaklestes</List>
 		<List recon_name="Daulestes_inobservabilis,Daulestes_kulbeckensis" recon_no="81048;81045">Daulestes</List>
-		<List recon_name="Uchkudukodon_nessovi" recon_no="81051">Uchkudukodon_nessovi</List>
-		<List recon_name="Kennalestes_gobiensis" recon_no="57349">Kennalestes_gobiensis</List>
+		<List recon_name="Uchkudukodon_nessovi" recon_no="81051">Uchkudukodon</List>
+		<List recon_name="Kennalestes_gobiensis" recon_no="57349">Kennalestes</List>
 		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
 		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium</List>
 		<List recon_name="Deccanolestes_hislopi,Deccanolestes_narmadensis,Deccanolestes_robustus" recon_no="137961;202470;137962">Deccanolestes</List>
-		<List recon_name="Kulbeckia_kulbecke" recon_no="137977">Kulbeckia_kulbecke</List>
-		<List recon_name="Zhangolestes_jilinensis" recon_no="102838">Zhangolestes_jilinensis</List>
+		<List recon_name="Kulbeckia_kulbecke" recon_no="137977">Kulbeckia</List>
+		<List recon_name="Zhangolestes_jilinensis" recon_no="102838">Zhanglolestes</List>
 		<List recon_name="Alymlestes_kielanae" recon_no="137750">Alymlestes</List>
-		<List recon_name="Zalambdalestes_lechei" recon_no="70459">Zalambdalestes_lechei</List>
-		<List recon_name="Barunlestes_butleri" recon_no="57289">Barunlestes_butleri</List>
+		<List recon_name="Zalambdalestes_lechei" recon_no="70459">Zalambdalestes</List>
+		<List recon_name="Barunlestes_butleri" recon_no="57289">Barunlestes</List>
 		<List recon_name="Gypsonictops_hypoconus,Gypsonictops_illuminatus,Gypsonictops_lewisi" recon_no="46754;46755;46756">Gypsonictops</List>
 	</Taxa>
 	<Characters>
@@ -64,6 +64,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Archibald_et_Averianov_2012aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

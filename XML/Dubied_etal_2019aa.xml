@@ -2,13 +2,15 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Dubied, M. </List>
+			<List> Solé, F. </List>
+			<List> Mennecart, B. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2019</Year>
+		<Title>The cranium of Proviverra typica (Mammalia, Hyaenodonta) and its impact on hyaenodont phylogeny and endocranial evolution</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>62(6)</Volume>
+		<Pages>983-1001</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -42,10 +44,10 @@
 		<List recon_name="Galecyon_mordax" recon_no="46576">Galecyon_mordax</List>
 		<List recon_name="Galecyon_morloi" recon_no="331780">Galecyon_morloi</List>
 		<List recon_name="Galecyon_peregrinus" recon_no="347514">Galecyon_peregrinus</List>
-		<List recon_name="Gazinocyon_whiteae" recon_no="-1">Gazinocyon_whiteae</List>
+		<List recon_name="DELETE" recon_no="-1">Gazinocyon_whiteae</List>
 		<List recon_name="Glibzegdouia_tabelbalaensis" recon_no="343241">Glibzegdouia</List>
 		<List recon_name="Hemipsalodon_grandis" recon_no="40916">Hemipsalodon</List>
-		<List recon_name="PIN_3110-5785;PIN_3110-578a;PIN_3109-83" recon_no="40917;40917;40917">Hyaenodon_ErgiliynDzo</List>
+		<List recon_name="Hyaenodon" recon_no="40917">Hyaenodon_ErgiliynDzo</List>
 		<List recon_name="Hyaenodon_minor" recon_no="424630">Hyaenodon_minor</List>
 		<List recon_name="Hyaenodon_exiguus" recon_no="47126">Hyaenodon_exiguus</List>
 		<List recon_name="Hyaenodon_neimongoliensis" recon_no="333347">Hyaenodon_neimongoliensis</List>
@@ -83,7 +85,7 @@
 		<List recon_name="Prototomus_phobos" recon_no="51110">Prototomus_phobos</List>
 		<List recon_name="Pterodon_africanus" recon_no="86255">Pterodon_africanus</List>
 		<List recon_name="Pterodon_phiomensis" recon_no="334750">Pterodon_phiomensis</List>
-		<List recon_name="Pyrocyon_strenuus" recon_no="-1">Pyrocyon_strenuus</List>
+		<List recon_name="Pyrocyon_strenuus" recon_no="424632">Pyrocyon_strenuus</List>
 		<List recon_name="Quasiapterodon_minutus" recon_no="98854">Quasiapterodon</List>
 		<List recon_name="Quercytherium_simplicidens" recon_no="424611">Quercytherium_simplicidens</List>
 		<List recon_name="Quercytherium_tenebrosum" recon_no="424612">Quercytherium_tenebrosum</List>
@@ -102,6 +104,7 @@
 		<List recon_name="Pakakali_rukwaensis" recon_no="362049">Pakakali</List>
 		<List recon_name="Thereutherium_thylacodes" recon_no="327746">Thereutherium</List>
 		<List recon_name="Matthodon_menui" recon_no="347669">Matthodon_menui</List>
+		<List recon_name="Paracynohyaenodon_magnus,Paracynohyaenodon_schlosseri" recon_no="425143;347887">Paracynohyaenodon_spp</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

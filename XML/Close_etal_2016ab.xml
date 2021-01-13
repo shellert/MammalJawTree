@@ -2,13 +2,18 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Close, R. A. </List>
+			<List> Davis, B. M. </List>
+			<List> Walsh, S. </List>
+			<List> Wolniewicz, A. S. </List>
+			<List> Friedman, M. </List>
+			<List> Benson, R. B. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2016</Year>
+		<Title>A lower jaw of Palaeoxonodon from the Middle Jurassic of the Isle of Skye, Scotland, sheds new light on the diversity of British stem therians</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>59(1)</Volume>
+		<Pages>155-169</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -18,7 +23,7 @@
 		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus</List>
 		<List recon_name="DELETE" recon_no="39208">Tritylodontids</List>
 		<List recon_name="DELETE" recon_no="-1">Tritheledontids</List>
-		<List recon_name="Adelobasileus_cromptoni" recon_no="53176">Adelobasileus</List>
+		<List recon_name="Adelobasileus_cromptoni" recon_no="53176">Adelobasileous</List>
 		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">Sinoconodon</List>
 		<List recon_name="Morganucodon_oehleri,Morganucodon_watsoni" recon_no="203398;203396">Morganucodon</List>
 		<List recon_name="Megazostrodon_rudnerae" recon_no="178199">Megazostrodon</List>
@@ -32,10 +37,10 @@
 		<List recon_name="Henosferus_molus" recon_no="185170">Henosferus</List>
 		<List recon_name="Asfaltomylos_patagonicus" recon_no="208897">Asfaltomylos</List>
 		<List recon_name="Bishops_whitmorei" recon_no="100743">Bishops</List>
-		<List recon_name="Steropodon_galmani" recon_no="166544">Steropodon</List>
+		<List recon_name="Steropodon_galmani" recon_no="166544">Stereopodon</List>
 		<List recon_name="Teinolophos_trusleri" recon_no="137612">Teinolophos</List>
 		<List recon_name="Obdurodon_dicksoni,Obdurodon_insignis,Obdurodon_tharalkooschild" recon_no="166585;166545;285190">Obdurodon</List>
-		<List recon_name="Ornithorhynchus_anatinus" recon_no="166835">Ornithorhynchus</List>
+		<List recon_name="Ornithorhynchus_anatinus" recon_no="166835">Ornithorynchus</List>
 		<List recon_name="Gobiconodon_hopsoni,Gobiconodon_zofiae,Gobiconodon_borissiaki,Gobiconodon_ostromi" recon_no="204184;197841;140283;46675">Gobiconodon</List>
 		<List recon_name="Amphilestes_broderipii" recon_no="203412">Amphilestes</List>
 		<List recon_name="Jeholodens_jenkinsi" recon_no="197843">Jeholodens</List>
@@ -45,13 +50,13 @@
 		<List recon_name="Peramus_tenuirostris,Peramus_dubius,Peramus_minor" recon_no="206735;241959;207615">Peramus</List>
 		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes</List>
 		<List recon_name="Kielantherium_gobiensis" recon_no="113800">Kielantherium</List>
-		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium_pretirtuberculare</List>
+		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium</List>
 		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium</List>
 		<List recon_name="Kokopellia_juddi" recon_no="47450">Kokopellia</List>
 		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
 		<List recon_name="Didelphis_virginiana" recon_no="45705">Didelphis</List>
 		<List recon_name="Pappotherium_pattersoni" recon_no="49766">Pappotherium</List>
-		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus_europaeus</List>
+		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceous</List>
 		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
 		<List recon_name="Prokennalestes_minor,Prokennalestes_trofimovi" recon_no="185139;137755">Prokennalestes</List>
 		<List recon_name="Montanalestes" recon_no="39911">Montanalestes</List>
@@ -61,7 +66,7 @@
 		<List recon_name="Henkelotherium_guimarotae" recon_no="212375">Henkelotherium</List>
 		<List recon_name="Dryolestes_leirensis,Dryolestes_priscus,Dryolestes_vorax" recon_no="212351;57720;57721">Dryolestes</List>
 		<List recon_name="Laolestes_eminens,Laolestes_goodrichi,Laolestes_hodsoni,Laolestes_oweni" recon_no="57719;212360;212361;212362">Laolestes</List>
-		<List recon_name="Amblotherium_gracilis,Amblotherium_nanum,Amblotherium_pusillum,Amblotherium_soricinum " recon_no="57734;206740;206741;NA">Amblotherium</List>
+		<List recon_name="Amblotherium_gracilis,Amblotherium_nanum,Amblotherium_pusillum,Amblotherium_soricinum" recon_no="57734;206740;206741;57717">Amblotherium</List>
 		<List recon_name="Comotherium_richi" recon_no="57708">Comotherium</List>
 		<List recon_name="Mesungulatum_houssayi,Mesungulatum_lamarquensis" recon_no="67612;140932">Mesungulatum</List>
 		<List recon_name="Coloniatherium_cilinskii" recon_no="206767">Coloniatherium</List>
@@ -87,6 +92,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Close_etal_2016ab</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Rougier_etal_2011aa</Parent>
 	<Sibling/>
 </SourceTree>

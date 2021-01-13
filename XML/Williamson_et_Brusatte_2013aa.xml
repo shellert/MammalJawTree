@@ -2,13 +2,14 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Williamson, T. E. </List>
+			<List> Brusatte, S. L. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2013</Year>
+		<Title>New specimens of the rare taeniodont Wortmania (Mammalia: Eutheria) from the San Juan Basin of New Mexico and comments on the phylogeny and functional morphology of “archaic” mammals</Title>
+		<Journal>PloS one</Journal>
+		<Volume>8(9)</Volume>
+		<Pages>e75886</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -42,6 +43,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Williamson_et_Brusatte_2013aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Rook_et_Hunter_2011aa</Parent>
 	<Sibling/>
 </SourceTree>

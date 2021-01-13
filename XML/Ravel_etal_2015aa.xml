@@ -2,13 +2,23 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Ravel, A. </List>
+			<List> Adaci, M. </List>
+			<List> Bensalah, M. </List>
+			<List> Mahboubi, M. </List>
+			<List> Mebrouk, F. </List>
+			<List> Essid, E.M. </List>
+			<List> Marzougui, W. </List>
+			<List> Ammar, H.K. </List>
+			<List> Charruault, A.L. </List>
+			<List> Lebrun, R. </List>
+			<List> Tabuce, R. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2015</Year>
+		<Title>New philisids (Mammalia, Chiroptera) from the Early–Middle Eocene of Algeria and Tunisia: new insight into the phylogeny, palaeobiogeography and palaeoecology of the Philisidae</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>13(8)</Volume>
+		<Pages>691-709</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -23,10 +33,15 @@
 		<List recon_name="Witwatia_schlosseri" recon_no="136266">Witwatia_schlosseri</List>
 		<List recon_name="Witwatia_eremicus" recon_no="136267">Witwatia_eremicus</List>
 		<List recon_name="Philisis_sphingis" recon_no="136264">Philisis_sphingis</List>
-		<List recon_name="DELETE" recon_no="-1">Philisis_sevketi</List>
-		<List recon_name="DELETE" recon_no="-1">Scotophilisis_lybicus</List>
-		<List recon_name="DELETE" recon_no="-1">Scotophilus_viridis</List>
+		<List recon_name="Philisis_sevketi" recon_no="425124">Philisis_sevketi</List>
+		<List recon_name="Scotophilisis_libycus" recon_no="425235">Scotophilisis_lybicus</List>
+		<List recon_name="Scotophilus_viridis" recon_no="425207">Scotophilus_viridis</List>
 		<List recon_name="Myotis_myotis" recon_no="94474">Myotis_myotis</List>
+		<List recon_name="DELETE" recon_no="-1">Myotis_capaccinii</List>
+		<List recon_name="DELETE" recon_no="-1">Pipistrellus_kuhli</List>
+		<List recon_name="DELETE" recon_no="-1">Tadarida_aegyptiaca</List>
+		<List recon_name="DELETE" recon_no="-1">Molossus_molossus</List>
+		<List recon_name="DELETE" recon_no="-1">Natalus_tumidirostris</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>
@@ -41,6 +56,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Ravel_etal_2015aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent/>
 	<Sibling/>
 </SourceTree>

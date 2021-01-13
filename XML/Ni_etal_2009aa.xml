@@ -2,13 +2,18 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Ni, X. </List>
+			<List> Meng, J. </List>
+			<List> Beard, K. C. </List>
+			<List> Gebo, D. L. </List>
+			<List> Wang, Y. </List>
+			<List> Li, C. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2010</Year>
+		<Title>A new tarkadectine primate from the Eocene of Inner Mongolia, China: phylogenetic and biogeographic implications</Title>
+		<Journal>Proceedings of the Royal Society B: Biological Sciences</Journal>
+		<Volume>277(1679)</Volume>
+		<Pages>247-256</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -36,7 +41,7 @@
 		<List recon_name="Planetetherium_mirabile" recon_no="50393">Planetetherium_mirabile</List>
 		<List recon_name="Plesiolestes_problematicus" recon_no="50457">Plesiolestes_problematicus</List>
 		<List recon_name="Pronothodectes_matthewi" recon_no="50864">Pronothodectes_matthewi</List>
-		<List recon_name="Purgatorius_janisae,Purgatorius_unio" recon_no="51268;51270">Purgatorius</List>
+		<List recon_name="Purgatorius_janisae,Purgatorius_unio" recon_no="51268;51270">Purgatorius_spp</List>
 		<List recon_name="Worlandia_inusitata" recon_no="52706">Worlandia_inusitata</List>
 		<List recon_name="Absarokius_abbotti" recon_no="43687">Absarokius_abbotti</List>
 		<List recon_name="Absarokius_noctivagus" recon_no="43693">Absarokius_noctivagus</List>
@@ -88,6 +93,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Ni_etal_2009aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Ni_etal_2004aa</Parent>
 	<Sibling/>
 </SourceTree>

@@ -2,13 +2,17 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Remy, J. A. </List>
+			<List> Krasovec, G.</List>
+			<List> Lopez, É. </List>
+			<List> Marandat, B. </List>
+			<List> Lihoreau, F. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2019</Year>
+		<Title>The Palaeotheriidae (Equoidea, Perissodactyla, Mammalia) from the Eocene fauna of Aumelas (Hérault department, France)</Title>
+		<Journal>Geodiversitas</Journal>
+		<Volume>41(1)</Volume>
+		<Pages>525-585</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -16,13 +20,13 @@
 	</Source>
 	<Taxa number="25">
 		<List recon_name="Cardiolophus_radinskyi" recon_no="44924">Cardiolophus_radinskyi</List>
-		<List recon_name="DELETE" recon_no="-1">Hallensia_matthesi</List>
+		<List recon_name="Hallensia_matthesi" recon_no="425133">Hallensia_matthesi</List>
 		<List recon_name="Pliolophus_vulpiceps" recon_no="307872">Pliolophus_vulpiceps</List>
 		<List recon_name="Hyracotherium_leporinum" recon_no="307875">Hyracotherium_leporinum</List>
-		<List recon_name="DELETE" recon_no="-1">Propalaeotherium_gaudryi</List>
+		<List recon_name="Propalaeotherium_gaudryi" recon_no="426072">Propalaeotherium_gaudryi</List>
 		<List recon_name="DELETE" recon_no="-1">Orolophus_maldani</List>
-		<List recon_name="DELETE" recon_no="-1">Hyracotherium_levei_H_in_quotes</List>
-		<List recon_name="DELETE" recon_no="-1">Hyracotherium_remyi_H_in_quotes</List>
+		<List recon_name="DELETE" recon_no="-1">Hyracotherium_levei</List>
+		<List recon_name="DELETE" recon_no="-1">Hyracotherium_remyi</List>
 		<List recon_name="Pachynolophus_duvali" recon_no="347906">Pachynolophus_duvali</List>
 		<List recon_name="Pachynolophus_cesserasicus" recon_no="347907">Pachynolophus_cesserasicus</List>
 		<List recon_name="Pachynolophus_eulaliensis" recon_no="347905">Pachynolophus_eulaliensis</List>
@@ -35,10 +39,10 @@
 		<List recon_name="Lophiotherium_cervulum" recon_no="109634">Lophiotherium_cervulum</List>
 		<List recon_name="Palaeotherium_magnum" recon_no="374360">Palaeotherium_magnum</List>
 		<List recon_name="Plagiolophus_minor" recon_no="348700">Plagiolophus_minor</List>
-		<List recon_name="DELETE" recon_no="-1">Leptolophus_nouleti</List>
+		<List recon_name="Leptolophus_nouleti" recon_no="425134">Leptolophus_nouleti</List>
 		<List recon_name="Pachynolophus_ruscassierensis" recon_no="392997">Pachynolophus_ruscassierensis</List>
-		<List recon_name="DELETE" recon_no="-1">Pachynolophus_sp_AUM</List>
-		<List recon_name="DELETE" recon_no="-1">Propalaeotherium_cf_gaudryi</List>
+		<List recon_name="DELETE" recon_no="-1">Pachynolophus</List>
+		<List recon_name="Propalaeotherium_gaudryi" recon_no="426072">Propalaeotherium_cf_gaudryi</List>
 		<List recon_name="Lophiotherium" recon_no="43007">Lophiotherium</List>
 	</Taxa>
 	<Characters>
@@ -54,6 +58,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Remy_etal_2019aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Remy_2017aa</Parent>
 	<Sibling/>
 </SourceTree>

@@ -19,7 +19,7 @@
 	<Taxa number="34">
 		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium</List>
 		<List recon_name="Leptictis_dakotensis,Prodiacodon_concordiarcensis" recon_no="47557;50745">Leptictidae</List>
-		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus_europaeus</List>
+		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus</List>
 		<List recon_name="Echinosorex_gymnura" recon_no="385327">Echinosorex</List>
 		<List recon_name="Hemiechinus_auritus" recon_no="385511">Hemiechinus</List>
 		<List recon_name="Ottoryctes_winkleri" recon_no="385512">Ottoryctes</List>
@@ -64,7 +64,7 @@
 		<Type>Maximum Parsimony</Type>
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
-	<Filename>Bloch_etal_2016a</Filename>
-	<Parent>Silcox_etal_2010a</Parent>
+	<Filename>Bloch_etal_2016aa</Filename>
+	<Parent>Silcox_etal_2010aa</Parent>
 	<Sibling/>
 </SourceTree>

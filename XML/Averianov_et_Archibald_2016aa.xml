@@ -63,7 +63,7 @@
 		<List recon_name="Purgatorius_janisae,Purgatorius_unio" recon_no="51268;51270">Purgatorius_spp</List>
 		<List recon_name="Protungulatum_donnae,Protungulatum_gorgun,Protungulatum_mckeeveri" recon_no="51116;51117;51118">Protungulatum_spp</List>
 		<List recon_name="Oxyprimus_erikseni" recon_no="49568">Oxyprimus_erikseni</List>
-		<List recon_name="Vulpavus_(Phlaodectes)_ovatus,Vulpavus_profectus,Vulpavus_canavus" recon_no="381678;52682;52675">Vulpavus</List>
+		<List recon_name="Vulpavus_(Phlaodectes)_ovatus,Vulpavus_profectus,Vulpavus_canavus" recon_no="381678;52682;52675">Vulpavus_spp</List>
 		<List recon_name="Miacis_parvivorus,Harpalodon_sylvestris" recon_no="48492;46809">Miacis_spp</List>
 		<List recon_name="Gujaratia_pakistanensis" recon_no="68276">Gujaratia_pakistanensis</List>
 		<List recon_name="Hyopsodus_fangxianensis,Hyopsodus_fastigatus,Hyopsodus_huashigouensis,Hyopsodus_itinerans,Hyopsodus_latidens" recon_no="333098;47165;336036;149489;47169">Hyopsodus_spp</List>
@@ -84,11 +84,11 @@
 		<List recon_name="Eoryctes_melanus" recon_no="46177">Eoryctes_melanus</List>
 		<List recon_name="Potamogale_velox" recon_no="231780">Potamogale_velox</List>
 		<List recon_name="Orycteropus_afer" recon_no="119862">Orycteropus_afer</List>
-		<List recon_name="Rhynchocyon_cirnei,Rhynchocyon_petersi" recon_no="425136;425135">Rhynchocyon_spp</List>
+		<List recon_name="Rhynchocyon_cirnei,Rhynchocyon_petersi" recon_no="425136;425135">Rhynchocyon_spp</List>	
 		<List recon_name="Procavia_capensis" recon_no="143657">Procavia_capensis</List>
 		<List recon_name="Moeritherium_trigodon" recon_no="157869">Moeritherium_trigodon</List>
 		<List recon_name="Chaetophractus_villosus" recon_no="83806">Chaetophractus_villosus</List>
-		<List recon_name="DELETE" recon_no="-1">Bradypus_variegatus</List>
+		<List recon_name="Bradypus_variegatus" recon_no="426010">Bradypus_variegatus</List>
 		<List recon_name="Tamandua_tetradactyla" recon_no="233569">Tamandua_spp</List>
 		<List recon_name="Dilambdogale_gheerbranti" recon_no="344262">Dilambdogale_gheerbranti</List>
 		<List recon_name="Widanelfarasia_bowni" recon_no="97119">Widanelfarasia_bowni</List>
@@ -120,6 +120,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Averianov_et_Archibald_2016aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Manz_etal_2015aa</Parent>
 	<Sibling/>
 </SourceTree>

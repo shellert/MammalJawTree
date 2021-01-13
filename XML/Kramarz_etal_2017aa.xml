@@ -2,13 +2,15 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Kramarz, A. G. </List>
+			<List> Bond, M. </List>
+			<List> Rougier, G. W. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2017</Year>
+		<Title>Re-Description of the auditory region of the putative basal Astrapothere (Mammalia) Eoastrapostylops riolorense Soria and Powell, 1981. Systematic and phylogenetic considerations</Title>
+		<Journal>Annals of Carnegie Museum</Journal>
+		<Volume>84(2)</Volume>
+		<Pages>95-165</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
@@ -22,7 +24,7 @@
 		<List recon_name="Eomaia_scansoria" recon_no="67563">Eomaia</List>
 		<List recon_name="Prokennalestes_trofimovi" recon_no="137755">Prokennalestes</List>
 		<List recon_name="Zhelestes_temirkazyk" recon_no="203027">Zhelestes</List>
-		<List recon_name="Cimolestes_incisus,Cimolestes_stirtoni,Ambilestes_cerberoides" recon_no="45115;45120;331295">Cimolestes_spp</List>
+		<List recon_name="Cimolestes_incisus,Cimolestes_stirtoni,Ambilestes_cerberoides" recon_no="45115;45120;331295">Cimolestes</List>
 		<List recon_name="Maelestes_gobiensis" recon_no="143918">Maelestes</List>
 		<List recon_name="Kennalestes_gobiensis" recon_no="57349">Kennalestes</List>
 		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
@@ -54,7 +56,7 @@
 		<List recon_name="Arctocyon_primaevus" recon_no="54258">Arctocyon</List>
 		<List recon_name="Ptilocercus_lowii" recon_no="234229">Ptilocercus</List>
 		<List recon_name="Plesiadapis_tricuspidens" recon_no="50444">Plesiadapis</List>
-		<List recon_name="Notharctus_tenebrosus" recon_no="49200">Northarctus</List>
+		<List recon_name="Notharctus_tenebrosus" recon_no="49200">Notharctus</List>
 		<List recon_name="Adapis_parisiensis,Leptadapis_magnus,Magnadapis_intermedius" recon_no="57922;127247;127245">Adapis</List>
 		<List recon_name="Tribosphenomys_minutus" recon_no="91626">Tribosphenomys</List>
 		<List recon_name="Paramys_copei,Paramys_delicatus,Paramys_taurus" recon_no="49890;49893;49918">Paramys</List>

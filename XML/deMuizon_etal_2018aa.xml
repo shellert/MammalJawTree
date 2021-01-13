@@ -28,9 +28,9 @@
 		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium</List>
 		<List recon_name="Eodelphis_browni" recon_no="46139">Eodelphis</List>
 		<List recon_name="Didelphodon_vorax" recon_no="45711">Didelphodon</List>
-		<List recon_name="Mimoperadectes_houdei,Mimoperadectes_labrus,Peradectes_elegans,Peradectes_chesteri" recon_no="183882;48642;50116;50115">Peradectes</List>
+		<List recon_name="Mimoperadectes_houdei,Mimoperadectes_labrus,Peradectes_elegans,Peradectes_chesteri" recon_no="183882;48642;50116;50115">Mimoperadectes_et_Peradectes</List>
 		<List recon_name="Herpetotherium_fugax" recon_no="339420">Herpetotherium</List>
-		<List recon_name="Amphiperatherium_ambiguum,Amphiperatherium_exile,Amphiperatherium_lamandini,Amphiperatherium_minutum,Peratherium_cuvieri,Peratherium_elegans" recon_no="348687;134143;348688;58757;53864;348592">Peratherium</List>
+		<List recon_name="Amphiperatherium_ambiguum,Amphiperatherium_exile,Amphiperatherium_lamandini,Amphiperatherium_minutum,Peratherium_cuvieri,Peratherium_elegans" recon_no="348687;134143;348688;58757;53864;348592">Amphiperatherium_et_Peratherium</List>
 		<List recon_name="Didelphis_albiventris" recon_no="234384">Didelphis</List>
 		<List recon_name="Metachirus_nudicaudatus" recon_no="238612">Metachirus</List>
 		<List recon_name="Monodelphis_brevicaudata" recon_no="284763">Monodelphis</List>
@@ -70,7 +70,7 @@
 		<Type>Maximum Parsimony</Type>
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
-	<Filename>Muizon_etal_2018a</Filename>
-	<Parent>Forasiepi_etal_inpressa</Parent>
+	<Filename>deMuizon_etal_2018aa</Filename>
+	<Parent>Forasiepi_etal_inpressaa</Parent>
 	<Sibling/>
 </SourceTree>

@@ -38,7 +38,7 @@
 		<List recon_name="Steropodon_galmani" recon_no="166544">Steropodon</List>
 		<List recon_name="Teinolophos_trusleri" recon_no="137612">Teinolophos</List>
 		<List recon_name="Obdurodon_dicksoni,Obdurodon_insignis,Obdurodon_tharalkooschild" recon_no="166585;166545;285190">Obdurodon</List>
-		<List recon_name="Ornithorhynchus_anatinus" recon_no="166835">Ornithorhynchus</List>
+		<List recon_name="Ornithorhynchus_anatinus" recon_no="166835">Ornithorynchus</List>
 		<List recon_name="Gobiconodon_hopsoni,Gobiconodon_zofiae,Gobiconodon_borissiaki,Gobiconodon_ostromi" recon_no="204184;197841;140283;46675">Gobiconodon</List>
 		<List recon_name="Amphilestes_broderipii" recon_no="203412">Amphilestes</List>
 		<List recon_name="Jeholodens_jenkinsi" recon_no="197843">Jeholodens</List>
@@ -48,13 +48,13 @@
 		<List recon_name="Peramus_tenuirostris,Peramus_dubius,Peramus_minor" recon_no="206735;241959;207615">Peramus</List>
 		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes</List>
 		<List recon_name="Kielantherium_gobiensis" recon_no="113800">Kielantherium</List>
-		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium_pretirtuberculare</List>
+		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium</List>
 		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium</List>
 		<List recon_name="Kokopellia_juddi" recon_no="47450">Kokopellia</List>
 		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
 		<List recon_name="Didelphis_virginiana" recon_no="45705">Didelphis</List>
 		<List recon_name="Pappotherium_pattersoni" recon_no="49766">Pappotherium</List>
-		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus_europaeus</List>
+		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus</List>
 		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
 		<List recon_name="Prokennalestes_minor,Prokennalestes_trofimovi" recon_no="185139;137755">Prokennalestes</List>
 		<List recon_name="Anebodon_luoi,Kiyatherium_cardiodens" recon_no="371286;216648">Zhangheotheriids</List>
@@ -89,7 +89,7 @@
 		<Type>Maximum Parsimony</Type>
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
-	<Filename>Rougier_etal_2012a</Filename>
-	<Parent>Rougier_etal_2011a</Parent>
+	<Filename>Rougier_etal_2012aa</Filename>
+	<Parent>Rougier_etal_2011aa</Parent>
 	<Sibling/>
 </SourceTree>

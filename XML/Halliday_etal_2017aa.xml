@@ -6,7 +6,7 @@
 			<List>Upchurch, P.</List>
 			<List>Goswami, A.</List>
 		</Author>
-		<Year>in press</Year>
+		<Year>2017</Year>
 		<Title>Resolving the relationships of Paleocene placental mammals</Title>
 		<Journal>Biological Reviews</Journal>
 		<Volume/>
@@ -18,7 +18,7 @@
 	</Source>
 	<Taxa number="177">
 		<List recon_name="Peramus_dubius,Peramus_minor,Peramus_tenuirostris" recon_no="241959;207615;206735">Peramus</List>
-		<List recon_name="Deltatheridium_nessovi,Deltatheridium_pretrituberculare" recon_no="137745;70456">Deltatheridium</List>
+		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium</List>
 		<List recon_name="Bobolestes_zenge" recon_no="137733">Bobolestes</List>
 		<List recon_name="Paranyctoides_maleficus,Paranyctoides_quadrans,Paranyctoides_sternbergi" recon_no="49927;260766;49929">Paranyctoides</List>
 		<List recon_name="Sheikhdzheilia_rezvyii" recon_no="137736">Sheikhdzheilia</List>
@@ -29,7 +29,7 @@
 		<List recon_name="Parazhelestes_mynbulakensis,Parazhelestes_robustus" recon_no="217348;213245">Parazhelestes</List>
 		<List recon_name="Aspanlestes_aptap" recon_no="137972">Aspanlestes</List>
 		<List recon_name="Zhelestes_temirkazyk" recon_no="203027">Zhelestes</List>
-		<List recon_name="Cimolestes_incisus,Cimolestes_stirtoni,Ambilestes_cerberoides" recon_no="45115;45120;331295">Cimolestes_spp</List>
+		<List recon_name="Cimolestes_incisus,Cimolestes_stirtoni,Ambilestes_cerberoides" recon_no="45115;45120;331295">Cimolestes</List>
 		<List recon_name="Maelestes_gobiensis" recon_no="143918">Maelestes</List>
 		<List recon_name="Batodon_tenuis" recon_no="44482">Batodon</List>
 		<List recon_name="Bulaklestes_kezbe" recon_no="81053">Bulaklestes</List>
@@ -41,7 +41,7 @@
 		<List recon_name="Kulbeckia_kulbecke" recon_no="137977">Kulbeckia</List>
 		<List recon_name="Zhangolestes_jilinensis" recon_no="102838">Zhangolestes</List>
 		<List recon_name="Alymlestes_kielanae" recon_no="137750">Alymlestes</List>
-		<List recon_name="Zalambdalestes_grangeri,Zalambdalestes_lechei" recon_no="57350;70459">Zalambdalestes</List>
+		<List recon_name="Zalambdalestes_lechei" recon_no="70459">Zalambdalestes</List>
 		<List recon_name="Barunlestes_butleri" recon_no="57289">Barunlestes</List>
 		<List recon_name="Gypsonictops_hypoconus,Gypsonictops_illuminatus,Gypsonictops_lewisi" recon_no="46754;46755;46756">Gypsonictops</List>
 		<List recon_name="Leptictis_acutidens,Leptictis_bullatus,Leptictis_dakotensis,Leptictis_douglassi,Leptictis_haydeni,Leptictis_montanus,Leptictis_thomsoni,Leptictis_wilsoni" recon_no="47556;144951;47557;47558;47559;47560;47561;47562">Leptictis</List>
@@ -68,7 +68,7 @@
 		<List recon_name="Rhynchocyon_cirnei,Rhynchocyon_petersi" recon_no="425136;425135">Rhynchocyon</List>
 		<List recon_name="Procavia_capensis" recon_no="143657">Procavia</List>
 		<List recon_name="Chaetophractus_vellerosus,Chaetophractus_villosus" recon_no="233289;83806">Chaetophractus</List>
-		<List recon_name="Bradypus_griseus,Bradypus_tridactylus" recon_no="235352;104148">Bradypus</List>
+		<List recon_name="Bradypus_griseus,Bradypus_tridactylus,Bradypus_variegatus" recon_no="235352;104148;426010">Bradypus</List>
 		<List recon_name="Tamandua_tetradactyla" recon_no="233569">Tamandua</List>
 		<List recon_name="Puercolestes_simpsoni" recon_no="51263">Puercolestes</List>
 		<List recon_name="Chacopterygus_minutus" recon_no="182916">Chacopterygus</List>
@@ -207,7 +207,7 @@
 		<Type>Maximum Parsimony</Type>
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
-	<Filename>Halliday_etal_inpressba</Filename>
+	<Filename>Halliday_etal_2017aa</Filename>
 	<Parent/>
-	<Sibling>Halliday_etal_inpressbb</Sibling>
+	<Sibling/>
 </SourceTree>
