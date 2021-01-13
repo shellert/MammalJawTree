@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=13 NCHAR=11 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Cimolestes              00000000000
+Procerberus_formicarum  11000000000
+Procerberus_grandis     11000000000
+Aveugena                10100000000
+Schowalteria            10110000000
+Onychodectes            10111000000
+Conoryctella            10111110000
+Conoryctes              10111111000
+Huerfanodon             10111111000
+Wortmania               10111100100
+Psittacotherium         10111100110
+Ectoganus               10111100111
+Stylinodon              10111100111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

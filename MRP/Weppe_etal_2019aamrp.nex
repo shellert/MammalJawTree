@@ -1,0 +1,37 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=23 NCHAR=21 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Dichobune_leporina         000000000000000000000
+Eurodexis_russelli         100000000000000000000
+Paroxacron_valdense        111111111000000000000
+Paroxacron_bergeri         111111110000000000000
+Oxacron_courtoisii         111111111000000000000
+Plesiomeryx_huerzeleri     111111100111000000000
+Plesiomeryx_cadurcensis    111111100111000000000
+Caenomeryx_procommunis     111111100110100000000
+Caenomeryx_filholi         111111100110100000000
+Cainotherium_laticurvatum  111111100100000000000
+Robiacina_minuta           111111000000011000000
+Robiacina_quercyi          111111000000011000000
+Robiacina_lavergnensis     111111000000010000000
+Dacrytherium_ovinum        111110000000000100000
+Anoplotherium_latipes      111110000000000100000
+Mixtotherium_cuspidatum    111100000000000000000
+Parvitragulus_priscus      111000000000000010000
+Lophiomeryx_chalaniati     111000000000000011000
+Archaeomeryx_optatus       111000000000000011000
+Amphimeryx_murinus         110000000000000000100
+Xiphodon_castrense         110000000000000000110
+Paratoceras_coatesi        110000000000000000111
+Eotylopus_reedi            110000000000000000111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

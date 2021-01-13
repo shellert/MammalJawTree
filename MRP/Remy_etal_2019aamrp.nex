@@ -1,0 +1,39 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=25 NCHAR=29 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Cardiolophus_radinskyi         00000000000000000000000000000
+Hallensia_matthesi             10000000000000000000000000000
+Pliolophus_vulpiceps           11000000000000000000000000000
+Hyracotherium_leporinum        11100000000000000000000000000
+Propalaeotherium_gaudryi       11111111111100000000000000000
+Orolophus_maldani              11111100000000000000000000000
+Hyracotherium_levei            11110000000000000000000000000
+Hyracotherium_remyi            11111000000000000000000000000
+Pachynolophus_duvali           11111110000011000000000000000
+Pachynolophus_cesserasicus     11111110000010111000000000000
+Pachynolophus_eulaliensis      11111110000010110100000000000
+Pachynolophus_livinierensis    11111110000010111000000000000
+Eurohippus_parvulus            11111111000000000011100000000
+Propalaeotherium_hassiacum     11111111000000000011000000000
+Propalaeotherium_isselanum     11111111111000000000011000000
+Propalaeotherium_sudrei        11111111110000000010010000000
+Lophiotherium_pygmaeum         11111111000000000011100111000
+Lophiotherium_cervulum         11111111000000000011100110100
+Palaeotherium_magnum           11111111111000000000011000011
+Plagiolophus_minor             11111111111000000000011000011
+Leptolophus_nouleti            11111111111000000000011000010
+Pachynolophus_ruscassierensis  11111110000010100100000000000
+Pachynolophus                  11111110000011000000000000000
+Propalaeotherium_cf_gaudryi    11111111101100000000000000000
+Lophiotherium                  11111111000000000011100101100
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

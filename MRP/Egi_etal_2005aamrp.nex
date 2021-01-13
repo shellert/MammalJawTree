@@ -1,0 +1,29 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=15 NCHAR=13 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Procerberus_and_Cimolestes  0000000000000
+Proviverra_and_Lesmesodon   1000000000000
+Allopterodon                1110000000000
+Leonhardtina                1110000000000
+Eurotherium                 1101100000000
+Prodissopsalis              1101100000000
+Cynohyaenodon               1101011000000
+Paracynohyaenodon           1101011000000
+Brychotherium               1101010100000
+Metasinopa                  1101010110000
+Dissopsalis                 1101010111100
+Anasinopa                   1101010111100
+Paratritemnodon             1101010111010
+Masrasector                 1101010111011
+Kyawdawia                   1101010111011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

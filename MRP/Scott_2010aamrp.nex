@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=11 NCHAR=9 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Asioryctes       000000000
+Presbytherium    111110000
+Pantolambda      111110000
+Alcidedorbiznya  111100000
+Bemalambda       111000000
+Dermotherium     110001100
+Galeopterus      110001100
+Elpidophorus     110001011
+Eudaemonema      110001011
+Plagiamene       110001010
+Cimolestes       100000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

@@ -1,0 +1,31 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=17 NCHAR=15 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Icaronycteris_menui          000000000000000
+Archaeonycteris_brailloni    100000000000000
+Palaeochiropteryx_tupaiodon  110000000000000
+Dizzya_exsultans             111100000000000
+Witwatia_sigei               111111100000000
+Witwatia_schlosseri          111111110000000
+Witwatia_eremicus            111111110000000
+Philisis_sphingis            111111000000000
+Philisis_sevketi             111110000000000
+Scotophilisis_lybicus        111000001111100
+Scotophilus_viridis          111000001111110
+Myotis_myotis                111000001111000
+Myotis_capaccinii            111000001110000
+Pipistrellus_kuhli           111000001100000
+Tadarida_aegyptiaca          111000001111111
+Molossus_molossus            111000001111111
+Natalus_tumidirostris        111000001000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

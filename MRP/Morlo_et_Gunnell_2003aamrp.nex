@@ -1,0 +1,24 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=10 NCHAR=12 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Galecyon_mordax        000000000000
+Prototomus_phobos      110000000000
+Thinocyon_velox        111111110000
+Thinocyon_medius       111111111100
+Iridodon_datzae        101110000000
+Limnocyon_verus        111111111111
+Limnocyon_potens       111111111111
+Prolimnocyon_atavus    111101100000
+Prolimnocyon_haematus  111001000000
+Oxyaenodon_dysodus     111111111010
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

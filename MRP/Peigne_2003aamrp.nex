@@ -1,0 +1,33 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=19 NCHAR=16 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Outgroup                   0000000000000000
+MA_PHQ_348                 1000000000000000
+Dinaelurus                 1110000000000000
+Nimravus_intermedius       1110000000000000
+Nimravus_brachyops         1110000000000000
+Eofelis                    1101000000000000
+Dinailurictis              1101111000000000
+Quercylurus                1101111000000000
+Dinictis                   1101100100000000
+Pogonodon                  1101100100000000
+Nanosmilus                 1101110010000000
+Hoplophoneus_mentalis      1101110011100000
+Hoplophoneus_primaevus     1101110011010000
+Hoplophoneus_occidentalis  1101110011010000
+Hoplophoneus_dakotensis    1101110011101000
+Eusmilus_sicarius          1101110011101111
+Eusmilus_cerebralis        1101110011101110
+Eusmilus_bidentatus        1101110011101100
+Eusmilus_villebramarensis  1101110011101111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+
