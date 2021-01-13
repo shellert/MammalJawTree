@@ -1,1 +1,1 @@
-metatree::PaleobiologyDBTaxaQuerier(taxon_no = "1", taxon_name = "Plagiaulax becklesii")
+metatree::PaleobiologyDBTaxaQuerier(taxon_no = "1", taxon_name = "Chacopterygus_minimus")
