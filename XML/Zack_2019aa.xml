@@ -2,55 +2,55 @@
 <SourceTree>
 	<Source>
 		<Author>
-			<List> add_author_here </List>
+			<List> Zack, S. P. </List>
 		</Author>
-		<Year>2014</Year>
-		<Title>insert_title_here</Title>
-		<Journal>Insert_journal_here</Journal>
-		<Volume>VOl_Num</Volume>
-		<Pages>Page_range</Pages>
+		<Year>2019</Year>
+		<Title>A skeleton of a Uintan machaeroidine ‘creodont’and the phylogeny of carnivorous eutherian mammals</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>17(8)</Volume>
+		<Pages>653-689</Pages>
 		<Booktitle/>
 		<Publisher/>
 		<City/>
 		<Editor/>
 	</Source>
 	<Taxa number="43">
-		<List recon_name="OG_Dummy" recon_no="-1">OG_Dummy</List>
+		<List recon_name="DELETE" recon_no="-1">OG_Dummy</List>
 		<List recon_name="Protungulatum_donnae" recon_no="51116">Protungulatum_donnae</List>
 		<List recon_name="Mithrandir_gillianus" recon_no="48774">Mithrandir_gillianus</List>
 		<List recon_name="Altacreodus_magnus" recon_no="331293">Altacreodus_magnus</List>
-		<List recon_name="Arfia_spp" recon_no="-1">Arfia_spp</List>
-		<List recon_name="Prolimnocyon_spp" recon_no="-1">Prolimnocyon_spp</List>
-		<List recon_name="Thinocyon_spp" recon_no="-1">Thinocyon_spp</List>
-		<List recon_name="Limnocyon_spp" recon_no="-1">Limnocyon_spp</List>
-		<List recon_name="Galecyon_spp" recon_no="-1">Galecyon_spp</List>
+		<List recon_name="Arfia_gingerichi,Arfia_junnei,Arfia_shoshoniensis,Arfia_zele" recon_no="331777;44313;44315;44316">Arfia_spp</List>
+		<List recon_name="Prolimnocyon_antiquus,Prolimnocyon_atavus,Prolimnocyon_chowi,Prolimnocyon_eerius,Prolimnocyon_haematus" recon_no="50792;50793;115879;50795;50797">Prolimnocyon_spp</List>
+		<List recon_name="Entomodon_comptus,Thinocyon_sichowensis" recon_no="46101;115881">Thinocyon_spp</List>
+		<List recon_name="Limnocyon_cuspidens,Limnocyon_medius,Limnocyon_potens,Limnocyon_velox,Limnocyon_verus" recon_no="80532;47674;47675;47678;47679">Limnocyon_spp</List>
+		<List recon_name="Galecyon_chronius,Galecyon_gallus,Galecyon_mordax,Galecyon_morloi,Galecyon_peregrinus" recon_no="347513;347694;46576;331780;347514">Galecyon_spp</List>
 		<List recon_name="Prototomus_martis" recon_no="51108">Prototomus_martis</List>
 		<List recon_name="Pyrocyon_strenuus" recon_no="424632">Pyrocyon_strenuus</List>
 		<List recon_name="Prototomus_phobos" recon_no="51110">Prototomus_phobos</List>
 		<List recon_name="Tritemnodon_agilis" recon_no="52514">Tritemnodon_agilis</List>
-		<List recon_name="Sinopa_spp" recon_no="-1">Sinopa_spp</List>
+		<List recon_name="Sinopa_aculeatus,Sinopa_ethiopica,Sinopa_eximia,Sinopa_grangeri,Sinopa_insectivorus,Sinopa_jilinia,Sinopa_lania,Sinopa_minor,Sinopa_pungens,Sinopa_rapax,Sinopa_viverrinus" recon_no="352681;86258;51588;51590;51592;345547;345548;51594;51598;51599;352682">Sinopa_spp</List>
 		<List recon_name="Tytthaena_parrisi" recon_no="52546">Tytthaena_parrisi</List>
 		<List recon_name="Palaeonictis_occidentalis" recon_no="49675">Palaeonictis_occidentalis</List>
 		<List recon_name="Dipsalidictis_krausei" recon_no="45861">Dipsalidictis_krausei</List>
-		<List recon_name="Oxyaena_spp" recon_no="-1">Oxyaena_spp</List>
-		<List recon_name="Machaeroides_spp" recon_no="-1">Machaeroides_spp</List>
-		<List recon_name="CM_2386" recon_no="-1">CM_2386</List>
+		<List recon_name="Oxyaena_forcipata,Oxyaena_gulo,Oxyaena_intermedia,Oxyaena_lupina,Oxyaena_pardalis,Oxyaena_simpsoni,Oxyaena_woutersi" recon_no="49534;49535;49537;49539;49541;49543;331783">Oxyaena_spp</List>
+		<List recon_name="Machaeroides_eothen,Machaeroides_simpsoni" recon_no="47837;47838">Machaeroides_spp</List>
+		<List recon_name="DELETE" recon_no="-1">CM_2386</List>
 		<List recon_name="Ictidopappus_mustelinus" recon_no="47336">Ictidopappus_mustelinus</List>
 		<List recon_name="Protictis_haydenianus" recon_no="50959">Protictis_haydenianus</List>
 		<List recon_name="Bryanictis_microlestes" recon_no="44716">Bryanictis_microlestes</List>
-		<List recon_name="Simpsonictis_spp" recon_no="-1">Simpsonictis_spp</List>
+		<List recon_name="Simpsonictis_jaynanneae,Simpsonictis_pegus,Simpsonictis_tenuis" recon_no="51574;51575;51576">Simpsonictis_spp</List>
 		<List recon_name="Viverravus_schaffi" recon_no="358991">Viverravus_schaffi</List>
 		<List recon_name="Viverravus_minutus" recon_no="52666">Viverravus_minutus</List>
 		<List recon_name="Viverravus_gracilis" recon_no="52662">Viverravus_gracilis</List>
 		<List recon_name="Viverravus_acutus" recon_no="52659">Viverravus_acutus</List>
-		<List recon_name="Didymictis_spp" recon_no="-1">Didymictis_spp</List>
+		<List recon_name="Didymictis_protenus,Didymictis_vancleveae" recon_no="45733;45736">Didymictis_spp</List>
 		<List recon_name="Uintacyon_gingerichi" recon_no="288526">Uintacyon_gingerichi</List>
 		<List recon_name="Uintacyon_massetericus" recon_no="52557">Uintacyon_massetericus</List>
 		<List recon_name="Vassacyon_promicrodon" recon_no="52632">Vassacyon_promicrodon</List>
-		<List recon_name="Gracilocyon_spp" recon_no="-1">Gracilocyon_spp</List>
+		<List recon_name="Gracilocyon_igniculus,Gracilocyon_rosei,Gracilocyon_rundlei,Gracilocyon_winkleri" recon_no="347702;174528;336923;174526">Gracilocyon_spp</List>
 		<List recon_name="Dormaalocyon_latouri" recon_no="331899">Dormaalocyon_latouri</List>
 		<List recon_name="Vulpavus_australis" recon_no="52674">Vulpavus_australis</List>
-		<List recon_name="Vulpavus_ovatus" recon_no="-1">Vulpavus_ovatus</List>
+		<List recon_name="Vulpavus_(Phlaodectes)_ovatus" recon_no="381678">Vulpavus_ovatus</List>
 		<List recon_name="Vulpavus_profectus" recon_no="52682">Vulpavus_profectus</List>
 		<List recon_name="Vulpavus_palustris" recon_no="52680">Vulpavus_palustris</List>
 		<List recon_name="Oodectes_jepseni" recon_no="49356">Oodectes_jepseni</List>
@@ -72,6 +72,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Zack_2019aa</Filename>
-	<Parent>add_parent_here</Parent>
+	<Parent>Spaulding_et_Flynn_2012aa</Parent>
 	<Sibling/>
 </SourceTree>

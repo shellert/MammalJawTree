@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> Zack, S. P. </List>
+			<List> Rose, K. D. </List>
+			<List> Holbrook, L. T. </List>
+			<List> Kumar, K. </List>
+			<List> Rana, R. S. </List>
+			<List> Smith, T. </List>
+		</Author>
+		<Year>2019</Year>
+		<Title>An enigmatic new ungulate‐like mammal from the early Eocene of India</Title>
+		<Journal>Papers in Palaeontology</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>1-24</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List recon_name="DELETE" recon_no="-1">OG_dummy</List>
+		<List recon_name="Aspanlestes_aptap" recon_no="137972">Aspanlestes_aptap</List>
+		<List recon_name="Parazhelestes_minor" recon_no="213246">Parazhelestes_minor</List>
+		<List recon_name="Eoungulatum_kudukensis" recon_no="213248">Eoungulatum_kudukensis</List>
+		<List recon_name="Valenia_wilsoni" recon_no="52628">Valenia_wilsoni</List>
+		<List recon_name="Simpsonodus_chacensis" recon_no="51579">Simpsonodus_chacensis</List>
+		<List recon_name="Choeroclaenus_turgidunculus" recon_no="45068">Choeroclaenus_turgidunculus</List>
+		<List recon_name="Maiorana_noctiluca" recon_no="47859">Maiorana_noctiluca</List>
+		<List recon_name="Mimatuta_minuial" recon_no="48619">Mimatuta_minuial</List>
+		<List recon_name="Protungulatum_donnae" recon_no="51116">Protungulatum_donnae</List>
+		<List recon_name="Oxyprimus_galadrielae" recon_no="49569">Oxyprimus_galadrielae</List>
+		<List recon_name="Baioconodon_nordicum" recon_no="225297">Baioconodon_nordicum</List>
+		<List recon_name="Carcinodon_simplex" recon_no="425147">Carcinodon_simplex</List>
+		<List recon_name="Carcinodon_olearyi" recon_no="246177">Carcinodon_olearyi</List>
+		<List recon_name="Carcinodon_antiquus" recon_no="246178">Carcinodon_antiquus</List>
+		<List recon_name="Chriacus_pelvidens" recon_no="45086">Chriacus_pelvidens</List>
+		<List recon_name="Loxolophus_hyattianus" recon_no="47791">Loxolophus_hyattianus</List>
+		<List recon_name="Mimotricentes_subtrigonus" recon_no="48649">Mimotricentes_subtrigonus</List>
+		<List recon_name="Arctocyon_ferox" recon_no="44261">Arctocyon_ferox</List>
+		<List recon_name="Deuterogonodon_noletil" recon_no="45615">Deuterogonodon_noletil</List>
+		<List recon_name="Eoconodon_ginibitohia" recon_no="156878">Eoconodon_ginibitohia</List>
+		<List recon_name="Eoconodon_gaudrianus" recon_no="46136">Eoconodon_gaudrianus</List>
+		<List recon_name="Eoconodon_coryphaeus" recon_no="46135">Eoconodon_coryphaeus</List>
+		<List recon_name="Goniacodon_levisanus" recon_no="46713">Goniacodon_levisanus</List>
+		<List recon_name="Goniacodon_crassicuspis" recon_no="46710">Goniacodon_crassicuspis</List>
+		<List recon_name="Goniacodon_hiawathae" recon_no="46712">Goniacodon_hiawatha</List>
+		<List recon_name="Triisodon_quivirensis" recon_no="52470">Triisodon_quivirensis</List>
+		<List recon_name="Andrewsarchus_mongoliensis" recon_no="253283">Andrewsarchus_mongoliensis</List>
+		<List recon_name="Oxyclaenus_cuspidatus" recon_no="49551">Oxyclaenus_cuspidatus</List>
+		<List recon_name="Hapalodectes_hetangensis" recon_no="142988">Hapalodectes_hetangensis</List>
+		<List recon_name="Hukoutherium_ambigum,Hukoutherium_shimemensis" recon_no="140420;140421">Hukoutherium_sp</List>
+		<List recon_name="Dissacus_navajovius" recon_no="45870">Dissacus_navajovius</List>
+		<List recon_name="Ankalagon_saurognathus" recon_no="44111">Ankalogon_saurognathus</List>
+		<List recon_name="Sinonyx_jiashanensis" recon_no="140416">Sinonyx_jiashanensis</List>
+		<List recon_name="Landenodon_woutersi" recon_no="349361">Landenodon_woutersi</List>
+		<List recon_name="Mondegodon_eutrigonus" recon_no="183659">Mondegodon_eutrigonus</List>
+		<List recon_name="Pahelia_mysteriosa" recon_no="397908">Pahelia_mysteriosa</List>
+		<List recon_name="Machocyon_abbasi" recon_no="345447">Machocyon_abbasi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zack_etal_2019ab</Filename>
+	<Parent>Tabuce_etal_2011aa</Parent>
+	<Sibling/>
+</SourceTree>

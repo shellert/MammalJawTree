@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes"?> 
+<SourceTree>
+	<Source>
+		<Author>
+			<List> Zack, S. P. </List>
+			<List> Rose, K. D. </List>
+			<List> Holbrook, L. T. </List>
+			<List> Kumar, K. </List>
+			<List> Rana, R. S. </List>
+			<List> Smith, T. </List>
+		</Author>
+		<Year>2019</Year>
+		<Title>An enigmatic new ungulate‐like mammal from the early Eocene of India</Title>
+		<Journal>Papers in Palaeontology</Journal>
+		<Volume>VOl_Num</Volume>
+		<Pages>1-24</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="76">
+		<List recon_name="Prokennalestes_minor,Prokennalestes_trofimovi" recon_no="185139;137755">Prokennalestes_spp</List>
+		<List recon_name="Aspanlestes_aptap" recon_no="137972">Aspanlestes_aptap</List>
+		<List recon_name="Protungulatum_donnae" recon_no="51116">Protungulatum_donnae</List>
+		<List recon_name="Paratricuspiodon_krumbiegeli" recon_no="349358">Paratricuspiodon_krumbiegeli</List>
+		<List recon_name="Tricuspiodon_magistrae,Tricuspiodon_rutimeyer,Tricuspiodon_sobrinus" recon_no="349356;349355;349357">Tricuspiodon_spp</List>
+		<List recon_name="Maiorana_noctiluca" recon_no="47859">Maiorana_noctiluca</List>
+		<List recon_name="Mimatuta_minuial,Mimatuta_morgoth" recon_no="48619;48620">Mimatuta_spp</List>
+		<List recon_name="Mithrandir_gillianus" recon_no="48774">Mithrandir_gillianus</List>
+		<List recon_name="Conacodon_cophater,Haploconus_entoconus" recon_no="45212;46786">Conacodon_spp</List>
+		<List recon_name="Ectoconus_ditrigonus" recon_no="45980">Ectoconus_ditrigonus</List>
+		<List recon_name="Hemithlaeus_kowalevskianus" recon_no="46871">Hemithlaeus_kowalevskianus</List>
+		<List recon_name="Periptychus_carinidens,Periptychus_coarctatus" recon_no="50167;50168">Periptychus_spp</List>
+		<List recon_name="Haploconus_angustus" recon_no="46783">Haploconus_angustus</List>
+		<List recon_name="Oxyprimus_galadrielae" recon_no="49569">Oxyprimus_galadrielae</List>
+		<List recon_name="Molinodus_suarezi" recon_no="256125">Molinodus_suarezi</List>
+		<List recon_name="Tiuclaenus_cotasi,Tiuclaenus_minutus,Tiuclaenus_robustus" recon_no="256131;256126;256132">Tiuclaenus_spp</List>
+		<List recon_name="Simoclaenus_sylvaticus" recon_no="256135">Simoclaenus_sylvaticus</List>
+		<List recon_name="Simpsonotus_praecursor" recon_no="334572">Simpsonotus_praecursor</List>
+		<List recon_name="Protolipternidae" recon_no="43490">Protolipternidae</List>
+		<List recon_name="Protoselene_griphus,Mioclaenus_opisthacus" recon_no="51093;48686">Protoselene_spp</List>
+		<List recon_name="Promioclaenus_acolytus,Ellipsodon_lemuroides" recon_no="50839;46039">Promioclaenus_spp</List>
+		<List recon_name="Choeroclaenus_turgidunculus" recon_no="45068">Choeroclaenus_turgidunculus</List>
+		<List recon_name="Mioclaenus_turgidus" recon_no="48694">Mioclaenus_turgidus</List>
+		<List recon_name="Litaletes_disjunctus,Litaletes_ondolinde" recon_no="47718;47721">Litaletes_spp</List>
+		<List recon_name="Hyopsodus_latidens,Hyopsodus_loomisi,Hyopsodus_minusculus,Hyopsodus_paulus" recon_no="47169;47173;47179;47181">Hyopsodus_spp</List>
+		<List recon_name="Diacodexis_metsiacus,Diacodexis_pakistanensis" recon_no="45623;68275">Diacodexis_spp</List>
+		<List recon_name="Bunophorus_etsagicus,Bunophorus_grangeri,Bunophorus_macropternus" recon_no="44735;44737;44738">Bunophorus_spp</List>
+		<List recon_name="Desmatoclaenus_hermaeus" recon_no="45598">Desmatoclaenus_hermaeus</List>
+		<List recon_name="Tetraclaenodon_puercensis" recon_no="52211">Tetraclaenodon_puercensis</List>
+		<List recon_name="Meniscotherium_chamense,Meniscotherium_tapiacitum" recon_no="48088;48092">Meniscotherium_spp</List>
+		<List recon_name="Phenacodus_intermedius,Phenacodus_trilobatus,Phenacodus_vortmani" recon_no="50309;50320;50321">Phenacodus_spp</List>
+		<List recon_name="Copecion_brachypternus,Copecion_davisi" recon_no="45230;45231">Copecion_spp</List>
+		<List recon_name="Ectocion_osbornianus,Ectocion_parvus" recon_no="45971;45972">Ectocion_spp</List>
+		<List recon_name="Cambaytherium_thewissi" recon_no="68281">Cambaytherium_thewissi</List>
+		<List recon_name="Protorohippus_venticolum,Sifrhippus_sandrae,Sifrhippus_grangeri,Eohippus_angustidens" recon_no="307874;223570;223573;46149">Protorohippus_spp</List>
+		<List recon_name="Homogalax_protapirinus" recon_no="47084">Homogalax_spp</List>
+		<List recon_name="Baioconodon_denverensis,Baioconodon_nordicus,Baioconodon_wovokae" recon_no="44407;44411;44412">Baioconodon_spp</List>
+		<List recon_name="Loxolophus_hyattianus" recon_no="47791">Loxolophus_hyattianus</List>
+		<List recon_name="Carcinodon_antiquus,Carcinodon_olearyi" recon_no="246178;246177">Carcinodon_spp</List>
+		<List recon_name="Deltatherium_fundaminis" recon_no="45573">Deltatherium_spp</List>
+		<List recon_name="Chriacus_pelvidens" recon_no="45086">Chriacus_pelvidens</List>
+		<List recon_name="Chriacus_gallinae" recon_no="45079">Chriacus_gallinae</List>
+		<List recon_name="Thryptacodon_antiquus" recon_no="52284">Thryptacodon_antiquus</List>
+		<List recon_name="Mimotricentes_subtrigonus" recon_no="48649">Mimotricentes_subtrigonus</List>
+		<List recon_name="Lambertocyon_eximius" recon_no="47476">Lambertocyon_eximius</List>
+		<List recon_name="Claenodon_ferox" recon_no="45164">Claenodon_spp</List>
+		<List recon_name="Arctocyon_mumak" recon_no="44264">Mentoclaenodon_mumak</List>
+		<List recon_name="Anacodon_ursidens" recon_no="44014">Anacodon_ursidens</List>
+		<List recon_name="Eoconodon_coryphaeus,Eoconodon_ginibitohia,Eoconodon_hutchisoni,Eoconodon_gaudrianus" recon_no="46135;156878;260081;46136">Eoconodon_spp</List>
+		<List recon_name="Goniacodon_levisanus" recon_no="46713">Goniacodon_levisanus</List>
+		<List recon_name="Oxyclaenus_cuspidatus" recon_no="49551">Oxyclaenus_cuspidatus</List>
+		<List recon_name="Walbeckodon_krumbiegeli" recon_no="252404">Walbeckodon_krumbiegeli</List>
+		<List recon_name="Paschatherium_dolloi,Paschatherium_marianae" recon_no="252407;118641">Paschatherium_spp</List>
+		<List recon_name="Prolouisina_atavella" recon_no="252424">Prolouisina_atavella</List>
+		<List recon_name="Ocepeia_daouiensis,Ocepeia_grandis" recon_no="98248;289294">Teilhardimys_spp</List>
+		<List recon_name="Haplaletes_disceptatrix" recon_no="46778">Haplaletes_disceptatrix</List>
+		<List recon_name="Litomylus_dissentaneus" recon_no="47732">Litomylus_dissentaneus</List>
+		<List recon_name="Phenacodaptes_sabulosus" recon_no="50298">Phenacodaptes_sabulosus</List>
+		<List recon_name="Apheliscus_chydaeus,Apheliscus_insidiosus,Apheliscus_nitidus" recon_no="44157;44158;44159">Apheliscus_spp</List>
+		<List recon_name="Haplomylus_simpsoni,Haplomylus_speirianus" recon_no="46797;46798">Haplomylus_spp</List>
+		<List recon_name="Chambius_kasserinensis" recon_no="255588">Chambius_kasserinensis</List>
+		<List recon_name="Orthaspidotherium_edwardsi" recon_no="172038">Orthaspidotherium_edwardsi</List>
+		<List recon_name="Pleuraspidotherium_aumonieri" recon_no="425137">Pleuraspidotherium_aumonieri</List>
+		<List recon_name="Ocepeia_daouiensis,Ocepeia_grandis" recon_no="98248;289294">Ocepeia_daouiensis</List>
+		<List recon_name="Abdounodus_hamdii" recon_no="98246">Abdounodus_hamdii</List>
+		<List recon_name="Eritherium_azzouzorum" recon_no="157502">Eritherium_azzouzorum</List>
+		<List recon_name="Phosphatherium_escuilliei" recon_no="98251">Phosphatherium_escuilliei</List>
+		<List recon_name="Dimaitherium_patnaiki" recon_no="172061">Dimaitherium_patnaiki</List>
+		<List recon_name="Thyrohyrax_domorictus,Thyrohyrax_meyeri" recon_no="143634;333943">Thyrohyrax_spp</List>
+		<List recon_name="Pahelia_mysteriosa" recon_no="397908">Pahelia_mysteriosa</List>
+		<List recon_name="Machocyon_abbasi" recon_no="345447">Machocyon_abbasi</List>
+		<List recon_name="Quettacyon_parachai" recon_no="345417">Quettacyon_parachai</List>
+		<List recon_name="Sororocyon_usmanii" recon_no="164178">Sororocyon_usmanii</List>
+		<List recon_name="Teilhardimys_brisswalteri,Teilhardimys_musculus,Teilhardimys_reisi" recon_no="252430;252428;252429">Lessnessina_spp</List>
+		<List recon_name="Sigynorum_magnadivisus" recon_no="331088">Sigynorum_magnadivisus</List>
+		<List recon_name="Kharmerungulatum_vanvaleni" recon_no="111054">Kharmerungulatum_vanvaleni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="0">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zack_etal_2019aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>
